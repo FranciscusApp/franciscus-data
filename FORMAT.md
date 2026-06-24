@@ -1,8 +1,8 @@
 # Franciscus Book Format Specification
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Normative  
-**Applies to:** all files under `books/`
+**Applies to:** all files under `books/` — source texts (`<id>.md`), translations (`<id>.<lang>.md`), and annotation sidecars (`<id>.json`)
 
 ## 1. Overview
 
@@ -121,7 +121,72 @@ Within a `<p>` element, a number enclosed in square brackets denotes a verse num
 
 Verse numbers are presentational. They are consumed by the renderer for display purposes and carry no semantic meaning for the data engine.
 
-## 10. Conformance Summary
+## 10. Annotation Sidecar Files
+
+Semantic annotations for a book live in a JSON file beside it, sharing the book's
+stem: `<id>.json` (e.g. `1Cel.json` accompanies `1Cel.md`). The `book_id` is taken
+from the filename and is NOT repeated inside the file.
+
+The file is a JSON array of annotation objects:
+
+```json
+[
+  {
+    "paragraph": "prolog-1",
+    "attributes": "person:st_francis_of_assisi, person:pope_gregory_ix",
+    "relations": "same_episode:LMj-prol-1",
+    "by": "Claude <noreply@anthropic.com>",
+    "by_type": "ai",
+    "verified": false
+  }
+]
+```
+
+| Field          | Type    | Level    | Description                                                                |
+|----------------|---------|----------|----------------------------------------------------------------------------|
+| `paragraph`    | string  | REQUIRED | The `id` of the `<p>` (§6) this annotation applies to                      |
+| `paragraph_to` | string  | OPTIONAL | Last paragraph `id` when the annotation spans a range starting at `paragraph` |
+| `attributes`   | string  | OPTIONAL | Comma-separated list of `type:value` pairs (§10.1)                         |
+| `relations`    | string  | OPTIONAL | Comma-separated list of `reltype:target` pairs (§10.2)                     |
+| `by`           | string  | REQUIRED | Identity of the annotator (name, optionally `Name <email>`)                |
+| `by_type`      | string  | OPTIONAL | `ai` or `human`; defaults to `ai`                                          |
+| `verified`     | boolean | OPTIONAL | Whether a human has reviewed the annotation; defaults to `false`           |
+| `comment`      | string  | OPTIONAL | Free-text note (English); applies to every pair expanded from the entry    |
+
+An entry MUST carry at least one of `attributes` or `relations`. A paragraph MAY
+appear in more than one object; the data engine merges them.
+
+### 10.1 `attributes` Construction
+
+Each item is a `type:value` pair, items separated by commas. Whitespace around
+commas and the colon is insignificant. The data engine expands each pair into one
+annotation record.
+
+- `type` is one of the attribute tables defined in `attributes.toml`
+  (`person`, `place`, `event`, `topic`, `virtue`).
+- `value` MUST be a value listed under that type in `attributes.toml`.
+
+```
+person:st_francis_of_assisi, place:assisi, event:canonization_1228
+```
+
+### 10.2 `relations` Construction
+
+Each item is a `reltype:target` pair, items separated by commas. Each pair records
+a cross-work parallel from this paragraph to another.
+
+- `reltype` is one of `same_episode` (the same narrated episode) or `related_to`
+  (otherwise connected).
+- `target` is a fully-qualified paragraph key `<book_id>-<paragraph_id>`, where
+  `book_id` is the target work's id and `paragraph_id` is its `<p>` id. The split
+  is on the first hyphen, so `book_id` MUST NOT contain a hyphen (the paragraph id
+  may, e.g. `LMj-mir10-6` → book `LMj`, paragraph `mir10-6`).
+
+```
+same_episode:LMj-mir10-6, related_to:2Cel-121
+```
+
+## 11. Conformance Summary
 
 | Requirement                            | Level    |
 |----------------------------------------|----------|
@@ -134,3 +199,6 @@ Verse numbers are presentational. They are consumed by the renderer for display 
 | Scripture refs in `<ref to="…">`       | REQUIRED |
 | `label` attribute on `<p>`             | OPTIONAL |
 | `[n]` verse markers inside `<p>`       | OPTIONAL |
+| Annotations in sidecar `<id>.json`     | OPTIONAL |
+| `paragraph` + `attributes` + `by`      | REQUIRED (per annotation) |
+| `by_type` / `verified` on annotation   | OPTIONAL |

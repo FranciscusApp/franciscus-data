@@ -56,7 +56,7 @@ JSON files in `annotations/`, one per work (e.g. `1Cel.json`). Each annotation e
 
 - `paragraph`, the paragraph key. Optionally, `paragraph_to` if the annotation spans multiple paragraphs.
 - **attributes** — typed attributes per paragraph: `virtue`, `topic`, `event`, `place`, `person`. These are a single string, csv, in the format `type:value`. i.e. `virtue:obedience, person:gregorius_ix` etc.
-- **relations** — cross-work paragraph parallels: `same_episode`, `related_to`. Same provenance tracking and optional comment.
+- **relations** — cross-work paragraph parallels: `same_episode`, `related_to`. These are a single string, csv, in the format `same_epiode:unique_identifier`. i.e. `same_epiode:LMj-mir10-6, related_to:2Cel-121` etc.
 - records provenance (`by`: `Name <email>`, `by_type`: `ai` or `human`), verification status (`verified`), and optional `comment`.
 
 ## Attribute Pages
