@@ -52,10 +52,12 @@ license: CC0-1.0
 
 ## Annotations
 
-JSON files in `annotations/`, one per work (e.g. `1Cel.json`). Each entry is paragraph-keyed. A file contains:
+JSON files in `annotations/`, one per work (e.g. `1Cel.json`). Each annotation entry contains:
 
-- **annotations** — typed attributes per paragraph: `virtue`, `topic`, `event`, `place`, `person`. Each entry records provenance (`by`: `ai` or `human`), verification status (`verified`), and optional `evidence`.
-- **relations** — cross-work paragraph parallels: `idem_episodium`, `rielaborazione_di`, `dipende_da`, `cita`. Same provenance tracking.
+- `paragraph`, the paragraph key. Optionally, `paragraph_to` if the annotation spans multiple paragraphs.
+- **attributes** — typed attributes per paragraph: `virtue`, `topic`, `event`, `place`, `person`. These are a single string, csv, in the format `type:value`. i.e. `virtue:obedience, person:gregorius_ix` etc.
+- **relations** — cross-work paragraph parallels: `same_episode`, `related_to`. Same provenance tracking and optional comment.
+- records provenance (`by`: `Name <email>`, `by_type`: `ai` or `human`), verification status (`verified`), and optional `comment`.
 
 ## Attribute Pages
 
