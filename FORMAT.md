@@ -1,8 +1,8 @@
 # Franciscus Book Format Specification
 
-**Version:** 1.1  
+**Version:** 1.2  
 **Status:** Normative  
-**Applies to:** all files under `books/` — source texts (`<id>.md`), translations (`<id>.<lang>.md`), and annotation sidecars (`<id>.json`)
+**Applies to:** all files under `books/` — source texts (`<id>.md`), translations (`<id>.<lang>.md`), and annotation sidecars (`<id>.json`) — and topic pages under `topics/` — source pages (`<type>:<value>.md`) and translations (`<type>:<value>.<lang>.md`).
 
 ## 1. Overview
 
@@ -40,6 +40,27 @@ title: "Vita Prima S. Francisci"
 author: "Tommaso da Celano"
 date: "1228"
 reference_edition: "Analecta Franciscana X (Quaracchi)"
+license: CC0-1.0
+---
+```
+
+### 3.1 Translation Files
+
+A translation file is named `<id>.<lang>.md` (BCP-47 `<lang>` suffix on the
+source stem) and lives beside the source it translates. The frontmatter MUST
+repeat the same `id` as the source so the engine can match them, and the
+`title:` field MUST be in the target language — the rest of the application
+displays it as the book's title whenever the active corpus language is
+`<lang>`. `author`, `date`, `reference_edition` and `license` SHOULD match the
+source; only `title` (and per-chapter `##` headings, §5) are translated.
+
+```yaml
+---
+id: 1Cel
+title: "Vita prima di San Francesco"
+author: "Tommaso da Celano"
+date: "1228-1229"
+reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
 license: CC0-1.0
 ---
 ```
@@ -186,7 +207,59 @@ a cross-work parallel from this paragraph to another.
 same_episode:LMj-mir10-6, related_to:2Cel-121
 ```
 
-## 11. Conformance Summary
+## 11. Topic Pages
+
+Topic pages are long-form Markdown descriptions of a single annotation target
+(a person, place, event, theme, virtue, …). They live under `topics/`, one
+file per `(type, value)` pair, named `<type>:<value>.md`. Translations are
+named `<type>:<value>.<lang>.md`.
+
+```
+topics/person:st_clare_of_assisi.md       # source page (English by convention)
+topics/person:st_clare_of_assisi.it.md    # Italian translation
+```
+
+The `(type, value)` pair is parsed from the filename: split on `:`, then on
+the first `.` of the remainder to separate the optional `<lang>` suffix. The
+filename is authoritative; the frontmatter `type:` field is a sanity check.
+
+### 11.1 Frontmatter
+
+| Field         | Type   | Where           | Level    | Description |
+|---------------|--------|-----------------|----------|-------------|
+| `type`        | string | source + translation | REQUIRED | One of the topic types in `topics.toml` (`person`, `place`, `event`, `theme`, `virtue`, …). MUST match the `<type>` prefix of the filename. |
+| `description` | string | source + translation | REQUIRED | Short label / page heading. In a translation file, MUST be in the target language. |
+| `lang_slug`   | string | translation only     | OPTIONAL | Alternative URL slug for that language (e.g. `st_chiara_di_assisi` for the Italian translation of `st_clare_of_assisi`). Source pages MUST NOT set this. |
+
+Body is the page's long-form Markdown, rendered as-is by the SPA.
+
+```yaml
+---
+type: person
+description: "Saint Clare of Assisi"
+---
+
+Saint Clare of Assisi (1194–1253) was the first female follower of Saint Francis...
+```
+
+```yaml
+---
+type: person
+lang_slug: st_chiara_di_assisi
+description: "Santa Chiara d'Assisi"
+---
+
+Santa Chiara d'Assisi (1194–1253) fu la prima seguace femminile di San Francesco...
+```
+
+### 11.2 Resolution of `lang_slug`
+
+A `lang_slug` is an alias only — the canonical URL of a topic page is always
+`/topics/<type>/<value>`, where `<value>` is the source filename's value. The
+SPA accepts both the canonical value and the active corpus language's
+`lang_slug`; lang_slug URLs redirect to the canonical URL.
+
+## 12. Conformance Summary
 
 | Requirement                            | Level    |
 |----------------------------------------|----------|
@@ -200,5 +273,8 @@ same_episode:LMj-mir10-6, related_to:2Cel-121
 | `label` attribute on `<p>`             | OPTIONAL |
 | `[n]` verse markers inside `<p>`       | OPTIONAL |
 | Annotations in sidecar `<id>.json`     | OPTIONAL |
-| `paragraph` + `topics` + `by`      | REQUIRED (per annotation) |
+| `paragraph` + `topics` + `by`          | REQUIRED (per annotation) |
 | `by_type` / `verified` on annotation   | OPTIONAL |
+| Translation file `title:` localized    | REQUIRED |
+| Topic page `type` + `description`      | REQUIRED |
+| Topic translation `lang_slug`          | OPTIONAL |
