@@ -1,2 +1,3 @@
 .claude
 raw-sources
+*.progress.jsonl

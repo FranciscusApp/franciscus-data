@@ -3,92 +3,131 @@
 
 [virtue]
 values = [
-    "paupertas",
-    "humilitas",
-    "oboedientia",
-    "castitas",
-    "caritas",
-    "patientia",
-    "simplicitas",
-    "laetitia",
-    "oratio",
-    "poenitentia",
-    "misericordia",
+    "faith",
+    "hope",
+    "charity",
+
+    "humility",
+    "obedience",
+    "fortitude",
+    "patience",
+    "mercy",
+    "chastity",
+    "joy",
+    "simplicity",
+    "poverty",
 ]
 
 [topic]
 values = [
-    "ordo_fratres_minorum",
-    "ordo_sanctae_clarae",
-    "tertius_ordo",
-    "conversio",
-    "regula",
-    "praedicatio",
+    "order_of_friars_minor",
+    "order_of_saint_clare",
+    "third_order",
+    "conversion",
+    "rule",
+    "preaching",
     "stigmata",
-    "miraculum",
-    "visio",
-    "missio",
-    "crux",
-    "eucharistia",
-    "mors",
+    "miracle",
+    "vision",
+    "mission",
+    "cross",
+    "death",
+    "baptism",
+    "eucharist",
+    "reconciliation",
+    "marriage",
+    "holy_order",
+    "anointment",
+    "fasting",
+    "prayer"
 ]
 
 [person]
 values = [
-    "franciscus",
-    "clara",
-    "gregorius_ix",
-    "innocentius_iii",
-    "honorius_iii",
-    "hugolinus",
-    "elias",
-    "bernardus_quintavalle",
-    "petrus_catanii",
-    "aegidius",
-    "leo",
-    "rufinus",
-    "angelus",
-    "massaeus",
-    "iuniperus",
-    "thomas_celanensis",
-    "bonaventura",
-    "dominicus",
-    "sultanus",
+    "st_francis_of_assisi",
+    "st_clare_of_assisi",
+
+    "pica_de_bourlemont",
+    "pietro_di_bernardone",
+    "bishop_guido_of_assisi",
+
+    "pope_innocent_iii",
+    "pope_honorius_iii",
+    "pope_gregory_ix",
+
+    "fr_bernard_of_quintavalle",
+    "fr_peter_catanii",
+    "fr_elias_of_cortona",
+    "fr_giles_of_assisi",
+    "fr_leo",
+    "fr_rufino_of_assisi",
+    "fr_angelo_tancredi",
+    "fr_masseo_of_marignano",
+    "fr_juniper",
+    "fr_illuminato_of_rieti",
+    "brother_pacifico",
+
+    "st_dominic",
+    "sultan_al_kamil",
+
+    "lady_jacopa_dei_settesoli",
+
+    "thomas_of_celano",
+    "st_bonaventure"
 ]
 
 [place]
 values = [
-    "assisium",
-    "roma",
+    "assisi",
     "portiuncula",
-    "sanctus_damianus",
-    "rivotortus",
-    "mons_alvernae",
-    "greccium",
-    "sancta_maria_angelorum",
-    "spoletum",
-    "fulgineum",
-    "perusium",
-    "bononia",
-    "terra_sancta",
-    "aegyptus",
+    "basilica_of_st_mary_of_the_angels",
+    "san_damiano",
+    "rivotorto",
+    "eremo_delle_carceri",
+
+    "greccio",
+    "la_verna",
+
+    "bevagna",
+    "gubbio",
+
+    "spoleto",
+    "foligno",
+    "perugia",
+    "bologna",
+    "siena",
+    "fonte_colombo",
+    "cortona",
+    "nocera_umbra",
+
+    "rome",
+
     "damietta",
+    "egypt",
+    "holy_land"
 ]
 
 [event]
 values = [
-    "conversio_francisci",
-    "visio_crucifixi",
-    "exspoliatio",
-    "reparatio_ecclesiae",
-    "vocatio_fratrum",
-    "approbatio_regulae_1209",
-    "capitulum_stuoiarum",
-    "praedicatio_avibus",
-    "iter_orientale",
-    "impressio_stigmatum",
-    "canticum_solis",
-    "transitus_francisci",
-    "canonizatio_1228",
-    "translatio_1230",
+    "conversion_of_francis",
+    "vision_of_san_damiano_crucifix",
+    "renunciation_of_possessions",
+    "repair_of_san_damiano_and_churches",
+    "encounter_with_leper",
+
+    "calling_of_the_first_brothers",
+    "approval_of_the_rule_1209",
+
+    "preaching_to_the_birds",
+    "wolf_of_gubbio",
+    "journey_to_the_sultan_and_east",
+
+    "chapter_of_mats",
+    "canticle_of_the_sun",
+
+    "imprinting_of_the_stigmata",
+
+    "death_of_francis_passing_of_francis",
+    "canonization_1228",
+    "translation_1230"
 ]
