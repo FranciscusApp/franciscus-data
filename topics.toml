@@ -1,4 +1,4 @@
-# Contains a list of valid attribute values that can be
+# Contains a list of valid topic values that can be
 # used in annotations.
 
 [virtue]
@@ -18,7 +18,7 @@ values = [
     "poverty",
 ]
 
-[topic]
+[theme]
 values = [
     "order_of_friars_minor",
     "order_of_saint_clare",

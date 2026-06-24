@@ -7,8 +7,8 @@ The medieval Latin texts are in the public domain; structure, tags and annotatio
 ## Language conventions
 
 - **Source texts** (`books/`) are in medieval Latin. The canonical text has no language suffix (e.g. `1Cel.md`); translations use a BCP-47 tag (e.g. `1Cel.it.md`).
-- **Annotation evidence** (`annotations/`) and **attribute page descriptions** (`attributes/`) are written in English — they are application-level content, not source material.
-- Attribute values (e.g. `paupertas`, `Assisium`) and relation types (e.g. `dipende_da`) are Latin/domain identifiers used as machine keys.
+- **Annotation evidence** (`annotations/`) and **topic page descriptions** (`topics/`) are written in English — they are application-level content, not source material.
+- Topic values (e.g. `paupertas`, `Assisium`) and relation types (e.g. `dipende_da`) are Latin/domain identifiers used as machine keys.
 
 ## Contents
 
@@ -55,15 +55,15 @@ license: CC0-1.0
 JSON files in `annotations/`, one per work (e.g. `1Cel.json`). Each annotation entry contains:
 
 - `paragraph`, the paragraph key. Optionally, `paragraph_to` if the annotation spans multiple paragraphs.
-- **attributes** — typed attributes per paragraph: `virtue`, `topic`, `event`, `place`, `person`. These are a single string, csv, in the format `type:value`. i.e. `virtue:obedience, person:gregorius_ix` etc.
+- **topics** — typed topics per paragraph: `virtue`, `theme`, `event`, `place`, `person`. These are a single string, csv, in the format `type:value`. i.e. `virtue:obedience, person:gregorius_ix` etc.
 - **relations** — cross-work paragraph parallels: `same_episode`, `related_to`. These are a single string, csv, in the format `same_epiode:unique_identifier`. i.e. `same_epiode:LMj-mir10-6, related_to:2Cel-121` etc.
 - records provenance (`by`: `Name <email>`, `by_type`: `ai` or `human`), verification status (`verified`), and optional `comment`.
 
-## Attribute Pages
+## Topic Pages
 
-Markdown files under `attributes/` (e.g. `attributes/humilitas.md`) with frontmatter fields `name` and `type`. Each page provides curated content about a virtue, topic, person, or place; the app auto-generates a list of relevant passages from the annotations.
+Markdown files under `topics/` (e.g. `topics/humilitas.md`) with frontmatter fields `name` and `type`. Each page provides curated content about a virtue, theme, person, or place; the app auto-generates a list of relevant passages from the annotations.
 
-Translatable via the same duplicated-file convention as books (e.g. `attributes/humilitas.it.md`).
+Translatable via the same duplicated-file convention as books (e.g. `topics/humilitas.it.md`).
 
 ## Translations
 

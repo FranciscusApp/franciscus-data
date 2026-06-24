@@ -133,7 +133,7 @@ The file is a JSON array of annotation objects:
 [
   {
     "paragraph": "prolog-1",
-    "attributes": "person:st_francis_of_assisi, person:pope_gregory_ix",
+    "topics": "person:st_francis_of_assisi, person:pope_gregory_ix",
     "relations": "same_episode:LMj-prol-1",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
@@ -146,25 +146,25 @@ The file is a JSON array of annotation objects:
 |----------------|---------|----------|----------------------------------------------------------------------------|
 | `paragraph`    | string  | REQUIRED | The `id` of the `<p>` (§6) this annotation applies to                      |
 | `paragraph_to` | string  | OPTIONAL | Last paragraph `id` when the annotation spans a range starting at `paragraph` |
-| `attributes`   | string  | OPTIONAL | Comma-separated list of `type:value` pairs (§10.1)                         |
+| `topics`   | string  | OPTIONAL | Comma-separated list of `type:value` pairs (§10.1)                         |
 | `relations`    | string  | OPTIONAL | Comma-separated list of `reltype:target` pairs (§10.2)                     |
 | `by`           | string  | REQUIRED | Identity of the annotator (name, optionally `Name <email>`)                |
 | `by_type`      | string  | OPTIONAL | `ai` or `human`; defaults to `ai`                                          |
 | `verified`     | boolean | OPTIONAL | Whether a human has reviewed the annotation; defaults to `false`           |
 | `comment`      | string  | OPTIONAL | Free-text note (English); applies to every pair expanded from the entry    |
 
-An entry MUST carry at least one of `attributes` or `relations`. A paragraph MAY
+An entry MUST carry at least one of `topics` or `relations`. A paragraph MAY
 appear in more than one object; the data engine merges them.
 
-### 10.1 `attributes` Construction
+### 10.1 `topics` Construction
 
 Each item is a `type:value` pair, items separated by commas. Whitespace around
 commas and the colon is insignificant. The data engine expands each pair into one
 annotation record.
 
-- `type` is one of the attribute tables defined in `attributes.toml`
-  (`person`, `place`, `event`, `topic`, `virtue`).
-- `value` MUST be a value listed under that type in `attributes.toml`.
+- `type` is one of the topic tables defined in `topics.toml`
+  (`person`, `place`, `event`, `theme`, `virtue`).
+- `value` MUST be a value listed under that type in `topics.toml`.
 
 ```
 person:st_francis_of_assisi, place:assisi, event:canonization_1228
@@ -200,5 +200,5 @@ same_episode:LMj-mir10-6, related_to:2Cel-121
 | `label` attribute on `<p>`             | OPTIONAL |
 | `[n]` verse markers inside `<p>`       | OPTIONAL |
 | Annotations in sidecar `<id>.json`     | OPTIONAL |
-| `paragraph` + `attributes` + `by`      | REQUIRED (per annotation) |
+| `paragraph` + `topics` + `by`      | REQUIRED (per annotation) |
 | `by_type` / `verified` on annotation   | OPTIONAL |
