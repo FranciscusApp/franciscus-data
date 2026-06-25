@@ -15,6 +15,7 @@ The medieval Latin texts are in the public domain; structure, tags and annotatio
 ```
 books/            Structured Markdown sources (see FORMAT.md)
 annotations/      Annotations and relations in JSON, one file per work
+editor-notes/     Free-text editorial notes, one file per work (not ingested)
 ```
 
 ### Works included (v1)
@@ -70,6 +71,25 @@ Translatable via the same duplicated-file convention as books (e.g. `topics/humi
 Content translations use duplicated `.md` files per language (e.g. `books/1Cel.it.md`). Each translation follows the same FORMAT.md spec and preserves the same paragraph and aside IDs as the Latin original — it is a standalone, distributable document.
 
 The canonical Latin text has no language suffix (`books/1Cel.md`). Translations are identified by a BCP-47 language tag before the extension.
+
+## Editor notes
+
+Free-text editorial notes about a work live in `editor-notes/<id>.md`, sharing
+the work's stem (e.g. `editor-notes/3Soc.md` accompanies `books/3Soc.md`). They
+record provenance, judgement calls, known source defects and TODOs for human
+review — context that doesn't belong in the structured text or annotations.
+
+These files are **not parsed and never enter the database**; they are for
+editors only. Each file is an append-only log of notes, every note in the form:
+
+```markdown
+---
+Name <email> - YYYY-MM-DD HH:MM TZ
+Note content (free Markdown, may span multiple lines).
+---
+```
+
+The `---` rules double as the separator between consecutive notes.
 
 ## Contributing
 

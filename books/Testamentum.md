@@ -1,5 +1,5 @@
 ---
-id: testamentum
+id: Testamentum
 title: "Testamentum (Franciscus Assisiensis)"
 author: "Franciscus Assisiensis"
 date: "1226"

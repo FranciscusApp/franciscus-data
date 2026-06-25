@@ -1,0 +1,35 @@
+# Tell the app repo (franciscus) to rebuild and redeploy the site whenever the
+# corpus changes here. This sends a `repository_dispatch` event of type
+# `corpus-updated`, which the deploy workflow in franciscus listens for.
+#
+# Prerequisite: a repository secret named APP_REPO_DISPATCH_TOKEN — a PAT (or
+# fine-grained token) with `contents: write` (classic: `repo`) scope on
+# snowstorm-alfredosalata/franciscus. The default GITHUB_TOKEN cannot dispatch
+# across repositories, so a token is required.
+#
+# This file is OPTIONAL. Without it, the site simply rebuilds on the next push
+# to the app repo (or a manual run). See franciscus/DEPLOYMENT.md.
+
+name: Trigger site rebuild
+
+on:
+  push:
+    branches: [master]
+    # Only bother the app repo when actual corpus content changes.
+    paths:
+      - 'books/**'
+      - 'topics/**'
+      - 'topics.toml'
+  workflow_dispatch:
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch corpus-updated to franciscus
+        run: |
+          curl -sSf -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.APP_REPO_DISPATCH_TOKEN }}" \
+            https://api.github.com/repos/snowstorm-alfredosalata/franciscus/dispatches \
+            -d '{"event_type":"corpus-updated"}'
