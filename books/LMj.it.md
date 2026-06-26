@@ -1,6 +1,6 @@
 ---
 id: LMj
-title: "Legenda Maior Sancti Francisci"
+title: "Leggenda Maggiore di San Francesco"
 author: "Bonaventura da Bagnoregio"
 date: "1260-1263"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
@@ -985,7 +985,8 @@ OPUSCOLO SECONDO
 <p id="cap11-8">
 [1] In quel medesimo tempo, mentre faceva ritorno da oltremare, avendo per compagno frate Leonardo d'Assisi, accadde che, affaticato e spossato, montasse per breve tratto su un asinello.
 [2] Il compagno, che lo seguiva e anch'egli non poco stanco, cominciò a dire fra sé <ref to="Luc 11,38"></ref>, cedendo a un pensiero tutto umano:
-[3] emovo "Non giocavano alla pari i suoi genitori e i miei. Ecco: lui cavalca, e io a piedi conduco il suo asino".
+[3] 
+emovo "Non giocavano alla pari i suoi genitori e i miei. Ecco: lui cavalca, e io a piedi conduco il suo asino".
 [4] <ref to="Matt 1:20">Mentre quegli pensava queste cose</ref>, l'uomo santo discese subito dall'asino e disse: "Non conviene, fratello, che io cavalchi e tu venga a piedi, poiché nel secolo sei stato più nobile e più potente di me".
 [5] Il frate restò allora attonito e, soffuso di rossore, riconoscendosi colto in fallo, <ref to="Esth 8:3; Mark 5:22">si gettò ai suoi piedi</ref> e, bagnato di lacrime, gli rivelò il pensiero nascosto e implorò perdono.
 </p>

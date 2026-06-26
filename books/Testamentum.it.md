@@ -1,7 +1,7 @@
 ---
 id: Testamentum
-title: "Testamentum (Franciscus Assisiensis)"
-author: "Franciscus Assisiensis"
+title: "Testamento"
+author: "Francesco d'Assisi"
 date: "1226"
 reference_edition: "Official OFM.org Version Revised with Chapters and Verse no."
 license: CC0-1.0

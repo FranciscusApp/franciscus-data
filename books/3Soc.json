@@ -204,7 +204,7 @@
   },
   {
     "paragraph": "30",
-    "topics": "person:st_francis_of_assisi, person:fr_bernard_of_quintavalle, place:san_damiano, virtue:poverty, theme:repair_of_san_damiano_and_churches",
+    "topics": "person:st_francis_of_assisi, person:fr_bernard_of_quintavalle, place:san_damiano, virtue:poverty, event:repair_of_san_damiano_and_churches",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
@@ -407,7 +407,7 @@
   },
   {
     "paragraph": "59",
-    "topics": "theme:chapter_of_mats, theme:preaching, person:st_francis_of_assisi, virtue:mercy, virtue:humility",
+    "topics": "event:chapter_of_mats, theme:preaching, person:st_francis_of_assisi, virtue:mercy, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
@@ -470,7 +470,7 @@
   },
   {
     "paragraph": "68",
-    "topics": "person:st_francis_of_assisi, theme:death, event:death_of_francis_passing_of_francis, virtue:charity, virtue:prayer",
+    "topics": "person:st_francis_of_assisi, theme:death, event:death_of_francis_passing_of_francis, virtue:charity, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false

@@ -69,7 +69,7 @@ A few things that trip people up:
   all-or-nothing. If you human-author or review a translation, say so in your PR /
   email and in [CREDITS.md](CREDITS.md) so it's at least recorded out of band.
 - **Annotation values must exist in `topics.toml`.** `virtue:poverty` is valid;
-  `virtue:prayer` is not unless you add it. Add new values to `topics.toml` in
+  `virtue:temperance` is not unless you add it. Add new values to `topics.toml` in
   the same change.
 - **Mark provenance honestly.** New annotations you write by hand are
   `by_type: human`; set `verified: true` only for content a human has actually

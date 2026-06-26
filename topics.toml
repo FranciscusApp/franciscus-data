@@ -39,7 +39,8 @@ values = [
     "holy_order",
     "anointment",
     "fasting",
-    "prayer"
+    "prayer",
+    "canticle_of_the_sun"
 ]
 
 [person]

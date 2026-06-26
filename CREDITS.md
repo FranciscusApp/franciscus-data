@@ -11,9 +11,13 @@ request, following the same shape.
 
 ## Original sources
 
-Thanks to Documenta Catholica Omnia and the OFM website for supplying the
-original Latin source documents used in this corpus. These Latin sources are
-public domain materials, and their availability made this edition possible.
+Thanks to [Documenta Catholica Omnia](https://www.documentacatholicaomnia.eu/) 
+and the [Ordo Fratrum Minorum](ofm.org) for supplying the original Latin source documents 
+used in this corpus. These Latin sources are public domain materials, and their availability 
+made this edition possible.
+
+Thanks to the O.F.M. again for also providing human-made translations for the *Testamentum*,
+for both english and italian.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: 1Cel
-title: "Vita prima di San Francesco"
+title: "Vita del beato Francesco"
 author: "Tommaso da Celano"
 date: "1228-1229"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"

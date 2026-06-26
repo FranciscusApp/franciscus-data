@@ -78,7 +78,7 @@
   },
   {
     "paragraph": "cap2-1",
-    "topics": "theme:vision, theme:repair_of_san_damiano_and_churches, virtue:obedience, virtue:poverty, person:st_francis_of_assisi, place:san_damiano, place:foligno, place:assisi, event:vision_of_san_damiano_crucifix",
+    "topics": "theme:vision, event:repair_of_san_damiano_and_churches, virtue:obedience, virtue:poverty, person:st_francis_of_assisi, place:san_damiano, place:foligno, place:assisi, event:vision_of_san_damiano_crucifix",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
@@ -659,7 +659,7 @@
   },
   {
     "paragraph": "cap9-7",
-    "topics": "theme:journey_to_the_sultan_and_east, theme:mission, virtue:fortitude, virtue:charity, person:st_francis_of_assisi, person:sultan_al_kamil, event:journey_to_the_sultan_and_east",
+    "topics": "event:journey_to_the_sultan_and_east, theme:mission, virtue:fortitude, virtue:charity, person:st_francis_of_assisi, person:sultan_al_kamil, event:journey_to_the_sultan_and_east",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
@@ -673,7 +673,7 @@
   },
   {
     "paragraph": "cap9-9",
-    "topics": "theme:journey_to_the_sultan_and_east, theme:stigmata, virtue:fortitude, person:st_francis_of_assisi",
+    "topics": "event:journey_to_the_sultan_and_east, theme:stigmata, virtue:fortitude, person:st_francis_of_assisi",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
@@ -1072,7 +1072,7 @@
   },
   {
     "paragraph": "cap15-8",
-    "topics": "theme:translation_1230,theme:miracle,virtue:charity,person:st_francis_of_assisi,place:assisi,event:translation_1230",
+    "topics": "event:translation_1230,theme:miracle,virtue:charity,person:st_francis_of_assisi,place:assisi,event:translation_1230",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
@@ -1422,7 +1422,7 @@
   },
   {
     "paragraph": "mir8-2",
-    "topics": "theme:miracle, theme:translation_1230, person:st_francis_of_assisi, place:assisi, event:translation_1230",
+    "topics": "theme:miracle, event:translation_1230, person:st_francis_of_assisi, place:assisi, event:translation_1230",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false

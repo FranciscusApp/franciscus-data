@@ -1,7 +1,7 @@
 ---
 id: 3Soc
-title: "Legenda Trium Sociorum"
-author: "Fratres Leo, Rufinus et Angelus (attr.)"
+title: "Leggenda dei tre compagni"
+author: "Frati Leone, Rufino e Angelo (attr.)"
 date: "1246"
 reference_edition: "Fontes Franciscani (Editiones Collegii S. Bonaventurae, 1995)"
 license: CC0-1.0

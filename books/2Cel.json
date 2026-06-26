@@ -71,7 +71,7 @@
   },
   {
     "paragraph": "11",
-    "topics": "theme:vision, theme:repair_of_san_damiano_and_churches, person:st_francis_of_assisi, event:vision_of_san_damiano_crucifix, theme:cross",
+    "topics": "theme:vision, event:repair_of_san_damiano_and_churches, person:st_francis_of_assisi, event:vision_of_san_damiano_crucifix, theme:cross",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
@@ -85,7 +85,7 @@
   },
   {
     "paragraph": "13",
-    "topics": "person:st_francis_of_assisi, place:assisi, place:san_damiano, theme:repair_of_san_damiano_and_churches, virtue:humility",
+    "topics": "person:st_francis_of_assisi, place:assisi, place:san_damiano, event:repair_of_san_damiano_and_churches, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
@@ -435,7 +435,7 @@
   },
   {
     "paragraph": "63",
-    "topics": "theme:order_of_friars_minor, theme:chapter_of_mats, virtue:poverty, virtue:charity, place:portiuncula, place:basilica_of_st_mary_of_the_angels",
+    "topics": "theme:order_of_friars_minor, event:chapter_of_mats, virtue:poverty, virtue:charity, place:portiuncula, place:basilica_of_st_mary_of_the_angels",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
@@ -1387,7 +1387,7 @@
   },
   {
     "paragraph": "199",
-    "topics": "person:st_francis_of_assisi, theme:joy, virtue:joy",
+    "topics": "person:st_francis_of_assisi, virtue:joy, virtue:joy",
     "by": "Claude <noreply@anthropic.com>",
     "by_type": "ai",
     "verified": false
