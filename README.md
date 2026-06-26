@@ -1,36 +1,106 @@
-# franciscus-data
+<div align="center">
 
-Machine-readable Franciscan source texts with separate semantic annotations.
+# Franciscus - Data
 
-The medieval Latin texts are in the public domain; structure, tags and annotations are released under **CC0-1.0**.
+**The Franciscan sources, as open data.**
 
-## Language conventions
+Machine-readable medieval Latin biographies of Francis of Assisi — with
+translations, semantic annotations, and curated topic pages — dedicated to the
+public domain under **CC0-1.0**.
 
-- **Source texts** (`books/`) are in medieval Latin. The canonical text has no language suffix (e.g. `1Cel.md`); translations use a BCP-47 tag (e.g. `1Cel.it.md`).
-- **Annotation evidence** (`annotations/`) and **topic page descriptions** (`topics/`) are written in English — they are application-level content, not source material.
-- Topic values (e.g. `paupertas`, `Assisium`) and relation types (e.g. `dipende_da`) are Latin/domain identifiers used as machine keys.
+[![Corpus license: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
+[![Live app: franciscus.app](https://img.shields.io/badge/app-franciscus.app-green)](https://franciscus.app)
+[![Format spec](https://img.shields.io/badge/format-spec-blue)](spec/)
 
-## Contents
+</div>
+
+---
+
+## What this is
+
+This repository is the **source corpus** behind [franciscus.app](https://franciscus.app):
+the early biographies of Francis of Assisi, encoded as plain Markdown + JSON so
+they can be read, searched, cited, re-edited, and re-used by anyone — scholars,
+students, developers, or curious readers.
+
+The app ([`franciscus`](https://github.com/snowstorm-alfredosalata/franciscus))
+compiles this folder into a SQLite database it ships to the browser. But the
+data stands on its own: every text and annotation here is a portable file you
+can take elsewhere.
+
+### The corpus
+
+| ID | Work | Author | Reference edition |
+|----|------|--------|-------------------|
+| **1Cel** | Vita Prima | Thomas of Celano | Analecta Franciscana X (Quaracchi) |
+| **2Cel** | Vita Secunda | Thomas of Celano | Quaracchi |
+| **LMj** | Legenda Maior | Bonaventure | Quaracchi |
+| **3Soc** | Legenda Trium Sociorum | The Three Companions | Quaracchi |
+| **Testamentum** | Testamentum S. Francisci | Francis of Assisi | Quaracchi |
+
+Each work is present in the original **Latin** and an **Italian** translation.
+(English translations are planned — see [Roadmap](#roadmap).)
+
+## 📜 License — public domain (CC0-1.0)
+
+**Everything in this repository is dedicated to the public domain under
+[CC0-1.0](LICENSE).** No rights reserved. You may copy, modify, distribute, and
+build upon the corpus — including commercially — without asking permission and
+without attribution.
+
+The medieval Latin texts are themselves long out of copyright; the CC0 dedication
+covers the parts that involved editorial effort — the structural encoding, the
+paragraph/verse IDs, the annotations, the topic pages, and the translations — so
+that those, too, are unambiguously free to reuse.
+
+Attribution is never required, but it is always appreciated: a link back to
+[franciscus.app](https://franciscus.app) helps others find the source.
+
+## 🤖 A note on AI
+
+We believe in being upfront about how this corpus was made.
+
+- **The Latin source texts** were extracted from public-domain print editions
+  (chiefly the Quaracchi *Analecta Franciscana*) and corrected. These are
+  transcriptions of real editions, **not AI-generated text** — though OCR and
+  cleanup were machine-assisted and may still contain errors.
+- **The translations** (currently Italian) are, except where noted, **machine
+  translations** produced with a large language model. The Italian *Testamentum*
+  uses an official OFM translation. Machine translations are useful but
+  **not authoritative**; do not cite them as a scholarly translation. Unlike
+  annotations, translations currently carry **no per-passage provenance** in the
+  format — a translation file is all-or-nothing, with no way yet to mark which
+  passages a human has reviewed. Treat every translation as machine-generated
+  until that changes.
+- **The annotations** (topics, cross-work relations) and the **draft topic pages**
+  are largely **machine-generated** and not yet human-verified. Each annotation
+  records its provenance — `by` and `by_type: ai | human` — and a `verified`
+  flag, so you can always tell machine output from reviewed work.
+
+In short: trust the Latin as a transcription, treat everything generated around
+it as a helpful first pass awaiting human review. Corrections are very welcome —
+see [Contributing](#contributing).
+
+## Repository layout
 
 ```
-books/            Structured Markdown sources (see FORMAT.md)
-annotations/      Annotations and relations in JSON, one file per work
-editor-notes/     Free-text editorial notes, one file per work (not ingested)
+books/         Source texts and translations, plus annotation sidecars:
+                 <id>.md         canonical Latin text
+                 <id>.<lang>.md  translation (e.g. 1Cel.it.md)
+                 <id>.json       semantic annotations for that work
+topics/        Topic pages — <type>:<value>.md (+ translations)
+editor-notes/  Free-text editorial notes (not ingested into the app)
+topics.toml    Controlled vocabulary of valid topic values
+spec/          The normative format specification
+LICENSE        CC0-1.0 public-domain dedication
 ```
 
-### Works included (v1)
+## Format at a glance
 
-| ID   | Work               | Author              | Reference edition                  |
-|------|--------------------|---------------------|------------------------------------|
-| 1Cel | Vita prima         | Thomas of Celano    | Analecta Franciscana X (Quaracchi) |
-| 2Cel | Vita seconda       | Thomas of Celano    | Quaracchi                          |
-| LMj  | Legenda maior      | Bonaventure         | Quaracchi                          |
-
-## Book format
-
-Each work is a Markdown file with YAML frontmatter and a restricted set of inline HTML (`<p>`, `<aside>`, `<ref>`). The full specification is in [FORMAT.md](FORMAT.md).
-
-Minimal example:
+A source text is one Markdown file: YAML frontmatter, a `#` title, `##` chapters,
+and body text in `<p id="…">` paragraphs that preserve the print edition's
+numbering. A handful of inline elements (`<aside>`, `<ref>`, verse markers) carry
+the rest.
 
 ```markdown
 ---
@@ -51,50 +121,41 @@ license: CC0-1.0
 </p>
 ```
 
-## Annotations
+Annotations live in a JSON sidecar (`books/1Cel.json`) keyed by paragraph; topic
+pages live under `topics/`. The full normative spec is in **[`spec/`](spec/)**.
 
-JSON files in `annotations/`, one per work (e.g. `1Cel.json`). Each annotation entry contains:
+## Roadmap
 
-- `paragraph`, the paragraph key. Optionally, `paragraph_to` if the annotation spans multiple paragraphs.
-- **topics** — typed topics per paragraph: `virtue`, `theme`, `event`, `place`, `person`. These are a single string, csv, in the format `type:value`. i.e. `virtue:obedience, person:gregorius_ix` etc.
-- **relations** — cross-work paragraph parallels: `same_episode`, `related_to`. These are a single string, csv, in the format `same_epiode:unique_identifier`. i.e. `same_epiode:LMj-mir10-6, related_to:2Cel-121` etc.
-- records provenance (`by`: `Name <email>`, `by_type`: `ai` or `human`), verification status (`verified`), and optional `comment`.
+Near-term plans for the corpus:
 
-## Topic Pages
+- **English translations** of all works.
+- **Human review** of the Latin sources and of the machine translations.
+- **Annotation clean-up** — fixing AI-introduced topic values not in the
+  controlled vocabulary, and translating book titles.
+- **Cross-work parallels** seeded from *Fontes Franciscani* concordances
+  (pending review).
+- A **Vulgata edition** added to the corpus for scripture cross-referencing.
 
-Markdown files under `topics/` (e.g. `topics/humilitas.md`) with frontmatter fields `name` and `type`. Each page provides curated content about a virtue, theme, person, or place; the app auto-generates a list of relevant passages from the annotations.
-
-Translatable via the same duplicated-file convention as books (e.g. `topics/humilitas.it.md`).
-
-## Translations
-
-Content translations use duplicated `.md` files per language (e.g. `books/1Cel.it.md`). Each translation follows the same FORMAT.md spec and preserves the same paragraph and aside IDs as the Latin original — it is a standalone, distributable document.
-
-The canonical Latin text has no language suffix (`books/1Cel.md`). Translations are identified by a BCP-47 language tag before the extension.
-
-## Editor notes
-
-Free-text editorial notes about a work live in `editor-notes/<id>.md`, sharing
-the work's stem (e.g. `editor-notes/3Soc.md` accompanies `books/3Soc.md`). They
-record provenance, judgement calls, known source defects and TODOs for human
-review — context that doesn't belong in the structured text or annotations.
-
-These files are **not parsed and never enter the database**; they are for
-editors only. Each file is an append-only log of notes, every note in the form:
-
-```markdown
----
-Name <email> - YYYY-MM-DD HH:MM TZ
-Note content (free Markdown, may span multiple lines).
----
-```
-
-The `---` rules double as the separator between consecutive notes.
+The app's full roadmap lives in the
+[`franciscus`](https://github.com/snowstorm-alfredosalata/franciscus) repo.
 
 ## Contributing
 
-Textual corrections and annotation proposals are welcome. Every contribution requires a CC0 dedication (DCO-style).
+Corrections, translations, and annotation proposals are all welcome — this is
+exactly the kind of work that benefits from many eyes. Every contribution is
+made under the same CC0 dedication.
 
-## License
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** for how to submit changes (via GitHub
+or email), what metadata and formatting we need, and the validator. Contributors
+are recorded in **[CREDITS.md](CREDITS.md)**.
 
-[CC0-1.0](LICENSE) — see the LICENSE file for the full text.
+## Get in touch
+
+<div align="center">
+
+<a href="https://verbumcaro.it"><img src="https://raw.githubusercontent.com/snowstorm-alfredosalata/franciscus/refs/heads/master/app/static/vc-inline-dark.png" alt="Verbum Caro" width="240"></a>
+
+</div>
+
+A **Verbum Caro** project. Questions, corrections, or collaboration —
+reach us at [info@verbumcaro.it](mailto:info@verbumcaro.it).
