@@ -4,6 +4,7 @@ author: "Tommaso da Celano"
 date: "1246-1247"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
 description:
+description_short:
 notes:
 ---
 

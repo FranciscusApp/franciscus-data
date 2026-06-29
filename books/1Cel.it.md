@@ -2,6 +2,7 @@
 title: "Vita del beato Francesco"
 author: "Tommaso da Celano"
 description:
+description_short:
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft

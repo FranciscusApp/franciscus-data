@@ -4,6 +4,7 @@ author: "Fratres Leo, Rufinus et Angelus (attr.)"
 date: "1246"
 reference_edition: "Fontes Franciscani (Editiones Collegii S. Bonaventurae, 1995)"
 description:
+description_short:
 notes:
 ---
 

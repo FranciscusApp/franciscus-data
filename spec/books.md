@@ -32,6 +32,7 @@ frontmatter fields:
 | `date`              | string | ✓   | Date or date range of composition               |
 | `reference_edition` | string | ✓   | Print edition whose numbering this file follows |
 | `description`       | string | –   | Short description of the work                   |
+| `description_short` | string | –   | One-line description (e.g. for listings)        |
 | `notes`             | string | –   | Free-text note                                  |
 
 ```yaml
@@ -41,6 +42,7 @@ author: "Tommaso da Celano"
 date: "1228"
 reference_edition: "Analecta Franciscana X (Quaracchi)"
 description:
+description_short:
 notes:
 ---
 ```
@@ -63,6 +65,7 @@ As with the source, all fields appear in the order below, optional ones included
 | `title`              | string | ✓   | Localized title                                      |
 | `author`             | string | ✓   | Localized author name                                |
 | `description`        | string | –   | Localized description                                |
+| `description_short`  | string | –   | Localized one-line description                       |
 | `translator`         | string | ✓   | Default `by` for every `<p>` (`Name <email>`)        |
 | `provenance`         | string | ✓   | File-wide default provenance; per-`<p>` overridable  |
 | `status`             | string | ✓   | Editorial status: `draft` · `in-review` · `final`    |
@@ -74,6 +77,7 @@ As with the source, all fields appear in the order below, optional ones included
 title: "Vita prima di San Francesco"
 author: "Tommaso da Celano"
 description:
+description_short:
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft

@@ -2,6 +2,7 @@
 title: "Legend of the Three Companions"
 author: "Brothers Leo, Rufino, and Angelo (attr.)"
 description:
+description_short:
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft

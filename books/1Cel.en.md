@@ -2,6 +2,7 @@
 title: "Life of Saint Francis"
 author: "Thomas of Celano"
 description:
+description_short:
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft

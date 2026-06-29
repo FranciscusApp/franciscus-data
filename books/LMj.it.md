@@ -2,6 +2,7 @@
 title: "Leggenda Maggiore di San Francesco"
 author: "Bonaventura da Bagnoregio"
 description:
+description_short:
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft
