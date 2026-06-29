@@ -88,7 +88,7 @@ books/         Source texts and translations, plus annotation sidecars:
                  <id>.md         canonical Latin text
                  <id>.<lang>.md  translation (e.g. 1Cel.it.md)
                  <id>.json       semantic annotations for that work
-topics/        Topic pages — <type>:<value>.md (+ translations)
+topics/        Topic pages — <type>/<value>.md (+ translations)
 editor-notes/  Free-text editorial notes (not ingested into the app)
 topics.toml    Controlled vocabulary of valid topic values
 spec/          The normative format specification
