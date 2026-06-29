@@ -31,8 +31,8 @@ frontmatter fields:
 | `author`            | string | ✓   | Author or attributed author                     |
 | `date`              | string | ✓   | Date or date range of composition               |
 | `reference_edition` | string | ✓   | Print edition whose numbering this file follows |
-| `description`       | string | –   | Short description of the work                   |
-| `description_short` | string | –   | One-line description (e.g. for listings)        |
+| `description`       | string | –   | Description of the work (Markdown; rendered)    |
+| `description_short` | string | –   | One-line description, plain text (for listings) |
 | `notes`             | string | –   | Free-text note                                  |
 
 ```yaml
@@ -41,7 +41,11 @@ title: "Vita Prima S. Francisci"
 author: "Tommaso da Celano"
 date: "1228"
 reference_edition: "Analecta Franciscana X (Quaracchi)"
-description:
+description: |
+  Markdown body. Use a literal block scalar (`|`) so blank lines become
+  paragraph breaks; a folded `>` would collapse them into one paragraph.
+
+  A second paragraph renders as its own `<p>`.
 description_short:
 notes:
 ---
