@@ -1,10 +1,12 @@
 ---
-id: 2Cel
 title: "Memoriale nel desiderio dell'anima"
 author: "Tommaso da Celano"
-date: "1246-1247"
-reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
-license: CC0-1.0
+description:
+translator: "Claude <noreply@anthropic.com>"
+provenance: ai
+status: draft
+translation_source:
+notes:
 ---
 
 # VITA SECONDA DI SAN FRANCESCO

@@ -1,10 +1,12 @@
 ---
-id: Testamentum
 title: "Testamento"
 author: "Francesco d'Assisi"
-date: "1226"
-reference_edition: "Official OFM.org Version Revised with Chapters and Verse no."
-license: CC0-1.0
+description:
+translator: "Claude <noreply@anthropic.com>"
+provenance: ai
+status: draft
+translation_source:
+notes:
 ---
 
 # Testamento (Francesco di Assisi)

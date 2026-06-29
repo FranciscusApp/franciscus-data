@@ -1,10 +1,10 @@
 ---
-id: 2Cel
 title: "Memoriale in desiderio animae"
 author: "Tommaso da Celano"
 date: "1246-1247"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
-license: CC0-1.0
+description:
+notes:
 ---
 
 # VITA SECUNDA S. FRANCISCI

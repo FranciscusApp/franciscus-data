@@ -1,10 +1,10 @@
 ---
-id: Testamentum
 title: "Testamentum (Franciscus Assisiensis)"
 author: "Franciscus Assisiensis"
 date: "1226"
 reference_edition: "unknown"
-license: CC0-1.0
+description:
+notes:
 ---
 
 # Testamentum (Franciscus Assisiensis)

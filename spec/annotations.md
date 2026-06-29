@@ -15,8 +15,7 @@ The file is a JSON array of annotation objects:
     "topics": "person:st_francis_of_assisi, person:pope_gregory_ix",
     "relations": "same_episode:LMj-prol-1",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   }
 ]
 ```
@@ -28,8 +27,7 @@ The file is a JSON array of annotation objects:
 | `topics`       | string  | OPTIONAL | Comma-separated list of `type:value` pairs (§ [topics](#topics-construction)) |
 | `relations`    | string  | OPTIONAL | Comma-separated list of `reltype:target` pairs (§ [relations](#relations-construction)) |
 | `by`           | string  | REQUIRED | Identity of the annotator (name, optionally `Name <email>`)                |
-| `by_type`      | string  | OPTIONAL | `ai` or `human`; defaults to `ai`                                          |
-| `verified`     | boolean | OPTIONAL | Whether a human has reviewed the annotation; defaults to `false`           |
+| `provenance`   | string  | OPTIONAL | `ai` · `reviewed` · `human`; defaults to `ai` (§ [provenance](books.md#per-paragraph-provenance)) |
 | `comment`      | string  | OPTIONAL | Free-text note (English); applies to every pair expanded from the entry    |
 
 An entry MUST carry at least one of `topics` or `relations`. A paragraph MAY

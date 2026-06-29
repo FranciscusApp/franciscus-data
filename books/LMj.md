@@ -1,10 +1,10 @@
 ---
-id: LMj
 title: "Legenda Maior Sancti Francisci"
 author: "Bonaventura da Bagnoregio"
 date: "1260-1263"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
-license: CC0-1.0
+description:
+notes:
 ---
 
 # LEGENDA MAIOR SANCTI FRANCISCI

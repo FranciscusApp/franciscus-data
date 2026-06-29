@@ -18,55 +18,90 @@ No other heading levels (level-3 through level-6) are permitted.
 
 ## Frontmatter
 
-The file MUST begin with a YAML frontmatter block delimited by `---`. The
-following fields are REQUIRED:
+The file MUST begin with a YAML frontmatter block delimited by `---`. The work's
+`id` is the filename stem (e.g. `1Cel.md` ⇒ `1Cel`), NOT a frontmatter field.
+The corpus is CC0-1.0; the license is not repeated per file. Every field below
+MUST be present in the order given, even the optional ones — an optional field
+with no value is written as a bare `key:` (YAML null), not omitted. Source
+frontmatter fields:
 
-| Field               | Type   | Description                                              |
-|---------------------|--------|----------------------------------------------------------|
-| `id`                | string | Unique short identifier for the work (e.g. `1Cel`)      |
-| `title`             | string | Full title of the work                                   |
-| `author`            | string | Author or attributed author                              |
-| `date`              | string | Date or date range of composition                        |
-| `reference_edition` | string | Print edition whose numbering this file follows          |
-| `license`           | string | SPDX license identifier (e.g. `CC0-1.0`)                |
+| Field               | Type   | Req | Description                                     |
+|---------------------|--------|-----|-------------------------------------------------|
+| `title`             | string | ✓   | Full title of the work                          |
+| `author`            | string | ✓   | Author or attributed author                     |
+| `date`              | string | ✓   | Date or date range of composition               |
+| `reference_edition` | string | ✓   | Print edition whose numbering this file follows |
+| `description`       | string | –   | Short description of the work                   |
+| `notes`             | string | –   | Free-text note                                  |
 
 ```yaml
 ---
-id: 1Cel
 title: "Vita Prima S. Francisci"
 author: "Tommaso da Celano"
 date: "1228"
 reference_edition: "Analecta Franciscana X (Quaracchi)"
-license: CC0-1.0
+description:
+notes:
 ---
 ```
 
 ### Translation files
 
 A translation file is named `<id>.<lang>.md` (BCP-47 `<lang>` suffix on the
-source stem) and lives beside the source it translates. The frontmatter MUST
-repeat the same `id` as the source so the engine can match them, and the
-`title:` field MUST be in the target language — the rest of the application
-displays it as the book's title whenever the active corpus language is
-`<lang>`. `author`, `date`, `reference_edition` and `license` SHOULD match the
-source; only `title` (and per-chapter `##` headings) are translated.
+source stem) and lives beside the source it translates; the shared stem matches
+it to its source. The `title:` field MUST be in the target language — the rest
+of the application displays it as the book's title whenever the active corpus
+language is `<lang>`. `date` and `reference_edition` are language-invariant and
+inherited from the source, so they are NOT repeated. `author` is localized (the
+same person, spelled for the language).
 
-> **Known limitation.** Unlike annotation sidecars, a translation file carries no
-> provenance or `verified` field — the format has no way to record which
-> passages of a translation are human-authored or human-reviewed. A translation
-> is provenance-wise all-or-nothing. Until the format gains per-passage
-> provenance, consumers SHOULD treat any translation as unverified unless stated
-> otherwise out of band.
+As with the source, all fields appear in the order below, optional ones included
+(bare `key:` when empty).
+
+| Field                | Type   | Req | Description                                          |
+|----------------------|--------|-----|------------------------------------------------------|
+| `title`              | string | ✓   | Localized title                                      |
+| `author`             | string | ✓   | Localized author name                                |
+| `description`        | string | –   | Localized description                                |
+| `translator`         | string | ✓   | Default `by` for every `<p>` (`Name <email>`)        |
+| `provenance`         | string | ✓   | File-wide default provenance; per-`<p>` overridable  |
+| `status`             | string | ✓   | Editorial status: `draft` · `in-review` · `final`    |
+| `translation_source` | string | –   | What this was translated from                        |
+| `notes`              | string | –   | Free-text note                                       |
 
 ```yaml
 ---
-id: 1Cel
 title: "Vita prima di San Francesco"
 author: "Tommaso da Celano"
-date: "1228-1229"
-reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
-license: CC0-1.0
+description:
+translator: "Claude <noreply@anthropic.com>"
+provenance: ai
+status: draft
+translation_source:
+notes:
 ---
+```
+
+#### Per-paragraph provenance
+
+A translation's `<p>` elements MAY carry `provenance` and `by` attributes to
+record provenance per paragraph. Both are optional; when absent, a `<p>`
+inherits the frontmatter value of the same name (`provenance` from frontmatter
+`provenance`, `by` from frontmatter `translator`).
+
+`provenance` is one of:
+
+- `ai` — machine-produced, not human-reviewed.
+- `reviewed` — machine-produced, then human-reviewed (the human vouches; the
+  machine origin is preserved as an audit fact).
+- `human` — human-produced.
+
+`mixed` is not a value: it is a file-level aggregate derived from the per-`<p>`
+values, never stored.
+
+```html
+<p id="prolog-1">…</p>                                  <!-- ai, Claude (inherited) -->
+<p id="prolog-2" provenance="reviewed" by="Jane Doe">…</p>  <!-- overridden -->
 ```
 
 ## Document title
