@@ -104,12 +104,12 @@ the rest.
 
 ```markdown
 ---
-id: 1Cel
 title: "Vita Prima S. Francisci"
 author: "Tommaso da Celano"
 date: "1228"
 reference_edition: "Analecta Franciscana X (Quaracchi)"
-license: CC0-1.0
+description:
+notes:
 ---
 
 # VITA PRIMA S.FRANCISCI

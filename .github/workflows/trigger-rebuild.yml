@@ -19,7 +19,6 @@ on:
 #    paths:
 #      - 'books/**'
 #      - 'topics/**'
-#      - 'topics.toml'
 #  workflow_dispatch:
 
 jobs:
