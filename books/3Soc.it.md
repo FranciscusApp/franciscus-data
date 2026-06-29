@@ -2,6 +2,7 @@
 title: "Leggenda dei tre compagni"
 author: "Frati Leone, Rufino e Angelo (attr.)"
 description:
+description_short:
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft

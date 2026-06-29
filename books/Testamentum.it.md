@@ -2,6 +2,7 @@
 title: "Testamento"
 author: "Francesco d'Assisi"
 description:
+description_short:
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft

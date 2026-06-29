@@ -4,6 +4,7 @@ author: "Franciscus Assisiensis"
 date: "1226"
 reference_edition: "unknown"
 description:
+description_short:
 notes:
 ---
 
