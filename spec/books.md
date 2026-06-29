@@ -3,7 +3,7 @@
 **Applies to:** `books/<id>.md` (canonical source) and `books/<id>.<lang>.md`
 (translations).
 
-Annotation sidecars (`books/<id>.json`) are specified in
+Annotation sidecars (`books/<id>.yaml`) are specified in
 [annotations.md](annotations.md); topic pages in [topics.md](topics.md).
 
 ## File structure

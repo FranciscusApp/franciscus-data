@@ -74,8 +74,8 @@ We believe in being upfront about how this corpus was made.
   until that changes.
 - **The annotations** (topics, cross-work relations) and the **draft topic pages**
   are largely **machine-generated** and not yet human-verified. Each annotation
-  records its provenance — `by` and `by_type: ai | human` — and a `verified`
-  flag, so you can always tell machine output from reviewed work.
+  records its `by` and a `provenance: ai | reviewed | human` field, so you can
+  always tell machine output from reviewed work.
 
 In short: trust the Latin as a transcription, treat everything generated around
 it as a helpful first pass awaiting human review. Corrections are very welcome —
@@ -87,10 +87,10 @@ see [Contributing](#contributing).
 books/         Source texts and translations, plus annotation sidecars:
                  <id>.md         canonical Latin text
                  <id>.<lang>.md  translation (e.g. 1Cel.it.md)
-                 <id>.json       semantic annotations for that work
+                 <id>.yaml       semantic annotations for that work
 topics/        Topic pages — <type>/<value>.md (+ translations)
 editor-notes/  Free-text editorial notes (not ingested into the app)
-topics.toml    Controlled vocabulary of valid topic values
+topics/topics.yaml    Controlled vocabulary of valid topic values
 spec/          The normative format specification
 LICENSE        CC0-1.0 public-domain dedication
 ```
@@ -121,7 +121,7 @@ license: CC0-1.0
 </p>
 ```
 
-Annotations live in a JSON sidecar (`books/1Cel.json`) keyed by paragraph; topic
+Annotations live in a YAML sidecar (`books/1Cel.yaml`) keyed by paragraph; topic
 pages live under `topics/`. The full normative spec is in **[`spec/`](spec/)**.
 
 ## Roadmap

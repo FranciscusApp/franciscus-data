@@ -1,0 +1,931 @@
+- paragraph: '1'
+  topics: person:st_francis_of_assisi, virtue:obedience, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '2'
+  topics: person:st_francis_of_assisi, theme:miracle, theme:conversion
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '3'
+  topics: person:st_francis_of_assisi, person:pica_de_bourlemont
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '4'
+  topics: person:st_francis_of_assisi, place:perugia, place:assisi, virtue:patience,
+    virtue:joy
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '5'
+  topics: person:st_francis_of_assisi, virtue:charity, virtue:mercy
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '6'
+  topics: person:st_francis_of_assisi, theme:conversion, theme:vision, virtue:obedience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '7'
+  topics: person:st_francis_of_assisi, place:assisi, theme:conversion, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '8'
+  topics: place:rome, virtue:poverty, virtue:faith
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '9'
+  topics: person:st_francis_of_assisi, place:assisi, event:encounter_with_leper, event:conversion_of_francis,
+    virtue:charity, virtue:fortitude
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '10'
+  topics: person:st_francis_of_assisi, place:san_damiano, event:vision_of_san_damiano_crucifix,
+    event:repair_of_san_damiano_and_churches, theme:conversion, theme:cross
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '11'
+  topics: theme:vision, event:repair_of_san_damiano_and_churches, person:st_francis_of_assisi,
+    event:vision_of_san_damiano_crucifix, theme:cross
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '12'
+  topics: person:st_francis_of_assisi, person:pietro_di_bernardone, person:bishop_guido_of_assisi,
+    event:renunciation_of_possessions, virtue:poverty, virtue:patience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '13'
+  topics: person:st_francis_of_assisi, place:assisi, place:san_damiano, event:repair_of_san_damiano_and_churches,
+    virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '14'
+  topics: theme:conversion,virtue:poverty,virtue:humility,place:assisi,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '15'
+  topics: person:st_francis_of_assisi, person:fr_bernard_of_quintavalle, place:assisi,
+    event:calling_of_the_first_brothers, event:renunciation_of_possessions, virtue:poverty,
+    theme:conversion
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '16'
+  topics: person:st_francis_of_assisi, person:pope_innocent_iii, theme:rule, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '17'
+  topics: person:st_francis_of_assisi, person:pope_innocent_iii, place:rome, theme:vision,
+    theme:preaching, virtue:poverty, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '18'
+  topics: person:st_francis_of_assisi, place:portiuncula, theme:order_of_friars_minor,
+    virtue:humility, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '19'
+  topics: place:portiuncula,place:basilica_of_st_mary_of_the_angels,person:st_francis_of_assisi,theme:prayer,virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '20'
+  topics: theme:vision,theme:conversion
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '21'
+  topics: theme:order_of_friars_minor, theme:fasting, virtue:fortitude, virtue:patience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '22'
+  topics: person:st_francis_of_assisi, virtue:charity, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '23'
+  topics: person:st_francis_of_assisi, theme:order_of_friars_minor, virtue:hope
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '24'
+  topics: person:st_francis_of_assisi, theme:vision, place:rome, virtue:simplicity,
+    virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '25'
+  topics: person:st_francis_of_assisi, person:pope_honorius_iii, person:pope_gregory_ix,
+    place:rome, theme:preaching, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '26'
+  topics: person:st_francis_of_assisi, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '27'
+  topics: person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '28'
+  topics: person:st_francis_of_assisi, theme:reconciliation
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '29'
+  topics: place:spoleto
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '30'
+  topics: person:st_francis_of_assisi, place:damietta, place:egypt, event:journey_to_the_sultan_and_east,
+    theme:vision
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '31'
+  topics: person:st_francis_of_assisi, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '32'
+  topics: theme:order_of_friars_minor, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '33'
+  topics: person:st_francis_of_assisi, place:siena, theme:prayer, virtue:obedience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '34'
+  topics: virtue:obedience, theme:vision, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '35'
+  topics: person:st_francis_of_assisi, place:greccio, theme:preaching, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '36'
+  topics: theme:miracle
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '37'
+  topics: person:st_francis_of_assisi, place:perugia, theme:preaching, virtue:faith
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '38'
+  topics: person:st_francis_of_assisi, place:cortona, virtue:chastity, theme:conversion
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '39'
+  topics: person:st_francis_of_assisi, place:assisi, virtue:patience, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '40'
+  topics: person:st_francis_of_assisi, place:assisi, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '41'
+  topics: person:st_francis_of_assisi, theme:miracle, theme:cross
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '42'
+  topics: person:st_francis_of_assisi, theme:miracle
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '43'
+  topics: person:st_francis_of_assisi, virtue:poverty, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '44'
+  topics: person:st_francis_of_assisi, theme:miracle, virtue:poverty, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '45'
+  topics: person:st_francis_of_assisi, place:greccio, theme:prayer, theme:cross
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '46'
+  topics: person:st_francis_of_assisi, theme:miracle, theme:prayer, virtue:mercy
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '47'
+  topics: person:st_francis_of_assisi, theme:miracle, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '48'
+  topics: person:fr_bernard_of_quintavalle, person:st_francis_of_assisi, theme:death,
+    virtue:patience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '49'
+  topics: person:st_francis_of_assisi, person:fr_leo, place:la_verna, theme:miracle
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '50'
+  topics: person:st_francis_of_assisi, place:assisi, theme:death, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '51'
+  topics: person:st_francis_of_assisi, virtue:obedience, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '52'
+  topics: person:st_francis_of_assisi, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '53'
+  topics: person:st_francis_of_assisi, theme:vision, theme:death
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '54'
+  topics: person:st_francis_of_assisi, virtue:chastity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '55'
+  topics: person:st_francis_of_assisi, virtue:poverty, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '56'
+  topics: virtue:poverty, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '57'
+  topics: place:portiuncula, place:basilica_of_st_mary_of_the_angels, place:assisi,
+    person:st_francis_of_assisi, theme:order_of_friars_minor, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '58'
+  topics: virtue:poverty,theme:order_of_friars_minor,place:bologna
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '59'
+  topics: person:st_francis_of_assisi, virtue:poverty, theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '60'
+  topics: virtue:poverty, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '61'
+  topics: person:st_francis_of_assisi, place:greccio, virtue:poverty, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '62'
+  topics: virtue:poverty,virtue:simplicity,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '63'
+  topics: theme:order_of_friars_minor, event:chapter_of_mats, virtue:poverty, virtue:charity,
+    place:portiuncula, place:basilica_of_st_mary_of_the_angels
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '64'
+  topics: place:greccio, virtue:poverty, theme:prayer, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '65'
+  topics: person:st_francis_of_assisi, place:portiuncula, virtue:poverty, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '66'
+  topics: theme:rule, theme:miracle, virtue:poverty, virtue:obedience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '67'
+  topics: person:st_francis_of_assisi, person:fr_peter_catanii, place:portiuncula,
+    virtue:poverty, theme:rule
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '68'
+  topics: person:st_francis_of_assisi, theme:miracle, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '69'
+  topics: virtue:poverty,virtue:humility,theme:order_of_friars_minor,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '70'
+  topics: virtue:poverty,theme:order_of_friars_minor,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '71'
+  topics: person:st_francis_of_assisi, theme:order_of_friars_minor, virtue:poverty,
+    virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '72'
+  topics: virtue:poverty,virtue:humility,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '73'
+  topics: person:st_francis_of_assisi, person:pope_gregory_ix, virtue:poverty, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '74'
+  topics: virtue:poverty,virtue:humility,theme:order_of_friars_minor,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '75'
+  topics: theme:order_of_friars_minor, person:st_francis_of_assisi, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '76'
+  topics: place:portiuncula, place:assisi, person:st_francis_of_assisi, virtue:humility,
+    virtue:joy
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '77'
+  topics: person:st_francis_of_assisi, place:nocera_umbra, place:assisi, virtue:poverty,
+    virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '78'
+  topics: theme:preaching, virtue:charity, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '79'
+  topics: person:st_francis_of_assisi, theme:miracle, theme:preaching
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '80'
+  topics: theme:order_of_friars_minor,virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '81'
+  topics: person:st_francis_of_assisi, virtue:poverty, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '82'
+  topics: person:st_francis_of_assisi, person:brother_pacifico, theme:vision, virtue:poverty,
+    virtue:chastity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '83'
+  topics: virtue:poverty, virtue:charity, virtue:mercy, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '84'
+  topics: person:st_francis_of_assisi, theme:preaching, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '85'
+  topics: virtue:poverty, virtue:humility, theme:preaching
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '86'
+  topics: person:st_francis_of_assisi, virtue:charity, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '87'
+  topics: person:st_francis_of_assisi, place:siena, virtue:poverty, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '88'
+  topics: place:cortona, virtue:poverty, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '89'
+  topics: person:st_francis_of_assisi, place:perugia, theme:reconciliation, virtue:charity,
+    virtue:mercy
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '90'
+  topics: person:st_francis_of_assisi, virtue:poverty, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '91'
+  topics: person:st_francis_of_assisi, person:fr_peter_catanii, virtue:charity, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '92'
+  topics: virtue:charity, virtue:poverty, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '93'
+  topics: theme:miracle, virtue:poverty, person:st_francis_of_assisi, place:siena
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '94'
+  topics: person:st_francis_of_assisi, theme:prayer, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '95'
+  topics: person:st_francis_of_assisi, theme:prayer, theme:vision
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '96'
+  topics: theme:prayer, virtue:fortitude
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '97'
+  topics: person:st_francis_of_assisi, theme:prayer, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '98'
+  topics: theme:prayer,theme:vision,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '99'
+  topics: theme:prayer, virtue:humility, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '100'
+  topics: person:st_francis_of_assisi, person:bishop_guido_of_assisi, place:portiuncula,
+    theme:prayer, theme:miracle
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '101'
+  topics: theme:prayer, theme:miracle, person:st_francis_of_assisi, place:perugia
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '102'
+  topics: person:st_francis_of_assisi, virtue:humility, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '103'
+  topics: person:st_francis_of_assisi, place:siena, virtue:humility, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '104'
+  topics: person:st_francis_of_assisi, place:rome, theme:preaching
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '105'
+  topics: person:st_francis_of_assisi, theme:cross, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '106'
+  topics: person:st_francis_of_assisi, person:brother_pacifico, theme:conversion,
+    theme:preaching, theme:vision
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '107'
+  topics: person:st_francis_of_assisi, theme:preaching
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '108'
+  topics: person:st_francis_of_assisi, theme:miracle, theme:preaching, virtue:obedience,
+    virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '109'
+  topics: theme:conversion, theme:vision, person:fr_bernard_of_quintavalle, place:assisi,
+    virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '110'
+  topics: person:st_francis_of_assisi, theme:miracle, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '111'
+  topics: theme:miracle, virtue:mercy, place:gubbio, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '112'
+  topics: person:st_francis_of_assisi, virtue:chastity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '113'
+  topics: person:st_francis_of_assisi, virtue:chastity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '114'
+  topics: person:st_francis_of_assisi, place:bevagna, virtue:chastity, theme:preaching
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '115'
+  topics: person:st_francis_of_assisi, place:portiuncula, theme:prayer, virtue:faith
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '116'
+  topics: virtue:chastity,virtue:fortitude,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '117'
+  topics: person:st_francis_of_assisi, virtue:chastity, theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '118'
+  topics: person:st_francis_of_assisi, theme:prayer, virtue:fortitude
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '119'
+  topics: person:st_francis_of_assisi, place:rome, virtue:fortitude
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '120'
+  topics: person:st_francis_of_assisi, virtue:poverty, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '121'
+  topics: theme:vision, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '122'
+  topics: person:st_francis_of_assisi, theme:prayer, virtue:fortitude
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '123'
+  topics: person:st_francis_of_assisi, theme:vision, theme:prayer, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '124'
+  topics: person:st_francis_of_assisi, theme:miracle, virtue:patience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '125'
+  topics: virtue:joy,theme:prayer,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '126'
+  topics: theme:miracle, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '127'
+  topics: person:st_francis_of_assisi, virtue:joy, theme:cross
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '128'
+  topics: person:st_francis_of_assisi, virtue:joy, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '129'
+  topics: person:st_francis_of_assisi, theme:prayer, virtue:fortitude
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '130'
+  topics: person:st_francis_of_assisi, virtue:humility, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '131'
+  topics: virtue:humility,theme:preaching
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '132'
+  topics: place:assisi, virtue:humility, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '133'
+  topics: person:st_francis_of_assisi, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '134'
+  topics: person:st_francis_of_assisi, theme:prayer, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '135'
+  topics: theme:stigmata, person:st_francis_of_assisi, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '136'
+  topics: person:st_francis_of_assisi, theme:stigmata, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '137'
+  topics: person:st_francis_of_assisi, person:brother_pacifico, place:siena, theme:stigmata,
+    virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '138'
+  topics: theme:stigmata, person:st_francis_of_assisi, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '139'
+  topics: virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '140'
+  topics: virtue:humility,person:st_francis_of_assisi,theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '141'
+  topics: person:st_francis_of_assisi, virtue:humility, theme:preaching
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '142'
+  topics: person:st_francis_of_assisi, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '143'
+  topics: person:st_francis_of_assisi, person:fr_peter_catanii, virtue:humility, virtue:obedience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '144'
+  topics: person:st_francis_of_assisi, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '145'
+  topics: person:st_francis_of_assisi, virtue:humility, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '146'
+  topics: person:st_francis_of_assisi, virtue:humility, virtue:obedience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '147'
+  topics: person:st_francis_of_assisi, theme:preaching, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '148'
+  topics: person:st_francis_of_assisi, person:st_dominic, person:pope_gregory_ix,
+    place:rome, virtue:humility, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '149'
+  topics: virtue:humility,virtue:charity,theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '150'
+  topics: person:st_francis_of_assisi, person:st_dominic, person:pope_gregory_ix,
+    virtue:humility, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '151'
+  topics: person:st_francis_of_assisi, person:fr_peter_catanii, virtue:obedience,
+    virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '152'
+  topics: person:st_francis_of_assisi, virtue:obedience, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '153'
+  topics: virtue:obedience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '154'
+  topics: person:st_francis_of_assisi, theme:miracle, virtue:obedience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '155'
+  topics: theme:order_of_friars_minor, virtue:humility, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '156'
+  topics: theme:order_of_friars_minor, theme:prayer, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '157'
+  topics: person:st_francis_of_assisi, theme:order_of_friars_minor, virtue:fortitude,
+    virtue:patience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '158'
+  topics: theme:vision, theme:prayer, person:st_francis_of_assisi, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '159'
+  topics: person:st_francis_of_assisi, place:siena, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '160'
+  topics: place:portiuncula, place:basilica_of_st_mary_of_the_angels, person:st_francis_of_assisi,
+    theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '161'
+  topics: person:st_francis_of_assisi, theme:order_of_friars_minor, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '162'
+  topics: person:st_francis_of_assisi, theme:order_of_friars_minor, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '163'
+  topics: theme:preaching,theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '164'
+  topics: theme:preaching, virtue:humility, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '165'
+  topics: person:st_francis_of_assisi, virtue:charity, virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '166'
+  topics: person:st_francis_of_assisi, theme:miracle, virtue:fortitude, virtue:patience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '167'
+  topics: person:st_francis_of_assisi, place:greccio, theme:prayer, theme:miracle
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '168'
+  topics: theme:miracle, theme:prayer, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '169'
+  topics: theme:miracle,theme:prayer,virtue:simplicity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '170'
+  topics: person:st_francis_of_assisi, place:siena, theme:miracle
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '171'
+  topics: person:st_francis_of_assisi, place:portiuncula, virtue:obedience, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '172'
+  topics: virtue:charity, theme:preaching, theme:cross, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '173'
+  topics: theme:order_of_friars_minor, virtue:charity, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '174'
+  topics: person:st_francis_of_assisi, theme:prayer, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '175'
+  topics: person:st_francis_of_assisi, theme:rule, virtue:patience, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '176'
+  topics: person:st_francis_of_assisi, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '177'
+  topics: person:st_francis_of_assisi, virtue:mercy, virtue:patience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '178'
+  topics: theme:prayer, theme:vision, virtue:joy, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '179'
+  topics: virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '180'
+  topics: person:st_francis_of_assisi, virtue:charity, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '181'
+  topics: person:st_francis_of_assisi, virtue:poverty, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '182'
+  topics: person:st_francis_of_assisi, person:fr_peter_catanii, theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '183'
+  topics: person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '184'
+  topics: person:st_francis_of_assisi, theme:order_of_friars_minor, theme:death
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '185'
+  topics: virtue:humility, virtue:simplicity, theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '186'
+  topics: theme:order_of_friars_minor, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '187'
+  topics: theme:order_of_friars_minor, virtue:patience, virtue:mercy
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '188'
+  topics: theme:order_of_friars_minor, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '189'
+  topics: virtue:simplicity, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '190'
+  topics: virtue:simplicity,virtue:obedience,person:st_francis_of_assisi,place:assisi,theme:order_of_friars_minor
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '191'
+  topics: person:st_francis_of_assisi, theme:preaching, virtue:simplicity, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '192'
+  topics: theme:order_of_friars_minor, virtue:simplicity, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '193'
+  topics: person:st_francis_of_assisi, theme:rule, virtue:simplicity, virtue:humility
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '194'
+  topics: virtue:humility,virtue:poverty,theme:order_of_friars_minor,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '195'
+  topics: theme:vision, virtue:simplicity, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '196'
+  topics: person:st_francis_of_assisi, virtue:charity, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '197'
+  topics: person:st_francis_of_assisi, theme:fasting, theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '198'
+  topics: theme:prayer, virtue:charity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '199'
+  topics: person:st_francis_of_assisi, virtue:joy, virtue:joy
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '200'
+  topics: virtue:poverty, theme:eucharist
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '201'
+  topics: theme:eucharist, virtue:faith, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '202'
+  topics: person:st_francis_of_assisi, virtue:obedience, theme:miracle
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '203'
+  topics: person:st_francis_of_assisi, theme:stigmata, theme:cross
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '204'
+  topics: theme:order_of_saint_clare, virtue:poverty, person:st_francis_of_assisi,
+    place:san_damiano
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '205'
+  topics: person:st_francis_of_assisi, theme:order_of_saint_clare, virtue:chastity
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '206'
+  topics: person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '207'
+  topics: person:st_francis_of_assisi, place:san_damiano, virtue:humility, theme:order_of_saint_clare
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '208'
+  topics: theme:rule, theme:miracle, virtue:obedience, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '209'
+  topics: person:st_francis_of_assisi, theme:rule, theme:vision
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '210'
+  topics: person:st_francis_of_assisi, virtue:fortitude, virtue:patience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '211'
+  topics: person:st_francis_of_assisi, theme:stigmata, theme:cross, virtue:patience
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '212'
+  topics: virtue:patience,virtue:fortitude,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '213'
+  topics: virtue:patience,theme:canticle_of_the_sun,person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '214'
+  topics: person:st_francis_of_assisi, theme:death, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '215'
+  topics: virtue:poverty,virtue:obedience,person:st_francis_of_assisi,theme:death
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '216'
+  topics: theme:death, virtue:patience, virtue:poverty
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '217'
+  topics: theme:death,theme:stigmata,person:st_francis_of_assisi,place:assisi,event:death_of_francis_passing_of_francis,virtue:joy
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '218'
+  topics: person:st_francis_of_assisi, theme:death, theme:vision
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '219'
+  topics: person:st_francis_of_assisi, theme:vision, theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '220'
+  topics: person:st_francis_of_assisi, person:pope_gregory_ix, place:assisi, place:perugia,
+    event:death_of_francis_passing_of_francis, event:canonization_1228, theme:death,
+    theme:miracle
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '221'
+  topics: theme:prayer, virtue:simplicity, virtue:humility, person:st_francis_of_assisi
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '222'
+  topics: virtue:humility,virtue:poverty,theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '223'
+  topics: person:thomas_of_celano, theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
+- paragraph: '224'
+  topics: person:st_francis_of_assisi, virtue:humility, virtue:poverty, theme:prayer
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
