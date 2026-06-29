@@ -1,10 +1,10 @@
 ---
-id: 1Cel
 title: "Vita beati Francisci"
 author: "Tommaso da Celano"
 date: "1228-1229"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
-license: CC0-1.0
+description:
+notes:
 ---
 
 # VITA PRIMA S. FRANCISCI

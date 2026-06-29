@@ -1,10 +1,12 @@
 ---
-id: LMj
 title: "Leggenda Maggiore di San Francesco"
 author: "Bonaventura da Bagnoregio"
-date: "1260-1263"
-reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
-license: CC0-1.0
+description:
+translator: "Claude <noreply@anthropic.com>"
+provenance: ai
+status: draft
+translation_source:
+notes:
 ---
 
 # LEGGENDA MAGGIORE DI SAN FRANCESCO

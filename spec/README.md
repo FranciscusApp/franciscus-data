@@ -1,6 +1,6 @@
 # Franciscus corpus format — specification
 
-**Version:** 1.2 · **Status:** Normative
+**Version:** 1.3 · **Status:** Normative
 
 This folder is the normative specification for everything under
 `franciscus-data`. It is split by file kind:
@@ -29,7 +29,8 @@ ingests the corpus into the SQLite database the app ships.
 
 | Requirement                            | Level    | Spec |
 |----------------------------------------|----------|------|
-| YAML frontmatter with all six fields   | REQUIRED | [books](books.md#frontmatter) |
+| Source frontmatter `title`/`author`/`date`/`reference_edition` | REQUIRED | [books](books.md#frontmatter) |
+| Work `id` from filename stem (not frontmatter) | REQUIRED | [books](books.md#frontmatter) |
 | Exactly one `#` heading (title)        | REQUIRED | [books](books.md#document-title) |
 | Chapters as `##` with `<a id="…">`     | REQUIRED | [books](books.md#chapters) |
 | No headings below level 2              | REQUIRED | [books](books.md#file-structure) |
@@ -38,8 +39,9 @@ ingests the corpus into the SQLite database the app ships.
 | Scripture refs in `<ref to="…">`       | REQUIRED | [books](books.md#scripture-references) |
 | `label` attribute on `<p>`             | OPTIONAL | [books](books.md#optional-label-attribute) |
 | `[n]` verse markers inside `<p>`       | OPTIONAL | [books](books.md#verse-numbers) |
-| Translation file `title:` localized    | REQUIRED | [books](books.md#translation-files) |
+| Translation `title`/`author`/`translator`/`provenance`/`status` | REQUIRED | [books](books.md#translation-files) |
+| `provenance` / `by` on translation `<p>` | OPTIONAL | [books](books.md#per-paragraph-provenance) |
 | Annotations in sidecar `<id>.json`     | OPTIONAL | [annotations](annotations.md) |
 | `paragraph` + (`topics` or `relations`) + `by` | REQUIRED (per annotation) | [annotations](annotations.md) |
-| `by_type` / `verified` on annotation   | OPTIONAL | [annotations](annotations.md) |
+| `provenance` on annotation             | OPTIONAL | [annotations](annotations.md) |
 | Topic page `description` (`type` from `topics/<type>/`) | REQUIRED | [topics](topics.md#frontmatter) |

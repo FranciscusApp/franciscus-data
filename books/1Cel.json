@@ -3,1071 +3,918 @@
     "paragraph": "prolog-1",
     "topics": "person:st_francis_of_assisi, person:pope_gregory_ix",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "prolog-2",
     "topics": "person:pope_gregory_ix, place:rome, event:canonization_1228, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "1",
     "topics": "person:st_francis_of_assisi, place:assisi, place:spoleto",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "2",
     "topics": "person:st_francis_of_assisi, theme:conversion, event:conversion_of_francis",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "3",
     "topics": "person:st_francis_of_assisi, theme:conversion, event:conversion_of_francis",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "4",
     "topics": "person:st_francis_of_assisi, place:assisi, theme:conversion",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "5",
     "topics": "person:st_francis_of_assisi, theme:vision, virtue:fortitude",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "6",
     "topics": "person:st_francis_of_assisi, place:assisi, event:conversion_of_francis, theme:conversion, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "7",
     "topics": "person:st_francis_of_assisi, theme:conversion, theme:vision",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "8",
     "topics": "person:st_francis_of_assisi, place:foligno, place:assisi, place:san_damiano, theme:conversion, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "9",
     "topics": "person:st_francis_of_assisi, place:san_damiano, virtue:poverty, event:repair_of_san_damiano_and_churches",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "10",
     "topics": "person:st_francis_of_assisi, person:pietro_di_bernardone, virtue:fortitude, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "11",
     "topics": "person:st_francis_of_assisi, place:assisi, virtue:patience, virtue:fortitude",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "12",
     "topics": "person:st_francis_of_assisi, person:pietro_di_bernardone, place:assisi, virtue:patience, virtue:fortitude",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "13",
     "topics": "person:st_francis_of_assisi, person:pietro_di_bernardone, person:pica_de_bourlemont, virtue:fortitude, virtue:joy",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "14",
     "topics": "person:st_francis_of_assisi, person:pietro_di_bernardone, person:bishop_guido_of_assisi, place:assisi, event:renunciation_of_possessions, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "15",
     "topics": "person:st_francis_of_assisi, person:pietro_di_bernardone, person:bishop_guido_of_assisi, place:assisi, event:renunciation_of_possessions, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "16",
     "topics": "person:st_francis_of_assisi, place:gubbio, virtue:joy, virtue:patience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "17",
     "topics": "person:st_francis_of_assisi, event:encounter_with_leper, virtue:humility, virtue:mercy",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "18",
     "topics": "person:st_francis_of_assisi, person:st_clare_of_assisi, person:pietro_di_bernardone, place:san_damiano, place:assisi, event:repair_of_san_damiano_and_churches, theme:order_of_saint_clare, virtue:chastity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "19",
     "topics": "theme:order_of_saint_clare, virtue:poverty, virtue:chastity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "20",
     "topics": "person:pope_gregory_ix, theme:order_of_saint_clare, theme:prayer, virtue:patience, virtue:chastity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "21",
     "topics": "person:st_francis_of_assisi, place:assisi, place:portiuncula, event:repair_of_san_damiano_and_churches, theme:conversion",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "22",
     "topics": "person:st_francis_of_assisi, theme:preaching, theme:conversion, virtue:poverty, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "23",
     "topics": "person:st_francis_of_assisi, theme:preaching, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "24",
     "topics": "person:st_francis_of_assisi, person:fr_bernard_of_quintavalle, place:assisi, event:calling_of_the_first_brothers, event:renunciation_of_possessions, theme:conversion, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "25",
     "topics": "person:fr_giles_of_assisi, place:assisi, event:calling_of_the_first_brothers, theme:order_of_friars_minor, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "26",
     "topics": "person:st_francis_of_assisi, theme:prayer, theme:vision, virtue:simplicity, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "27",
     "topics": "person:st_francis_of_assisi, theme:order_of_friars_minor, theme:vision, virtue:hope, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "28",
     "topics": "person:st_francis_of_assisi, theme:order_of_friars_minor",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "29",
     "topics": "person:st_francis_of_assisi, theme:preaching, theme:order_of_friars_minor, virtue:obedience, virtue:patience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "30",
     "topics": "person:st_francis_of_assisi, person:fr_bernard_of_quintavalle, person:fr_giles_of_assisi, theme:order_of_friars_minor, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "31",
     "topics": "person:st_francis_of_assisi, theme:order_of_friars_minor, theme:conversion, virtue:humility, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "32",
     "topics": "person:st_francis_of_assisi, person:pope_innocent_iii, person:bishop_guido_of_assisi, place:rome, place:assisi, theme:rule, theme:order_of_friars_minor",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "33",
     "topics": "person:st_francis_of_assisi, person:pope_innocent_iii, theme:preaching, theme:vision, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "34",
     "topics": "person:st_francis_of_assisi, place:rome, place:spoleto, virtue:humility, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "35",
     "topics": "person:st_francis_of_assisi, place:spoleto, virtue:poverty, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "36",
     "topics": "person:st_francis_of_assisi, theme:preaching, theme:conversion",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "37",
     "topics": "person:st_francis_of_assisi, theme:conversion, theme:third_order, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "38",
     "topics": "person:st_francis_of_assisi, theme:order_of_friars_minor, virtue:humility, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "39",
     "topics": "virtue:poverty, virtue:obedience, theme:order_of_friars_minor, person:thomas_of_celano",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "40",
     "topics": "theme:prayer,theme:fasting,virtue:patience,virtue:fortitude",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "41",
     "topics": "person:st_francis_of_assisi, theme:order_of_friars_minor, virtue:chastity, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "42",
     "topics": "person:st_francis_of_assisi, place:rivotorto, place:assisi, virtue:poverty, virtue:patience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "43",
     "topics": "person:st_francis_of_assisi, virtue:humility, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "44",
     "topics": "person:st_francis_of_assisi, place:portiuncula, place:basilica_of_st_mary_of_the_angels, virtue:poverty, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "45",
     "topics": "person:st_francis_of_assisi, theme:prayer, theme:cross, virtue:obedience, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "46",
     "topics": "person:st_francis_of_assisi, virtue:simplicity, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "47",
     "topics": "person:st_francis_of_assisi, theme:vision, theme:prayer, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "48",
     "topics": "person:st_francis_of_assisi, theme:vision, theme:prayer, virtue:humility, virtue:patience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "49",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "50",
     "topics": "person:st_francis_of_assisi, virtue:simplicity, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "51",
     "topics": "person:st_francis_of_assisi, virtue:poverty, theme:fasting",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "52",
     "topics": "person:st_francis_of_assisi, place:assisi, virtue:humility, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "53",
     "topics": "person:st_francis_of_assisi, person:pietro_di_bernardone, virtue:humility, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "54",
     "topics": "person:st_francis_of_assisi, virtue:humility, theme:reconciliation",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "55",
     "topics": "person:st_francis_of_assisi, place:holy_land, theme:miracle, virtue:faith, virtue:hope",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "56",
     "topics": "person:st_francis_of_assisi, theme:preaching, theme:mission, virtue:fortitude",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "57",
     "topics": "person:st_francis_of_assisi, person:sultan_al_kamil, place:holy_land, event:journey_to_the_sultan_and_east, theme:mission, virtue:fortitude",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "58",
     "topics": "person:st_francis_of_assisi, place:bevagna, place:spoleto, event:preaching_to_the_birds, theme:preaching",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "59",
     "topics": "person:st_francis_of_assisi, theme:preaching, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "60",
     "topics": "place:greccio, place:perugia, person:st_francis_of_assisi, virtue:charity, virtue:mercy",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "61",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:prayer, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "62",
     "topics": "person:st_francis_of_assisi, theme:preaching, virtue:faith, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "63",
     "topics": "person:st_francis_of_assisi, theme:miracle, virtue:faith",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "64",
     "topics": "person:st_francis_of_assisi, theme:miracle, virtue:faith",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "65",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:preaching, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "66",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:cross",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "67",
     "topics": "person:st_francis_of_assisi, place:gubbio, theme:miracle, virtue:mercy",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "68",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "69",
     "topics": "person:st_francis_of_assisi, person:fr_elias_of_cortona, theme:miracle, theme:prayer, virtue:humility, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "70",
     "topics": "person:st_francis_of_assisi, theme:miracle, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "71",
     "topics": "person:st_francis_of_assisi, theme:prayer, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "72",
     "topics": "person:st_francis_of_assisi, theme:preaching, virtue:fortitude",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "73",
     "topics": "person:st_francis_of_assisi, person:pope_honorius_iii, person:pope_gregory_ix, place:rome, theme:preaching, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "74",
     "topics": "person:st_francis_of_assisi, person:pope_gregory_ix, theme:order_of_friars_minor, virtue:humility, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "75",
     "topics": "person:st_francis_of_assisi, virtue:poverty, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "76",
     "topics": "person:st_francis_of_assisi, virtue:poverty, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "77",
     "topics": "person:st_francis_of_assisi, virtue:charity, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "78",
     "topics": "person:st_francis_of_assisi, place:portiuncula, place:basilica_of_st_mary_of_the_angels, virtue:simplicity, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "79",
     "topics": "person:st_francis_of_assisi, virtue:mercy, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "80",
     "topics": "person:st_francis_of_assisi, virtue:simplicity, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "81",
     "topics": "person:st_francis_of_assisi, virtue:charity, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "82",
     "topics": "person:st_francis_of_assisi, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "83",
     "topics": "person:st_francis_of_assisi, virtue:humility, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "84",
     "topics": "person:st_francis_of_assisi, place:greccio, virtue:humility, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "85",
     "topics": "person:st_francis_of_assisi, place:greccio, virtue:simplicity, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "86",
     "topics": "person:st_francis_of_assisi, place:greccio, theme:preaching, theme:vision, virtue:joy",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "87",
     "topics": "person:st_francis_of_assisi, place:greccio, theme:miracle, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "88",
     "topics": "person:st_francis_of_assisi, place:assisi, place:portiuncula, event:death_of_francis_passing_of_francis, theme:death, theme:order_of_friars_minor",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "89",
     "topics": "person:st_francis_of_assisi, theme:conversion, theme:preaching",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "90",
     "topics": "person:st_francis_of_assisi, theme:stigmata, theme:cross, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "91",
     "topics": "person:st_francis_of_assisi, theme:prayer, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "92",
     "topics": "person:st_francis_of_assisi, theme:prayer, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "93",
     "topics": "person:st_francis_of_assisi, virtue:humility, virtue:fortitude, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "94",
     "topics": "person:st_francis_of_assisi, place:la_verna, event:imprinting_of_the_stigmata, theme:stigmata, theme:vision",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "95",
     "topics": "person:st_francis_of_assisi, person:fr_rufino_of_assisi, person:fr_elias_of_cortona, theme:stigmata, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "96",
     "topics": "person:st_francis_of_assisi, theme:prayer, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "97",
     "topics": "person:st_francis_of_assisi, theme:preaching, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "98",
     "topics": "person:st_francis_of_assisi, person:fr_elias_of_cortona, virtue:humility, theme:stigmata",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "99",
     "topics": "person:st_francis_of_assisi, person:pope_gregory_ix, person:pope_honorius_iii, virtue:poverty, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "100",
     "topics": "person:st_francis_of_assisi, person:pope_honorius_iii, person:pope_gregory_ix, theme:order_of_friars_minor, place:rome",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "101",
     "topics": "person:st_francis_of_assisi, virtue:humility, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "102",
     "topics": "person:st_francis_of_assisi, virtue:patience, virtue:humility",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "103",
     "topics": "person:st_francis_of_assisi, virtue:humility, virtue:fortitude",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "104",
     "topics": "person:st_francis_of_assisi, virtue:humility, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "105",
     "topics": "person:st_francis_of_assisi, person:fr_elias_of_cortona, place:siena, place:cortona, place:assisi, theme:death",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "106",
     "topics": "person:st_francis_of_assisi, place:portiuncula, place:basilica_of_st_mary_of_the_angels, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "107",
     "topics": "person:st_francis_of_assisi, virtue:patience, virtue:obedience",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "108",
     "topics": "person:st_francis_of_assisi, person:fr_elias_of_cortona, place:assisi, place:portiuncula, theme:death, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "109",
     "topics": "person:st_francis_of_assisi, person:fr_elias_of_cortona, place:foligno, theme:death, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "110",
     "topics": "person:st_francis_of_assisi, theme:death, theme:vision, event:death_of_francis_passing_of_francis",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "111",
     "topics": "person:st_francis_of_assisi, virtue:mercy, theme:death",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "112",
     "topics": "person:st_francis_of_assisi, place:assisi, theme:stigmata, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "113",
     "topics": "person:st_francis_of_assisi, theme:stigmata, theme:death, virtue:joy",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "114",
     "topics": "person:st_francis_of_assisi, theme:stigmata, theme:cross, virtue:charity, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "115",
     "topics": "person:st_francis_of_assisi, theme:cross, theme:stigmata, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "116",
     "topics": "person:st_francis_of_assisi, person:st_clare_of_assisi, place:assisi, place:san_damiano, theme:death, theme:order_of_saint_clare, event:death_of_francis_passing_of_francis",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "117",
     "topics": "person:st_francis_of_assisi, theme:death, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "118",
     "topics": "person:st_francis_of_assisi, theme:stigmata, theme:miracle, virtue:mercy",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "119",
     "topics": "person:st_francis_of_assisi, theme:stigmata, theme:miracle, virtue:poverty, virtue:charity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "120",
     "topics": "person:st_francis_of_assisi, theme:miracle, virtue:simplicity",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "121",
     "topics": "theme:miracle, person:st_francis_of_assisi, person:pope_gregory_ix",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "122",
     "topics": "person:pope_gregory_ix, place:rome, place:spoleto, virtue:humility, virtue:poverty",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "123",
     "topics": "person:st_francis_of_assisi, place:assisi, place:perugia, event:canonization_1228, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "124",
     "topics": "person:st_francis_of_assisi, place:assisi, event:canonization_1228, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "125",
     "topics": "person:pope_gregory_ix, person:st_francis_of_assisi, event:canonization_1228, place:rome, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "126",
     "topics": "person:st_francis_of_assisi, person:pope_gregory_ix, place:assisi, event:canonization_1228, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "127",
     "topics": "person:st_francis_of_assisi, person:pope_gregory_ix, theme:miracle, theme:death",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "128",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "129",
     "topics": "person:st_francis_of_assisi, place:foligno, theme:miracle, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "130",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "131",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "132",
     "topics": "person:st_francis_of_assisi, place:gubbio, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "133",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:vision",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "134",
     "topics": "place:gubbio, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "135",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:vision",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "136",
     "topics": "person:st_francis_of_assisi, place:assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "137",
     "topics": "place:foligno, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "138",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:vision",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "139",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "140",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:prayer",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "141",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "142",
     "topics": "person:st_francis_of_assisi, place:gubbio, theme:miracle, virtue:faith",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "143",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:vision",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "144",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "145",
     "topics": "person:st_francis_of_assisi, theme:miracle, virtue:faith",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "146",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "147",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "148",
     "topics": "person:st_francis_of_assisi, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "149",
     "topics": "person:st_francis_of_assisi, place:perugia, theme:miracle",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "150",
     "topics": "person:st_francis_of_assisi, place:greccio, theme:miracle, virtue:faith",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   },
   {
     "paragraph": "151",
     "topics": "person:st_francis_of_assisi, theme:miracle, theme:stigmata",
     "by": "Claude <noreply@anthropic.com>",
-    "by_type": "ai",
-    "verified": false
+    "provenance": "ai"
   }
 ]

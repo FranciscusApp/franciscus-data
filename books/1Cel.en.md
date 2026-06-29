@@ -1,10 +1,12 @@
 ---
-id: 1Cel
 title: "Life of Saint Francis"
 author: "Thomas of Celano"
-date: "1228-1229"
-reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
-license: CC0-1.0
+description:
+translator: "Claude <noreply@anthropic.com>"
+provenance: ai
+status: draft
+translation_source:
+notes:
 ---
 
 # THE FIRST LIFE OF SAINT FRANCIS
