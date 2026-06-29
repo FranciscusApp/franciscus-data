@@ -16,7 +16,7 @@ is a hard requirement, but it's the only one.
 | **Text corrections** (typos, bad OCR, wrong reading) | `books/<id>.md` | The Latin should faithfully match the cited reference edition. |
 | **Translations** | `books/<id>.<lang>.md` | A standalone file per language; same IDs as the Latin source. |
 | **Annotations** (topics, cross-work relations) | `books/<id>.json` | Values must come from `topics.toml`. |
-| **Topic pages** | `topics/<type>:<value>.md` | Long-form prose about a person/place/event/theme/virtue. |
+| **Topic pages** | `topics/<type>/<value>.md` | Long-form prose about a person/place/event/theme/virtue. |
 | **New vocabulary** | `topics.toml` | Propose new topic values here before using them in annotations. |
 | **New works** | a new set of the files above | Get in touch first so we can agree on the reference edition. |
 | **Editorial notes** | `editor-notes/<id>.md` | Free-text; not ingested, for human editors only. |

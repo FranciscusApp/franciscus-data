@@ -9,7 +9,7 @@ This folder is the normative specification for everything under
 |------|--------|
 | [books.md](books.md) | Source texts and translations — `books/<id>.md`, `books/<id>.<lang>.md` |
 | [annotations.md](annotations.md) | Semantic annotation sidecars — `books/<id>.json` |
-| [topics.md](topics.md) | Topic pages — `topics/<type>:<value>.md` |
+| [topics.md](topics.md) | Topic pages — `topics/<type>/<value>.md` |
 
 The controlled vocabulary of topic values referenced by annotations and topic
 pages lives in [`../topics.toml`](../topics.toml).
@@ -42,5 +42,4 @@ ingests the corpus into the SQLite database the app ships.
 | Annotations in sidecar `<id>.json`     | OPTIONAL | [annotations](annotations.md) |
 | `paragraph` + (`topics` or `relations`) + `by` | REQUIRED (per annotation) | [annotations](annotations.md) |
 | `by_type` / `verified` on annotation   | OPTIONAL | [annotations](annotations.md) |
-| Topic page `type` + `description`      | REQUIRED | [topics](topics.md#frontmatter) |
-| Topic translation `lang_slug`          | OPTIONAL | [topics](topics.md#frontmatter) |
+| Topic page `description` (`type` from `topics/<type>/`) | REQUIRED | [topics](topics.md#frontmatter) |
