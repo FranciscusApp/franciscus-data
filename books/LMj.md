@@ -3,27 +3,7 @@ title: "Legenda Maior Sancti Francisci"
 author: "Bonaventura da Bagnoregio"
 date: "1263"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
-description: |
-    The Legenda Maior is the normative and official biography of St. Francis for the Franciscan Order.
-    Written in 1263 by Bonaventura of Bagnoregio, at the time Minister General of the Ordo Fratrum Minorum,
-    it was subsequently canonized as the official biography of St. Francis for the entire order.
-    
-    It was consequently ordered that other biographies be destroyed and banned from the order. Recent
-    historical research has proposed this to be an attempt at censorship, however it's worth to mention
-    that the norm was limited to the franciscan order, that no actual persecution against ownership of alternative
-    biography has been recorded, and that these texts have indeed reached us.
-    
-    In addition, Bonaventura borrows extensively from previous biographies, particularly Tommaso da Celano's works,
-    often qouting the text word-by-word. The Legenda Maior's distinct feature is lack of concern with chronology,
-    and the attempt at grouping events and accounts on the saint in theologically-coherent essays.
-
-    For this reason, the Legenda Maior might be better understood as the attempt to systematize the theological
-    importance of St. Francis, and to provide a uniform and authoritative narrative for the onboarding friars, 
-    in the now influent and institutionalized franciscan order.
-description_short: The normative and official biography of St. Francis for the Franciscan Order.
-notes: > 
-    Description by Alfredo Salata <as@salata.ovh>. Source latin text from DocumentaCatholicaOmnia.org,
-    extracted from PDF source and normalized.
+source: "DocumentaCatholicaOmnia.eu"
 ---
 
 # LEGENDA MAIOR SANCTI FRANCISCI

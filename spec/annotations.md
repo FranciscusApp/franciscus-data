@@ -1,19 +1,60 @@
-# Annotation sidecar files
+# Per-book sidecar files
 
 **Applies to:** `books/<id>.yaml`.
 
-Semantic annotations for a book live in a YAML file beside it, sharing the
-book's stem: `<id>.yaml` (e.g. `1Cel.yaml` accompanies `1Cel.md`). The `book_id`
-is taken from the filename and is NOT repeated inside the file.
+Each book has a single YAML sidecar beside it, sharing the book's stem:
+`<id>.yaml` (e.g. `1Cel.yaml` accompanies `1Cel.md`). The `book_id` is taken
+from the filename and is NOT repeated inside the file. The sidecar holds two
+sections, both optional:
 
-The file is a YAML list of annotation mappings:
+1. **Cover properties** — book-level editorial metadata, keyed by **UI
+   language** (`en`, `it`, …), at the top of the file.
+2. **`annotations`** — the list of paragraph annotation mappings.
 
 ```yaml
-- paragraph: prolog-1
-  topics: person:st_francis_of_assisi, person:pope_gregory_ix
-  relations: same_episode:LMj-prol-1
-  by: Claude <noreply@anthropic.com>
-  provenance: ai
+description_short:
+  en: The first biography of Saint Francis.
+  it: La prima biografia di San Francesco.
+description:
+  en: |
+    The *Vita prima* is the first biography of Saint Francis…
+  it: |
+    La *Vita prima* è la prima biografia di San Francesco…
+annotations:
+  - paragraph: prolog-1
+    topics: person:st_francis_of_assisi, person:pope_gregory_ix
+    relations: same_episode:LMj-prol-1
+    by: Claude <noreply@anthropic.com>
+    provenance: ai
+```
+
+## Cover properties
+
+These describe the **work**, not any one rendition, so they are keyed by UI
+language (the same blurb, translated) rather than by corpus language — they are
+an annotation *about* the book, deliberately kept out of the text files' YAML
+frontmatter.
+
+| Field               | Type                | Description                                                              |
+|---------------------|---------------------|--------------------------------------------------------------------------|
+| `description_short` | map `lang → string` | One-line blurb; shown on the home book list.                             |
+| `description`       | map `lang → string` | Long description, authored as **Markdown** (rendered to HTML at ingest). |
+
+English (`en`) is the default and the fallback when a UI language has no entry.
+The book page's editorial "Notes" are **not** authored here — they are generated
+from each rendition's provenance (see [`books.md`](books.md)).
+
+## `annotations`
+
+A list of annotation mappings:
+
+```yaml
+annotations:
+  - paragraph: prolog-1
+    topics: person:st_francis_of_assisi, person:pope_gregory_ix
+    relations: same_episode:LMj-prol-1
+    by: Claude <noreply@anthropic.com>
+    provenance: ai
 ```
 
 | Field          | Type    | Level    | Description                                                                |

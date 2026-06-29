@@ -1,13 +1,10 @@
 ---
 title: "Remembrance of the Desire of a Soul"
 author: "Thomas of Celano"
-description:
-description_short:
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft
 translation_source:
-notes:
 ---
 
 # THE SECOND LIFE OF SAINT FRANCIS

@@ -1,14 +1,12 @@
 ---
-title: "Testamentum (Franciscus Assisiensis)"
+title: "Testamentum Frate Francisci"
 author: "Franciscus Assisiensis"
 date: "1226"
 reference_edition: "unknown"
-description:
-description_short:
-notes:
+source: "Wikisource"
 ---
 
-# Testamentum (Franciscus Assisiensis)
+# Testamentum Frate Francisci
 
 ## Testamentum Frate Francisci <a id="testamentum"></a>
 

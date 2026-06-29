@@ -1,16 +1,14 @@
 ---
-title: "Testament"
+title: "Testament of Brother Francis"
 author: "Francis of Assisi"
-description:
-description_short:
-translator: "Claude <noreply@anthropic.com>"
-provenance: ai
-status: draft
-translation_source:
-notes:
+
+translator: "OFM <archivum@ofm.org>"
+provenance: human
+status: final
+translation_source: OFM.org
 ---
 
-# Testament (Francis of Assisi)
+# Testament of Brother Francis
 
 ## Testament of Brother Francis <a id="testamentum"></a>
 

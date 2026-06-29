@@ -1,16 +1,14 @@
 ---
-title: "Testamento"
+title: "Testamento di Frate Francesco"
 author: "Francesco d'Assisi"
-description:
-description_short:
-translator: "Claude <noreply@anthropic.com>"
-provenance: ai
-status: draft
-translation_source:
-notes:
+
+translator: "OFM <archivum@ofm.org>"
+provenance: human
+status: final
+translation_source: OFM.org
 ---
 
-# Testamento (Francesco di Assisi)
+# Testamento di Frate Francesco
 
 ## Testamento di Frate Francesco <a id="testamentum"></a>
 

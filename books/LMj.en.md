@@ -1,13 +1,11 @@
 ---
 title: "Major Legend of Saint Francis"
 author: "Bonaventure of Bagnoregio"
-description:
-description_short:
+
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft
 translation_source:
-notes:
 ---
 
 # MAJOR LEGEND OF SAINT FRANCIS
