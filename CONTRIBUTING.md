@@ -15,9 +15,9 @@ is a hard requirement, but it's the only one.
 |--------------|----------------|-------|
 | **Text corrections** (typos, bad OCR, wrong reading) | `books/<id>.md` | The Latin should faithfully match the cited reference edition. |
 | **Translations** | `books/<id>.<lang>.md` | A standalone file per language; same IDs as the Latin source. |
-| **Annotations** (topics, cross-work relations) | `books/<id>.json` | Values must come from `topics.toml`. |
+| **Annotations** (topics, cross-work relations) | `books/<id>.yaml` | Values must come from `topics/topics.yaml`. |
 | **Topic pages** | `topics/<type>/<value>.md` | Long-form prose about a person/place/event/theme/virtue. |
-| **New vocabulary** | `topics.toml` | Propose new topic values here before using them in annotations. |
+| **New vocabulary** | `topics/topics.yaml` | Propose new topic values here before using them in annotations. |
 | **New works** | a new set of the files above | Get in touch first so we can agree on the reference edition. |
 | **Editorial notes** | `editor-notes/<id>.md` | Free-text; not ingested, for human editors only. |
 
@@ -68,8 +68,8 @@ A few things that trip people up:
   can't record which passages of a translation are human-reviewed — a file is
   all-or-nothing. If you human-author or review a translation, say so in your PR /
   email and in [CREDITS.md](CREDITS.md) so it's at least recorded out of band.
-- **Annotation values must exist in `topics.toml`.** `virtue:poverty` is valid;
-  `virtue:temperance` is not unless you add it. Add new values to `topics.toml` in
+- **Annotation values must exist in `topics/topics.yaml`.** `virtue:poverty` is valid;
+  `virtue:temperance` is not unless you add it. Add new values to `topics/topics.yaml` in
   the same change.
 - **Mark provenance honestly.** New annotations you write by hand are
   `by_type: human`; set `verified: true` only for content a human has actually

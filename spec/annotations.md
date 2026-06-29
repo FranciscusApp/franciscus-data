@@ -1,23 +1,19 @@
 # Annotation sidecar files
 
-**Applies to:** `books/<id>.json`.
+**Applies to:** `books/<id>.yaml`.
 
-Semantic annotations for a book live in a JSON file beside it, sharing the
-book's stem: `<id>.json` (e.g. `1Cel.json` accompanies `1Cel.md`). The `book_id`
+Semantic annotations for a book live in a YAML file beside it, sharing the
+book's stem: `<id>.yaml` (e.g. `1Cel.yaml` accompanies `1Cel.md`). The `book_id`
 is taken from the filename and is NOT repeated inside the file.
 
-The file is a JSON array of annotation objects:
+The file is a YAML list of annotation mappings:
 
-```json
-[
-  {
-    "paragraph": "prolog-1",
-    "topics": "person:st_francis_of_assisi, person:pope_gregory_ix",
-    "relations": "same_episode:LMj-prol-1",
-    "by": "Claude <noreply@anthropic.com>",
-    "provenance": "ai"
-  }
-]
+```yaml
+- paragraph: prolog-1
+  topics: person:st_francis_of_assisi, person:pope_gregory_ix
+  relations: same_episode:LMj-prol-1
+  by: Claude <noreply@anthropic.com>
+  provenance: ai
 ```
 
 | Field          | Type    | Level    | Description                                                                |
@@ -39,9 +35,9 @@ Each item is a `type:value` pair, items separated by commas. Whitespace around
 commas and the colon is insignificant. The data engine expands each pair into
 one annotation record.
 
-- `type` is one of the topic tables defined in [`../topics.toml`](../topics.toml)
+- `type` is one of the topic tables defined in [`../topics/topics.yaml`](../topics/topics.yaml)
   (`person`, `place`, `event`, `theme`, `virtue`).
-- `value` MUST be a value listed under that type in `topics.toml`.
+- `value` MUST be a value listed under that type in `topics/topics.yaml`.
 
 ```
 person:st_francis_of_assisi, place:assisi, event:canonization_1228

@@ -13,7 +13,7 @@ topics/person/st_clare_of_assisi.it.md    # Italian translation
 ```
 
 The topic `type` is the subdirectory name; one of the topic types in
-[`../topics.toml`](../topics.toml) (`person`, `place`, `event`, `theme`,
+[`../topics/topics.yaml`](../topics/topics.yaml) (`person`, `place`, `event`, `theme`,
 `virtue`, …). The `value` is the filename stem, split on the first `.` to
 separate the optional `<lang>` suffix. The path is authoritative — there is no
 `type:` field in the frontmatter.

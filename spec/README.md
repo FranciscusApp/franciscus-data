@@ -8,11 +8,11 @@ This folder is the normative specification for everything under
 | Spec | Covers |
 |------|--------|
 | [books.md](books.md) | Source texts and translations — `books/<id>.md`, `books/<id>.<lang>.md` |
-| [annotations.md](annotations.md) | Semantic annotation sidecars — `books/<id>.json` |
+| [annotations.md](annotations.md) | Semantic annotation sidecars — `books/<id>.yaml` |
 | [topics.md](topics.md) | Topic pages — `topics/<type>/<value>.md` |
 
 The controlled vocabulary of topic values referenced by annotations and topic
-pages lives in [`../topics.toml`](../topics.toml).
+pages lives in [`../topics/topics.yaml`](../topics/topics.yaml).
 
 The keywords MUST, MUST NOT, REQUIRED, SHOULD and MAY are used as in
 [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
@@ -41,7 +41,7 @@ ingests the corpus into the SQLite database the app ships.
 | `[n]` verse markers inside `<p>`       | OPTIONAL | [books](books.md#verse-numbers) |
 | Translation `title`/`author`/`translator`/`provenance`/`status` | REQUIRED | [books](books.md#translation-files) |
 | `provenance` / `by` on translation `<p>` | OPTIONAL | [books](books.md#per-paragraph-provenance) |
-| Annotations in sidecar `<id>.json`     | OPTIONAL | [annotations](annotations.md) |
+| Annotations in sidecar `<id>.yaml`     | OPTIONAL | [annotations](annotations.md) |
 | `paragraph` + (`topics` or `relations`) + `by` | REQUIRED (per annotation) | [annotations](annotations.md) |
 | `provenance` on annotation             | OPTIONAL | [annotations](annotations.md) |
 | Topic page `description` (`type` from `topics/<type>/`) | REQUIRED | [topics](topics.md#frontmatter) |
