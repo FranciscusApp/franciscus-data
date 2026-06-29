@@ -31,9 +31,15 @@ frontmatter fields:
 | `author`            | string | ✓   | Author or attributed author                     |
 | `date`              | string | ✓   | Date or date range of composition               |
 | `reference_edition` | string | ✓   | Print edition whose numbering this file follows |
-| `description`       | string | –   | Description of the work (Markdown; rendered)    |
-| `description_short` | string | –   | One-line description, plain text (for listings) |
-| `notes`             | string | –   | Free-text note                                  |
+| `source`            | string | –   | Where the source-language text was obtained     |
+
+`source` is this rendition's provenance (the source text's counterpart to a
+translation's `translation_source`); the book page turns it into a localized
+"Source text from …" note. Editorial **descriptions** are NOT frontmatter: they describe the work (not a
+rendition) and are keyed by UI language, so they live in the per-book sidecar's
+cover properties (see [annotations.md](annotations.md)). The book page's
+**notes** are likewise not authored here — they are generated from each
+rendition's provenance (`provenance` / `status` / `translation_source`, below).
 
 ```yaml
 ---
@@ -41,13 +47,7 @@ title: "Vita Prima S. Francisci"
 author: "Tommaso da Celano"
 date: "1228"
 reference_edition: "Analecta Franciscana X (Quaracchi)"
-description: |
-  Markdown body. Use a literal block scalar (`|`) so blank lines become
-  paragraph breaks; a folded `>` would collapse them into one paragraph.
-
-  A second paragraph renders as its own `<p>`.
-description_short:
-notes:
+source: "DocumentaCatholicaOmnia.eu"
 ---
 ```
 
@@ -68,25 +68,24 @@ As with the source, all fields appear in the order below, optional ones included
 |----------------------|--------|-----|------------------------------------------------------|
 | `title`              | string | ✓   | Localized title                                      |
 | `author`             | string | ✓   | Localized author name                                |
-| `description`        | string | –   | Localized description                                |
-| `description_short`  | string | –   | Localized one-line description                       |
 | `translator`         | string | ✓   | Default `by` for every `<p>` (`Name <email>`)        |
 | `provenance`         | string | ✓   | File-wide default provenance; per-`<p>` overridable  |
 | `status`             | string | ✓   | Editorial status: `draft` · `in-review` · `final`    |
 | `translation_source` | string | –   | What this was translated from                        |
-| `notes`              | string | –   | Free-text note                                       |
+
+`translator`, `provenance`, `status`, and `translation_source` are this
+rendition's provenance; the book page turns them into a localized editorial note
+(e.g. "Official translation from …", or an AI-draft caveat). As above,
+descriptions belong in the sidecar, not here.
 
 ```yaml
 ---
 title: "Vita prima di San Francesco"
 author: "Tommaso da Celano"
-description:
-description_short:
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft
 translation_source:
-notes:
 ---
 ```
 
