@@ -4,38 +4,58 @@ description_short:
   it: La prima biografia di San Francesco, scritta per la sua canonizzazione, poco dopo la sua morte.
 description:
   en: |-
-    The Vita prima is the first biography of Saint Francis, written by Thomas of Celano
-    at the command of Pope Gregory IX in the months surrounding the canonization of 1228.
-    Composed barely two years after Sthe saint's death by a friar who had known him, it is
-    the closest in time of all the Franciscan sources, and the one from which nearly every
-    later legend would draw.
+    The Vita prima is the first biography of **Saint Francis**, written by **Thomas of Celano**
+    at the command of **Pope Gregory IX** in the months surrounding the **canonization** of 1228.
+    Composed barely two years after the saint's death by a friar who had known him, it is
+    the closest in time of all the biographies of Saint Francis.
 
-    Thomas divides the work into three books: the first follows the historical order of
-    Francis's conversion and life, the second narrates his final years and his death, and
-    the third recounts the miracles and the solemn canonization at the hands of Gregory IX,
-    whose reverence for the saint Thomas records with evident affection.
+    Many of the events concerning the saint are already crystallized in this writing:
+    the meeting with the **leper**, his father's persecution, the renunciation before the bishop,
+    the crib of **Greccio**, and the **stigmata** of **La Verna**; the tone is deeply affectionate and celebratory.
 
-    More than a chronicle, the Vita prima is the official act by which the Church received
-    Francis into the company of the saints, and it preserves the freshness of a memory still
-    living: the leper, the crucifix of San Damiano, the renunciation before the bishop, the
-    crib of Greccio, and the stigmata of La Verna are first set down here.
+    Compared with the later sources, one should note the harsh judgement passed on Francis's
+    origins, which this Celano recounts as truly dissolute. Already in the *Vita secunda* this
+    aspect would be softened, as indeed they are presented more gently in the *Legend of the
+    Three Companions* — ascribed by tradition to the original companions.
+
+    It is possible that Thomas, less familiar with **Assisi** than the first companions, exaggerated
+    these origins in order to heighten the role of grace, thus drawing a parallel between the
+    **conversion** of Francis and that of **Saint Paul**. Indeed the whole structure of the book is
+    theological: Francis's ministry is narrated as a parallel to the ministry of **Christ**, with
+    the saint who «travels through the villages proclaiming the kingdom of God,» his death
+    recalling the Passion, and the miracles after his death and through the canonization being
+    an image of the triumph of the Resurrection.
+
+    Celano's work is therefore guided in part by an intent that transcends historical accuracy,
+    yet for this very reason it offers a spiritual value unique and distinct from the *Legend of
+    the Three Companions*, more sober and personal, or from the more rigorous and organic *Major
+    Legend* of **Bonaventure**.
   it: |-
-    La Vita prima è la prima biografia di San Francesco, scritta da Tommaso da Celano
-    per incarico di papa Gregorio IX nei mesi attorno alla canonizzazione del 1228.
+    La Vita prima è la prima biografia di **San Francesco**, scritta da **Tommaso da Celano**
+    per incarico di **papa Gregorio IX** nei mesi attorno alla **canonizzazione** del 1228.
     Composta appena due anni dopo la morte del santo da un frate che lo aveva conosciuto,
-    è la più vicina nel tempo fra tutte le fonti francescane, e quella da cui attingeranno
-    quasi tutte le leggende successive.
+    è la più vicina nel tempo fra tutte le biografie su San Francesco.
 
-    Tommaso divide l'opera in tre libri: il primo segue l'ordine storico della conversione
-    e della vita di Francesco, il secondo narra i suoi ultimi anni e la sua morte, il terzo
-    raccoglie i miracoli e la solenne canonizzazione per mano di Gregorio IX, di cui Tommaso
-    ricorda la venerazione con evidente affetto.
+    Molti dei fatti riguardanti il santo sono cristallizzati già in questo scritto: 
+    l'incontro con il **lebbroso**, la persecuzione paterna, la rinuncia davanti al vescovo, 
+    il presepe di **Greccio** e le **stimmate** della **Verna**; il tono è molto affettuoso e celebrativo.
 
-    Più che una cronaca, la Vita prima è l'atto ufficiale con cui la Chiesa accolse Francesco
-    nel numero dei santi, e conserva la freschezza di una memoria ancora viva: il lebbroso,
-    il crocifisso di San Damiano, la rinuncia davanti al vescovo, il presepe di Greccio e le
-    stimmate della Verna vi sono fissati per la prima volta.
+    Rispetto alle fonti successive va notato il crudo giudizio rispetto alle origini di Francesco,
+    raccontate da questo Celano come veramente dissolute. Già nella *Vita Seconda* questo aspetto sarà 
+    attenuato, come del resto sono presentate in maniera più morbida nella *Leggenda dei Tre Compagni*
+    — attribuita dalla tradizione ai compagni originali.
 
+    È possibile che Tommaso, meno familiare con **Assisi** dei primi compagni, abbia esagerato
+    queste origini per accentuare il ruolo della grazia, tracciando così un parallelo tra la 
+    **conversione** di Francesco e quella di **San Paolo**. Del resto l'intera struttura del libro
+    è teologica: il ministero di Francesco è narrato come parallelo del ministero di **Cristo**,
+    con il Santo che «viaggia per i villaggi annunciando il regno di Dio», la sua morte richiama
+    la Passione, ed i miracoli dopo la morte e attraverso la canonizzazione sono immagine del trionfo
+    della Resurrezione.
+
+    Il lavoro di Celano è quindi in parte guidato da un intento che trascende l'accuratezza storica,
+    ma proprio per questo offre un valore spirituale unico e diverso dalla *Leggenda dei Tre Compagni*,
+    più sobria e personale, o dalla più rigorosa e organica *Leggenda Maggiore* di **Bonaventura**.
 annotations:
   - paragraph: prolog-1
     topics: person:st_francis_of_assisi, person:pope_gregory_ix
