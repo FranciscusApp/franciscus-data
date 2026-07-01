@@ -22,7 +22,7 @@ The keywords MUST, MUST NOT, REQUIRED, SHOULD and MAY are used as in
 Each source text is a single Markdown file augmented with YAML frontmatter and a
 restricted set of inline HTML elements. The format preserves the paragraph
 numbering of the reference print edition while remaining machine-parseable. A
-Rust CLI ([`franciscus/server`](https://github.com/snowstorm-alfredosalata/franciscus))
+Rust CLI ([`franciscus/server`](https://github.com/FranciscusApp/franciscus))
 ingests the corpus into the SQLite database the app ships.
 
 ## Conformance summary

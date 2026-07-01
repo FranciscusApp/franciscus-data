@@ -23,7 +23,7 @@ the early biographies of Francis of Assisi, encoded as plain Markdown + JSON so
 they can be read, searched, cited, re-edited, and re-used by anyone — scholars,
 students, developers, or curious readers.
 
-The app ([`franciscus`](https://github.com/snowstorm-alfredosalata/franciscus))
+The app ([`franciscus`](https://github.com/FranciscusApp/franciscus))
 compiles this folder into a SQLite database it ships to the browser. But the
 data stands on its own: every text and annotation here is a portable file you
 can take elsewhere.
@@ -137,7 +137,7 @@ Near-term plans for the corpus:
 - A **Vulgata edition** added to the corpus for scripture cross-referencing.
 
 The app's full roadmap lives in the
-[`franciscus`](https://github.com/snowstorm-alfredosalata/franciscus) repo.
+[`franciscus`](https://github.com/FranciscusApp/franciscus) repo.
 
 ## Contributing
 
@@ -153,7 +153,7 @@ are recorded in **[CREDITS.md](CREDITS.md)**.
 
 <div align="center">
 
-<a href="https://verbumcaro.it"><img src="https://raw.githubusercontent.com/snowstorm-alfredosalata/franciscus/refs/heads/master/app/static/vc-inline-dark.png" alt="Verbum Caro" width="240"></a>
+<a href="https://verbumcaro.it"><img src="https://raw.githubusercontent.com/FranciscusApp/franciscus/refs/heads/master/app/static/vc-inline-dark.png" alt="Verbum Caro" width="240"></a>
 
 </div>
 

@@ -78,7 +78,7 @@ A few things that trip people up:
 ### Validate before you submit
 
 The format validator lives in the sibling
-[`franciscus-scripts`](https://github.com/snowstorm-alfredosalata/franciscus-scripts)
+[`franciscus-scripts`](https://github.com/FranciscusApp/franciscus-scripts)
 repo:
 
 ```bash
