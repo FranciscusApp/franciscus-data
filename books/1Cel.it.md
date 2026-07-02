@@ -61,8 +61,8 @@ INCOMINCIA LA VITA DEL BEATISSIMO NOSTRO PADRE FRANCESCO
 
 <p id="2">
 [1] Tali furono i miseri inizi nei quali quest'uomo, che oggi veneriamo come santo poiché santo è veramente, si aggirò fin dalla fanciullezza, e quasi fino al venticinquesimo anno della sua età sprecò e consumò miserevolmente il proprio tempo.
-[2] Anzi, progredendo malamente nelle vanità più di tutti i suoi coetanei, si distingueva sovrabbondantemente come istigatore di mali e seguace della stoltezza.
-[3] Era oggetto di stupore per tutti e si sforzava di superare gli altri nello sfarzo della vanagloria: negli scherzi, nelle frivolezze, nelle parole buffonesche e vane, nelle canzoni, nelle vesti morbide e svolazzanti;
+[2] Anzi, progredendo in malo modo nelle vanità più di tutti i suoi coetanei, si distingueva sovrabbondantemente come istigatore di mali e seguace della stoltezza.
+[3] Era oggetto di stupore per tutti e si sforzava di superare gli altri nello sfarzo della vanagloria: negli scherzi, nelle frivolezze, nelle parole buffonesche e vane, nelle canzoni, nelle vesti comode e svolazzanti;
 [4] poiché era ricchissimo, non avaro ma prodigo, non accumulatore di denaro ma dissipatore di sostanze, accorto mercante ma quanto mai sconsiderato amministratore; uomo tuttavia di tratto cortese, abile e assai affabile, sebbene a propria insipienza.
 [5] E poiché molti soprattutto per questo lo seguivano, fautori di mali e istigatori di delitti, così, circondato da schiere di iniqui, avanzava altero e magnanimo, percorrendo il suo cammino in mezzo alle piazze di Babilonia,
 [6] finché il Signore non guardò dai cieli e, per amore del suo nome, allontanò da lui il suo furore e gli frenò la bocca con la sua lode, perché non perisse del tutto.
