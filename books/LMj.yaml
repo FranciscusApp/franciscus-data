@@ -38,944 +38,1037 @@ description:
     Per questo motivo, la Legenda Maior può essere meglio compresa come il tentativo di sistematizzare
     l'importanza teologica di San Francesco, e di fornire una narrazione uniforme e autorevole ai frati
     che entravano nell'ordine, ormai influente e istituzionalizzato.
-
 annotations:
-  - paragraph: prolog-1
-    topics: person:st_francis_of_assisi, virtue:poverty, virtue:humility, theme:preaching
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: prolog-2
-    topics: person:st_francis_of_assisi, theme:stigmata, theme:cross
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: prolog-3
-    topics: person:st_francis_of_assisi, person:st_bonaventure, theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: prolog-4
-    topics: person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: prolog-5
-    topics: theme:order_of_friars_minor, theme:rule, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap1-1
-    topics: person:st_francis_of_assisi, place:assisi, virtue:charity, virtue:mercy
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap1-2
-    topics: person:st_francis_of_assisi, theme:conversion, virtue:mercy, virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap1-3
-    topics: person:st_francis_of_assisi, place:assisi, event:conversion_of_francis,
-      theme:vision, virtue:obedience
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap1-4
-    topics: theme:conversion,theme:prayer,virtue:poverty,person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap1-5
-    topics: person:st_francis_of_assisi, place:assisi, event:encounter_with_leper, event:vision_of_san_damiano_crucifix,
-      theme:prayer, virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap1-6
-    topics: person:st_francis_of_assisi, place:rome, theme:conversion, virtue:poverty,
-      virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap2-1
-    topics: theme:vision, event:repair_of_san_damiano_and_churches, virtue:obedience,
-      virtue:poverty, person:st_francis_of_assisi, place:san_damiano, place:foligno,
-      place:assisi, event:vision_of_san_damiano_crucifix
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap2-2
-    topics: person:st_francis_of_assisi, person:pietro_di_bernardone, place:assisi,
-      virtue:fortitude, virtue:patience
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap2-3
-    topics: person:st_francis_of_assisi, person:pietro_di_bernardone, person:pica_de_bourlemont,
-      virtue:fortitude, theme:conversion
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap2-4
-    topics: person:st_francis_of_assisi, person:pietro_di_bernardone, person:bishop_guido_of_assisi,
-      place:assisi, event:renunciation_of_possessions, virtue:poverty, theme:cross
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap2-5
-    topics: person:st_francis_of_assisi, virtue:joy, theme:conversion
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap2-6
-    topics: person:st_francis_of_assisi, place:gubbio, place:spoleto, event:encounter_with_leper,
-      theme:miracle, virtue:humility, virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap2-7
-    topics: virtue:humility,virtue:obedience,event:repair_of_san_damiano_and_churches,person:st_francis_of_assisi,place:assisi,place:san_damiano
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap2-8
-    topics: theme:order_of_friars_minor, theme:vision, person:st_francis_of_assisi,
-      place:portiuncula, place:basilica_of_st_mary_of_the_angels, event:repair_of_san_damiano_and_churches,
-      virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-1
-    topics: person:st_francis_of_assisi, theme:conversion, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-2
-    topics: person:st_francis_of_assisi, theme:preaching, theme:reconciliation
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-3
-    topics: person:st_francis_of_assisi, person:fr_bernard_of_quintavalle, event:calling_of_the_first_brothers,
-      theme:conversion, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-4
-    topics: person:fr_giles_of_assisi, theme:order_of_friars_minor, virtue:simplicity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-5
-    topics: place:assisi, person:st_francis_of_assisi, theme:vision, theme:conversion
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-6
-    topics: theme:vision, theme:cross, person:st_francis_of_assisi, virtue:hope
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-7
-    topics: person:st_francis_of_assisi, theme:order_of_friars_minor, theme:preaching,
-      virtue:obedience, virtue:patience
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-8
-    topics: theme:rule, theme:vision, person:st_francis_of_assisi, virtue:simplicity,
-      theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-9
-    topics: person:st_francis_of_assisi, person:pope_innocent_iii, place:rome, event:approval_of_the_rule_1209,
-      theme:rule, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-9a
-    topics: person:st_francis_of_assisi, person:pope_innocent_iii, place:rome, theme:vision,
-      virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap3-10
-    topics: person:st_francis_of_assisi, person:pope_innocent_iii, place:rome, event:approval_of_the_rule_1209,
-      theme:rule, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-1
-    topics: person:st_francis_of_assisi, place:spoleto, theme:miracle, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-2
-    topics: place:spoleto, theme:prayer, theme:mission, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-3
-    topics: theme:prayer, theme:cross, virtue:poverty, person:st_francis_of_assisi,
-      place:assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-4
-    topics: person:st_francis_of_assisi, place:assisi, theme:vision, theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-5
-    topics: person:st_francis_of_assisi, place:portiuncula, place:basilica_of_st_mary_of_the_angels,
-      theme:preaching, theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-6
-    topics: person:st_clare_of_assisi, person:st_francis_of_assisi, theme:third_order,
-      theme:order_of_saint_clare, virtue:chastity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-7
-    topics: person:st_francis_of_assisi, virtue:poverty, virtue:patience, theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-8
-    topics: theme:miracle, virtue:faith, person:st_francis_of_assisi, place:assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-9
-    topics: person:brother_pacifico, person:st_francis_of_assisi, theme:conversion,
-      theme:vision, virtue:simplicity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-10
-    topics: person:st_francis_of_assisi, place:portiuncula, event:chapter_of_mats, theme:preaching,
-      theme:order_of_friars_minor, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap4-11
-    topics: theme:rule, theme:vision, person:st_francis_of_assisi, person:pope_honorius_iii,
-      person:pope_innocent_iii, event:imprinting_of_the_stigmata
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-1
-    topics: theme:fasting, virtue:fortitude, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-2
-    topics: person:st_francis_of_assisi, virtue:poverty, theme:prayer
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-3
-    topics: person:st_francis_of_assisi, virtue:chastity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-4
-    topics: person:st_francis_of_assisi, virtue:chastity, theme:prayer
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-5
-    topics: virtue:chastity, virtue:simplicity, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-6
-    topics: person:st_francis_of_assisi, theme:order_of_friars_minor, virtue:simplicity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-7
-    topics: person:st_francis_of_assisi, virtue:charity, theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-8
-    topics: person:st_francis_of_assisi, virtue:chastity, virtue:fortitude
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-9
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:patience, virtue:fortitude
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-10
-    topics: theme:miracle, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-11
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:joy
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap5-12
-    topics: theme:preaching, theme:miracle, virtue:faith, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-1
-    topics: virtue:humility, person:st_francis_of_assisi, person:pietro_di_bernardone
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-2
-    topics: virtue:humility, place:assisi, person:st_francis_of_assisi, theme:preaching
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-3
-    topics: person:st_francis_of_assisi, virtue:humility, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-4
-    topics: virtue:obedience,virtue:humility,person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-5
-    topics: virtue:humility, person:st_francis_of_assisi, person:pope_gregory_ix, theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-6
-    topics: virtue:humility, theme:vision, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-7
-    topics: person:st_francis_of_assisi, virtue:obedience, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-8
-    topics: virtue:humility, theme:preaching
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-9
-    topics: virtue:obedience,virtue:humility,theme:miracle,person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-10
-    topics: virtue:humility,virtue:poverty,person:st_francis_of_assisi,place:rome
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap6-11
-    topics: person:st_francis_of_assisi, virtue:humility, virtue:obedience
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-1
-    topics: virtue:poverty,virtue:humility,person:st_francis_of_assisi,theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-2
-    topics: virtue:poverty, theme:order_of_friars_minor, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-3
-    topics: person:st_francis_of_assisi, virtue:poverty, theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-4
-    topics: person:st_francis_of_assisi, place:portiuncula, theme:rule, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-5
-    topics: virtue:obedience,virtue:poverty,person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-6
-    topics: person:st_francis_of_assisi, place:siena, virtue:poverty, virtue:chastity,
-      theme:vision
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-7
-    topics: virtue:poverty,virtue:humility,person:st_francis_of_assisi,theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-8
-    topics: virtue:poverty, theme:order_of_friars_minor, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-9
-    topics: person:st_francis_of_assisi, virtue:poverty, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-10
-    topics: person:st_francis_of_assisi, place:nocera_umbra, place:assisi, virtue:poverty,
-      virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-11
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-12
-    topics: person:st_francis_of_assisi, theme:miracle, theme:prayer
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap7-13
-    topics: theme:miracle, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-1
-    topics: person:st_francis_of_assisi, virtue:charity, virtue:mercy
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-2
-    topics: theme:preaching, virtue:humility, virtue:simplicity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-3
-    topics: theme:order_of_friars_minor, theme:prayer, virtue:charity, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-4
-    topics: person:st_francis_of_assisi, virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-5
-    topics: person:st_francis_of_assisi, place:siena, virtue:charity, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-6
-    topics: person:st_francis_of_assisi, place:gubbio, theme:miracle, virtue:mercy
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-7
-    topics: person:st_francis_of_assisi, person:lady_jacopa_dei_settesoli, place:portiuncula,
-      place:siena, place:rome, theme:miracle, virtue:simplicity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-8
-    topics: person:st_francis_of_assisi, place:greccio, theme:miracle, virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-9
-    topics: person:st_francis_of_assisi, place:portiuncula, theme:miracle, theme:prayer
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-10
-    topics: person:st_francis_of_assisi, place:la_verna, place:siena, theme:miracle,
-      virtue:joy
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap8-11
-    topics: person:st_francis_of_assisi, place:greccio, theme:preaching, theme:miracle,
-      virtue:mercy
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap9-1
-    topics: person:st_francis_of_assisi, virtue:charity, theme:prayer
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap9-2
-    topics: person:st_francis_of_assisi, theme:eucharist, theme:prayer, virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap9-3
-    topics: theme:fasting,theme:prayer,virtue:charity,person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap9-4
-    topics: virtue:charity, theme:preaching, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap9-5
-    topics: person:st_francis_of_assisi, theme:mission, virtue:charity, virtue:hope
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap9-6
-    topics: theme:mission,theme:preaching,person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap9-7
-    topics: event:journey_to_the_sultan_and_east, theme:mission, virtue:fortitude, virtue:charity,
-      person:st_francis_of_assisi, person:sultan_al_kamil, event:journey_to_the_sultan_and_east
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap9-8
-    topics: person:st_francis_of_assisi, person:fr_illuminato_of_rieti, person:sultan_al_kamil,
-      event:journey_to_the_sultan_and_east, theme:mission, theme:preaching, virtue:fortitude,
-      virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap9-9
-    topics: event:journey_to_the_sultan_and_east, theme:stigmata, virtue:fortitude,
-      person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap10-1
-    topics: person:st_francis_of_assisi, theme:prayer, virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap10-2
-    topics: person:st_francis_of_assisi, theme:prayer, virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap10-3
-    topics: theme:prayer, virtue:fortitude, virtue:joy, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap10-4
-    topics: theme:prayer,theme:vision,virtue:humility,person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap10-5
-    topics: person:st_francis_of_assisi, person:bishop_guido_of_assisi, place:portiuncula,
-      place:perugia, theme:prayer, theme:miracle, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap10-6
-    topics: theme:prayer, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap10-7
-    topics: theme:eucharist, theme:vision, person:st_francis_of_assisi, place:greccio,
-      event:death_of_francis_passing_of_francis
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-1
-    topics: person:st_francis_of_assisi, theme:prayer, virtue:simplicity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-2
-    topics: person:st_francis_of_assisi, place:siena, virtue:simplicity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-3
-    topics: person:st_francis_of_assisi, place:damietta, place:egypt, event:journey_to_the_sultan_and_east,
-      theme:vision, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-4
-    topics: person:st_francis_of_assisi, theme:prayer, theme:death, virtue:mercy
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-5
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-6
-    topics: person:st_francis_of_assisi, theme:miracle, theme:conversion, virtue:chastity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-7
-    topics: place:siena, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-8
-    topics: person:st_francis_of_assisi, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-9
-    topics: person:st_francis_of_assisi, place:la_verna, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-10
-    topics: person:st_francis_of_assisi, theme:prayer, theme:vision
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-11
-    topics: virtue:obedience,virtue:humility,theme:vision
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-12
-    topics: place:greccio, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-13
-    topics: person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap11-14
-    topics: person:st_francis_of_assisi, virtue:simplicity, theme:vision
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-1
-    topics: person:st_francis_of_assisi,theme:prayer,theme:preaching,virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-2
-    topics: person:st_francis_of_assisi, person:st_clare_of_assisi, place:assisi, theme:preaching,
-      theme:prayer, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-3
-    topics: person:st_francis_of_assisi, place:bevagna, event:preaching_to_the_birds,
-      theme:preaching, virtue:simplicity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-4
-    topics: person:st_francis_of_assisi, theme:preaching, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-5
-    topics: person:st_francis_of_assisi, theme:miracle, theme:preaching
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-6
-    topics: theme:preaching, theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-7
-    topics: person:st_francis_of_assisi, theme:preaching, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-8
-    topics: person:st_francis_of_assisi, theme:preaching, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-9
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-10
-    topics: person:st_francis_of_assisi, place:gubbio, place:bevagna, place:bologna,
-      theme:miracle, virtue:obedience
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-11
-    topics: theme:miracle, virtue:mercy
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap12-12
-    topics: person:st_francis_of_assisi, theme:preaching, theme:stigmata, theme:rule
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-1
-    topics: person:st_francis_of_assisi, place:la_verna, theme:prayer, theme:fasting
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-2
-    topics: person:st_francis_of_assisi, theme:cross, theme:prayer, virtue:charity,
-      virtue:fortitude
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-3
-    topics: theme:stigmata,theme:vision,person:st_francis_of_assisi,place:la_verna,event:imprinting_of_the_stigmata
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-4
-    topics: person:st_francis_of_assisi, person:fr_illuminato_of_rieti, theme:stigmata,
-      theme:vision, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-5
-    topics: person:st_francis_of_assisi, place:la_verna, theme:stigmata, theme:miracle,
-      event:imprinting_of_the_stigmata
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-6
-    topics: person:st_francis_of_assisi, theme:miracle, theme:stigmata
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-7
-    topics: theme:stigmata,theme:miracle,person:st_francis_of_assisi,place:la_verna,virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-8
-    topics: theme:stigmata, person:st_francis_of_assisi, person:st_clare_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-9
-    topics: theme:stigmata,virtue:faith,virtue:charity,person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap13-10
-    topics: person:st_francis_of_assisi,person:brother_pacifico,theme:stigmata,theme:cross,virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap14-1
-    topics: person:st_francis_of_assisi, virtue:humility, virtue:charity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap14-2
-    topics: person:st_francis_of_assisi, virtue:patience, theme:death
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap14-3
-    topics: theme:death, theme:stigmata, place:portiuncula, person:st_francis_of_assisi,
-      virtue:poverty, event:death_of_francis_passing_of_francis
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap14-4
-    topics: virtue:poverty,virtue:obedience,theme:death,person:st_francis_of_assisi,person:bishop_guido_of_assisi,event:renunciation_of_possessions,event:death_of_francis_passing_of_francis
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap14-5
-    topics: person:st_francis_of_assisi, theme:death, virtue:patience, virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap14-6
-    topics: theme:death,theme:vision,person:st_francis_of_assisi,person:bishop_guido_of_assisi,place:assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap15-1
-    topics: person:st_francis_of_assisi, theme:death, theme:stigmata, virtue:poverty,
-      virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap15-2
-    topics: theme:stigmata, theme:cross, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap15-3
-    topics: person:st_francis_of_assisi, theme:stigmata, theme:death, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap15-4
-    topics: person:st_francis_of_assisi, place:assisi, theme:stigmata, theme:death,
-      virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap15-5
-    topics: person:st_francis_of_assisi, person:st_clare_of_assisi, place:assisi, place:san_damiano,
-      theme:death, theme:order_of_saint_clare
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap15-6
-    topics: theme:death,theme:miracle,person:st_francis_of_assisi,person:pope_gregory_ix
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap15-7
-    topics: person:st_francis_of_assisi, person:pope_gregory_ix, place:assisi, event:canonization_1228,
-      theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap15-8
-    topics: event:translation_1230,theme:miracle,virtue:charity,person:st_francis_of_assisi,place:assisi,event:translation_1230
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: cap15-9
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir1-1
-    topics: person:st_francis_of_assisi, theme:stigmata, theme:cross
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir1-2
-    topics: person:st_francis_of_assisi, person:pope_gregory_ix, theme:stigmata, theme:vision
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir1-3
-    topics: person:st_francis_of_assisi, theme:stigmata, theme:vision, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir1-4
-    topics: person:st_francis_of_assisi, place:rome, theme:stigmata, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir1-5
-    topics: theme:miracle, theme:stigmata, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir1-6
-    topics: theme:stigmata, theme:miracle, person:st_francis_of_assisi, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir2-1
-    topics: person:st_francis_of_assisi, theme:miracle, theme:reconciliation
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir2-2
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir2-3
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir2-4
-    topics: theme:miracle,theme:prayer,person:st_francis_of_assisi,place:rome,virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir2-5
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir2-6
-    topics: theme:miracle, virtue:faith, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir2-7
-    topics: theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir2-8
-    topics: theme:miracle, person:pope_gregory_ix, event:translation_1230
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-2
-    topics: person:st_francis_of_assisi, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-3
-    topics: theme:miracle, person:st_francis_of_assisi, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-4
-    topics: theme:miracle, person:st_francis_of_assisi, place:assisi, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-5
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-6
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-7
-    topics: person:st_francis_of_assisi, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-8
-    topics: theme:miracle, theme:vision, person:st_francis_of_assisi, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-9
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-10
-    topics: theme:miracle, person:st_francis_of_assisi, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-11
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir3-12
-    topics: person:st_francis_of_assisi, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir4-1
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir4-2
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir4-3
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir4-4
-    topics: theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir4-5
-    topics: person:st_francis_of_assisi, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir5-1
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:mercy
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir5-2
-    topics: theme:miracle, person:st_francis_of_assisi, virtue:fortitude
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir5-3
-    topics: theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir5-4
-    topics: person:pope_gregory_ix, theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir5-5
-    topics: theme:miracle, virtue:hope, virtue:patience
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir6-1
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir6-2
-    topics: theme:miracle, virtue:faith, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir6-3
-    topics: person:st_francis_of_assisi, theme:miracle, theme:vision
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir6-4
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir6-5
-    topics: theme:miracle, theme:vision
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir7-1
-    topics: theme:miracle, theme:mission, virtue:obedience, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir7-2
-    topics: theme:miracle, theme:eucharist, person:st_francis_of_assisi, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir7-3
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir7-4
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir7-5
-    topics: person:st_francis_of_assisi, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir7-6
-    topics: theme:miracle, theme:vision, person:fr_illuminato_of_rieti, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir7-7a
-    topics: theme:miracle, place:assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir8-1
-    topics: person:st_francis_of_assisi, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir8-2
-    topics: theme:miracle, event:translation_1230, person:st_francis_of_assisi, place:assisi,
-      event:translation_1230
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir8-3
-    topics: person:st_francis_of_assisi, theme:miracle, theme:vision
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir8-4
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir8-5
-    topics: theme:miracle, virtue:humility, virtue:mercy, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir8-6
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir8-7
-    topics: person:st_francis_of_assisi, place:rome, theme:miracle, theme:vision, virtue:chastity
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir9-1
-    topics: person:st_francis_of_assisi, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir9-2
-    topics: person:st_francis_of_assisi, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir9-3
-    topics: person:st_francis_of_assisi, theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir9-4
-    topics: theme:miracle, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-1
-    topics: person:st_francis_of_assisi, theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-2
-    topics: theme:miracle
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-3
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-4
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-5
-    topics: person:st_francis_of_assisi, place:spoleto, theme:miracle, theme:vision
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-5a
-    topics: theme:miracle, theme:vision, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-6
-    topics: theme:miracle, person:st_francis_of_assisi
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-7
-    topics: person:st_francis_of_assisi, theme:cross, theme:miracle, virtue:faith
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-8
-    topics: person:st_francis_of_assisi, theme:cross, theme:stigmata
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: mir10-9
-    topics: person:st_francis_of_assisi,theme:cross,theme:stigmata
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
+  prolog-1:
+  - person:st_francis_of_assisi
+  - virtue:poverty
+  - virtue:humility
+  - theme:preaching
+  prolog-2:
+  - person:st_francis_of_assisi
+  - theme:stigmata
+  - theme:cross
+  prolog-3:
+  - person:st_francis_of_assisi
+  - person:st_bonaventure
+  - theme:order_of_friars_minor
+  prolog-4:
+  - person:st_francis_of_assisi
+  prolog-5:
+  - theme:order_of_friars_minor
+  - theme:rule
+  - person:st_francis_of_assisi
+  cap1-1:
+  - person:st_francis_of_assisi
+  - place:assisi
+  - virtue:charity
+  - virtue:mercy
+  cap1-2:
+  - person:st_francis_of_assisi
+  - theme:conversion
+  - virtue:mercy
+  - virtue:charity
+  cap1-3:
+  - person:st_francis_of_assisi
+  - place:assisi
+  - event:conversion_of_francis
+  - theme:vision
+  - virtue:obedience
+  cap1-4:
+  - theme:conversion
+  - theme:prayer
+  - virtue:poverty
+  - person:st_francis_of_assisi
+  cap1-5:
+  - person:st_francis_of_assisi
+  - place:assisi
+  - event:encounter_with_leper
+  - event:vision_of_san_damiano_crucifix
+  - theme:prayer
+  - virtue:charity
+  cap1-6:
+  - person:st_francis_of_assisi
+  - place:rome
+  - theme:conversion
+  - virtue:poverty
+  - virtue:humility
+  cap2-1:
+  - theme:vision
+  - event:repair_of_san_damiano_and_churches
+  - virtue:obedience
+  - virtue:poverty
+  - person:st_francis_of_assisi
+  - place:san_damiano
+  - place:foligno
+  - place:assisi
+  - event:vision_of_san_damiano_crucifix
+  cap2-2:
+  - person:st_francis_of_assisi
+  - person:pietro_di_bernardone
+  - place:assisi
+  - virtue:fortitude
+  - virtue:patience
+  cap2-3:
+  - person:st_francis_of_assisi
+  - person:pietro_di_bernardone
+  - person:pica_de_bourlemont
+  - virtue:fortitude
+  - theme:conversion
+  cap2-4:
+  - person:st_francis_of_assisi
+  - person:pietro_di_bernardone
+  - person:bishop_guido_of_assisi
+  - place:assisi
+  - event:renunciation_of_possessions
+  - virtue:poverty
+  - theme:cross
+  cap2-5:
+  - person:st_francis_of_assisi
+  - virtue:joy
+  - theme:conversion
+  cap2-6:
+  - person:st_francis_of_assisi
+  - place:gubbio
+  - place:spoleto
+  - event:encounter_with_leper
+  - theme:miracle
+  - virtue:humility
+  - virtue:charity
+  cap2-7:
+  - virtue:humility
+  - virtue:obedience
+  - event:repair_of_san_damiano_and_churches
+  - person:st_francis_of_assisi
+  - place:assisi
+  - place:san_damiano
+  cap2-8:
+  - theme:order_of_friars_minor
+  - theme:vision
+  - person:st_francis_of_assisi
+  - place:portiuncula
+  - place:basilica_of_st_mary_of_the_angels
+  - event:repair_of_san_damiano_and_churches
+  - virtue:humility
+  cap3-1:
+  - person:st_francis_of_assisi
+  - theme:conversion
+  - virtue:poverty
+  cap3-2:
+  - person:st_francis_of_assisi
+  - theme:preaching
+  - theme:reconciliation
+  cap3-3:
+  - person:st_francis_of_assisi
+  - person:fr_bernard_of_quintavalle
+  - event:calling_of_the_first_brothers
+  - theme:conversion
+  - virtue:poverty
+  cap3-4:
+  - person:fr_giles_of_assisi
+  - theme:order_of_friars_minor
+  - virtue:simplicity
+  cap3-5:
+  - place:assisi
+  - person:st_francis_of_assisi
+  - theme:vision
+  - theme:conversion
+  cap3-6:
+  - theme:vision
+  - theme:cross
+  - person:st_francis_of_assisi
+  - virtue:hope
+  cap3-7:
+  - person:st_francis_of_assisi
+  - theme:order_of_friars_minor
+  - theme:preaching
+  - virtue:obedience
+  - virtue:patience
+  cap3-8:
+  - theme:rule
+  - theme:vision
+  - person:st_francis_of_assisi
+  - virtue:simplicity
+  - theme:order_of_friars_minor
+  cap3-9:
+  - person:st_francis_of_assisi
+  - person:pope_innocent_iii
+  - place:rome
+  - event:approval_of_the_rule_1209
+  - theme:rule
+  - virtue:humility
+  cap3-9a:
+  - person:st_francis_of_assisi
+  - person:pope_innocent_iii
+  - place:rome
+  - theme:vision
+  - virtue:humility
+  cap3-10:
+  - person:st_francis_of_assisi
+  - person:pope_innocent_iii
+  - place:rome
+  - event:approval_of_the_rule_1209
+  - theme:rule
+  - virtue:poverty
+  cap4-1:
+  - person:st_francis_of_assisi
+  - place:spoleto
+  - theme:miracle
+  - virtue:poverty
+  cap4-2:
+  - place:spoleto
+  - theme:prayer
+  - theme:mission
+  - person:st_francis_of_assisi
+  cap4-3:
+  - theme:prayer
+  - theme:cross
+  - virtue:poverty
+  - person:st_francis_of_assisi
+  - place:assisi
+  cap4-4:
+  - person:st_francis_of_assisi
+  - place:assisi
+  - theme:vision
+  - theme:order_of_friars_minor
+  cap4-5:
+  - person:st_francis_of_assisi
+  - place:portiuncula
+  - place:basilica_of_st_mary_of_the_angels
+  - theme:preaching
+  - theme:order_of_friars_minor
+  cap4-6:
+  - person:st_clare_of_assisi
+  - person:st_francis_of_assisi
+  - theme:third_order
+  - theme:order_of_saint_clare
+  - virtue:chastity
+  cap4-7:
+  - person:st_francis_of_assisi
+  - virtue:poverty
+  - virtue:patience
+  - theme:order_of_friars_minor
+  cap4-8:
+  - theme:miracle
+  - virtue:faith
+  - person:st_francis_of_assisi
+  - place:assisi
+  cap4-9:
+  - person:brother_pacifico
+  - person:st_francis_of_assisi
+  - theme:conversion
+  - theme:vision
+  - virtue:simplicity
+  cap4-10:
+  - person:st_francis_of_assisi
+  - place:portiuncula
+  - event:chapter_of_mats
+  - theme:preaching
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  cap4-11:
+  - theme:rule
+  - theme:vision
+  - person:st_francis_of_assisi
+  - person:pope_honorius_iii
+  - person:pope_innocent_iii
+  - event:imprinting_of_the_stigmata
+  cap5-1:
+  - theme:fasting
+  - virtue:fortitude
+  - person:st_francis_of_assisi
+  cap5-2:
+  - person:st_francis_of_assisi
+  - virtue:poverty
+  - theme:prayer
+  cap5-3:
+  - person:st_francis_of_assisi
+  - virtue:chastity
+  cap5-4:
+  - person:st_francis_of_assisi
+  - virtue:chastity
+  - theme:prayer
+  cap5-5:
+  - virtue:chastity
+  - virtue:simplicity
+  - person:st_francis_of_assisi
+  cap5-6:
+  - person:st_francis_of_assisi
+  - theme:order_of_friars_minor
+  - virtue:simplicity
+  cap5-7:
+  - person:st_francis_of_assisi
+  - virtue:charity
+  - theme:order_of_friars_minor
+  cap5-8:
+  - person:st_francis_of_assisi
+  - virtue:chastity
+  - virtue:fortitude
+  cap5-9:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:patience
+  - virtue:fortitude
+  cap5-10:
+  - theme:miracle
+  - virtue:poverty
+  cap5-11:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:joy
+  cap5-12:
+  - theme:preaching
+  - theme:miracle
+  - virtue:faith
+  - person:st_francis_of_assisi
+  cap6-1:
+  - virtue:humility
+  - person:st_francis_of_assisi
+  - person:pietro_di_bernardone
+  cap6-2:
+  - virtue:humility
+  - place:assisi
+  - person:st_francis_of_assisi
+  - theme:preaching
+  cap6-3:
+  - person:st_francis_of_assisi
+  - virtue:humility
+  - virtue:faith
+  cap6-4:
+  - virtue:obedience
+  - virtue:humility
+  - person:st_francis_of_assisi
+  cap6-5:
+  - virtue:humility
+  - person:st_francis_of_assisi
+  - person:pope_gregory_ix
+  - theme:order_of_friars_minor
+  cap6-6:
+  - virtue:humility
+  - theme:vision
+  - person:st_francis_of_assisi
+  cap6-7:
+  - person:st_francis_of_assisi
+  - virtue:obedience
+  - virtue:humility
+  cap6-8:
+  - virtue:humility
+  - theme:preaching
+  cap6-9:
+  - virtue:obedience
+  - virtue:humility
+  - theme:miracle
+  - person:st_francis_of_assisi
+  cap6-10:
+  - virtue:humility
+  - virtue:poverty
+  - person:st_francis_of_assisi
+  - place:rome
+  cap6-11:
+  - person:st_francis_of_assisi
+  - virtue:humility
+  - virtue:obedience
+  cap7-1:
+  - virtue:poverty
+  - virtue:humility
+  - person:st_francis_of_assisi
+  - theme:order_of_friars_minor
+  cap7-2:
+  - virtue:poverty
+  - theme:order_of_friars_minor
+  - person:st_francis_of_assisi
+  cap7-3:
+  - person:st_francis_of_assisi
+  - virtue:poverty
+  - theme:order_of_friars_minor
+  cap7-4:
+  - person:st_francis_of_assisi
+  - place:portiuncula
+  - theme:rule
+  - virtue:poverty
+  cap7-5:
+  - virtue:obedience
+  - virtue:poverty
+  - person:st_francis_of_assisi
+  cap7-6:
+  - person:st_francis_of_assisi
+  - place:siena
+  - virtue:poverty
+  - virtue:chastity
+  - theme:vision
+  cap7-7:
+  - virtue:poverty
+  - virtue:humility
+  - person:st_francis_of_assisi
+  - theme:order_of_friars_minor
+  cap7-8:
+  - virtue:poverty
+  - theme:order_of_friars_minor
+  - person:st_francis_of_assisi
+  cap7-9:
+  - person:st_francis_of_assisi
+  - virtue:poverty
+  - virtue:humility
+  cap7-10:
+  - person:st_francis_of_assisi
+  - place:nocera_umbra
+  - place:assisi
+  - virtue:poverty
+  - virtue:humility
+  cap7-11:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:faith
+  cap7-12:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - theme:prayer
+  cap7-13:
+  - theme:miracle
+  - virtue:poverty
+  cap8-1:
+  - person:st_francis_of_assisi
+  - virtue:charity
+  - virtue:mercy
+  cap8-2:
+  - theme:preaching
+  - virtue:humility
+  - virtue:simplicity
+  cap8-3:
+  - theme:order_of_friars_minor
+  - theme:prayer
+  - virtue:charity
+  - person:st_francis_of_assisi
+  cap8-4:
+  - person:st_francis_of_assisi
+  - virtue:charity
+  cap8-5:
+  - person:st_francis_of_assisi
+  - place:siena
+  - virtue:charity
+  - virtue:poverty
+  cap8-6:
+  - person:st_francis_of_assisi
+  - place:gubbio
+  - theme:miracle
+  - virtue:mercy
+  cap8-7:
+  - person:st_francis_of_assisi
+  - person:lady_jacopa_dei_settesoli
+  - place:portiuncula
+  - place:siena
+  - place:rome
+  - theme:miracle
+  - virtue:simplicity
+  cap8-8:
+  - person:st_francis_of_assisi
+  - place:greccio
+  - theme:miracle
+  - virtue:charity
+  cap8-9:
+  - person:st_francis_of_assisi
+  - place:portiuncula
+  - theme:miracle
+  - theme:prayer
+  cap8-10:
+  - person:st_francis_of_assisi
+  - place:la_verna
+  - place:siena
+  - theme:miracle
+  - virtue:joy
+  cap8-11:
+  - person:st_francis_of_assisi
+  - place:greccio
+  - theme:preaching
+  - theme:miracle
+  - virtue:mercy
+  cap9-1:
+  - person:st_francis_of_assisi
+  - virtue:charity
+  - theme:prayer
+  cap9-2:
+  - person:st_francis_of_assisi
+  - theme:eucharist
+  - theme:prayer
+  - virtue:charity
+  cap9-3:
+  - theme:fasting
+  - theme:prayer
+  - virtue:charity
+  - person:st_francis_of_assisi
+  cap9-4:
+  - virtue:charity
+  - theme:preaching
+  - person:st_francis_of_assisi
+  cap9-5:
+  - person:st_francis_of_assisi
+  - theme:mission
+  - virtue:charity
+  - virtue:hope
+  cap9-6:
+  - theme:mission
+  - theme:preaching
+  - person:st_francis_of_assisi
+  cap9-7:
+  - event:journey_to_the_sultan_and_east
+  - theme:mission
+  - virtue:fortitude
+  - virtue:charity
+  - person:st_francis_of_assisi
+  - person:sultan_al_kamil
+  - event:journey_to_the_sultan_and_east
+  cap9-8:
+  - person:st_francis_of_assisi
+  - person:fr_illuminato_of_rieti
+  - person:sultan_al_kamil
+  - event:journey_to_the_sultan_and_east
+  - theme:mission
+  - theme:preaching
+  - virtue:fortitude
+  - virtue:faith
+  cap9-9:
+  - event:journey_to_the_sultan_and_east
+  - theme:stigmata
+  - virtue:fortitude
+  - person:st_francis_of_assisi
+  cap10-1:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  - virtue:charity
+  cap10-2:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  - virtue:charity
+  cap10-3:
+  - theme:prayer
+  - virtue:fortitude
+  - virtue:joy
+  - person:st_francis_of_assisi
+  cap10-4:
+  - theme:prayer
+  - theme:vision
+  - virtue:humility
+  - person:st_francis_of_assisi
+  cap10-5:
+  - person:st_francis_of_assisi
+  - person:bishop_guido_of_assisi
+  - place:portiuncula
+  - place:perugia
+  - theme:prayer
+  - theme:miracle
+  - virtue:humility
+  cap10-6:
+  - theme:prayer
+  - person:st_francis_of_assisi
+  cap10-7:
+  - theme:eucharist
+  - theme:vision
+  - person:st_francis_of_assisi
+  - place:greccio
+  - event:death_of_francis_passing_of_francis
+  cap11-1:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  - virtue:simplicity
+  cap11-2:
+  - person:st_francis_of_assisi
+  - place:siena
+  - virtue:simplicity
+  cap11-3:
+  - person:st_francis_of_assisi
+  - place:damietta
+  - place:egypt
+  - event:journey_to_the_sultan_and_east
+  - theme:vision
+  - virtue:faith
+  cap11-4:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  - theme:death
+  - virtue:mercy
+  cap11-5:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  cap11-6:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - theme:conversion
+  - virtue:chastity
+  cap11-7:
+  - place:siena
+  - person:st_francis_of_assisi
+  cap11-8:
+  - person:st_francis_of_assisi
+  - virtue:humility
+  cap11-9:
+  - person:st_francis_of_assisi
+  - place:la_verna
+  - theme:miracle
+  cap11-10:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  - theme:vision
+  cap11-11:
+  - virtue:obedience
+  - virtue:humility
+  - theme:vision
+  cap11-12:
+  - place:greccio
+  - theme:miracle
+  cap11-13:
+  - person:st_francis_of_assisi
+  cap11-14:
+  - person:st_francis_of_assisi
+  - virtue:simplicity
+  - theme:vision
+  cap12-1:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  - theme:preaching
+  - virtue:humility
+  cap12-2:
+  - person:st_francis_of_assisi
+  - person:st_clare_of_assisi
+  - place:assisi
+  - theme:preaching
+  - theme:prayer
+  - virtue:humility
+  cap12-3:
+  - person:st_francis_of_assisi
+  - place:bevagna
+  - event:preaching_to_the_birds
+  - theme:preaching
+  - virtue:simplicity
+  cap12-4:
+  - person:st_francis_of_assisi
+  - theme:preaching
+  - theme:miracle
+  cap12-5:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - theme:preaching
+  cap12-6:
+  - theme:preaching
+  - theme:miracle
+  - person:st_francis_of_assisi
+  cap12-7:
+  - person:st_francis_of_assisi
+  - theme:preaching
+  - virtue:humility
+  cap12-8:
+  - person:st_francis_of_assisi
+  - theme:preaching
+  - theme:miracle
+  cap12-9:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  cap12-10:
+  - person:st_francis_of_assisi
+  - place:gubbio
+  - place:bevagna
+  - place:bologna
+  - theme:miracle
+  - virtue:obedience
+  cap12-11:
+  - theme:miracle
+  - virtue:mercy
+  cap12-12:
+  - person:st_francis_of_assisi
+  - theme:preaching
+  - theme:stigmata
+  - theme:rule
+  cap13-1:
+  - person:st_francis_of_assisi
+  - place:la_verna
+  - theme:prayer
+  - theme:fasting
+  cap13-2:
+  - person:st_francis_of_assisi
+  - theme:cross
+  - theme:prayer
+  - virtue:charity
+  - virtue:fortitude
+  cap13-3:
+  - theme:stigmata
+  - theme:vision
+  - person:st_francis_of_assisi
+  - place:la_verna
+  - event:imprinting_of_the_stigmata
+  cap13-4:
+  - person:st_francis_of_assisi
+  - person:fr_illuminato_of_rieti
+  - theme:stigmata
+  - theme:vision
+  - virtue:humility
+  cap13-5:
+  - person:st_francis_of_assisi
+  - place:la_verna
+  - theme:stigmata
+  - theme:miracle
+  - event:imprinting_of_the_stigmata
+  cap13-6:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - theme:stigmata
+  cap13-7:
+  - theme:stigmata
+  - theme:miracle
+  - person:st_francis_of_assisi
+  - place:la_verna
+  - virtue:charity
+  cap13-8:
+  - theme:stigmata
+  - person:st_francis_of_assisi
+  - person:st_clare_of_assisi
+  cap13-9:
+  - theme:stigmata
+  - virtue:faith
+  - virtue:charity
+  - person:st_francis_of_assisi
+  cap13-10:
+  - person:st_francis_of_assisi
+  - person:brother_pacifico
+  - theme:stigmata
+  - theme:cross
+  - virtue:faith
+  cap14-1:
+  - person:st_francis_of_assisi
+  - virtue:humility
+  - virtue:charity
+  cap14-2:
+  - person:st_francis_of_assisi
+  - virtue:patience
+  - theme:death
+  cap14-3:
+  - theme:death
+  - theme:stigmata
+  - place:portiuncula
+  - person:st_francis_of_assisi
+  - virtue:poverty
+  - event:death_of_francis_passing_of_francis
+  cap14-4:
+  - virtue:poverty
+  - virtue:obedience
+  - theme:death
+  - person:st_francis_of_assisi
+  - person:bishop_guido_of_assisi
+  - event:renunciation_of_possessions
+  - event:death_of_francis_passing_of_francis
+  cap14-5:
+  - person:st_francis_of_assisi
+  - theme:death
+  - virtue:patience
+  - virtue:poverty
+  cap14-6:
+  - theme:death
+  - theme:vision
+  - person:st_francis_of_assisi
+  - person:bishop_guido_of_assisi
+  - place:assisi
+  cap15-1:
+  - person:st_francis_of_assisi
+  - theme:death
+  - theme:stigmata
+  - virtue:poverty
+  - virtue:humility
+  cap15-2:
+  - theme:stigmata
+  - theme:cross
+  - person:st_francis_of_assisi
+  cap15-3:
+  - person:st_francis_of_assisi
+  - theme:stigmata
+  - theme:death
+  - virtue:faith
+  cap15-4:
+  - person:st_francis_of_assisi
+  - place:assisi
+  - theme:stigmata
+  - theme:death
+  - virtue:faith
+  cap15-5:
+  - person:st_francis_of_assisi
+  - person:st_clare_of_assisi
+  - place:assisi
+  - place:san_damiano
+  - theme:death
+  - theme:order_of_saint_clare
+  cap15-6:
+  - theme:death
+  - theme:miracle
+  - person:st_francis_of_assisi
+  - person:pope_gregory_ix
+  cap15-7:
+  - person:st_francis_of_assisi
+  - person:pope_gregory_ix
+  - place:assisi
+  - event:canonization_1228
+  - theme:miracle
+  cap15-8:
+  - event:translation_1230
+  - theme:miracle
+  - virtue:charity
+  - person:st_francis_of_assisi
+  - place:assisi
+  - event:translation_1230
+  cap15-9:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir1-1:
+  - person:st_francis_of_assisi
+  - theme:stigmata
+  - theme:cross
+  mir1-2:
+  - person:st_francis_of_assisi
+  - person:pope_gregory_ix
+  - theme:stigmata
+  - theme:vision
+  mir1-3:
+  - person:st_francis_of_assisi
+  - theme:stigmata
+  - theme:vision
+  - virtue:faith
+  mir1-4:
+  - person:st_francis_of_assisi
+  - place:rome
+  - theme:stigmata
+  - theme:miracle
+  mir1-5:
+  - theme:miracle
+  - theme:stigmata
+  - person:st_francis_of_assisi
+  mir1-6:
+  - theme:stigmata
+  - theme:miracle
+  - person:st_francis_of_assisi
+  - virtue:faith
+  mir2-1:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - theme:reconciliation
+  mir2-2:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:faith
+  mir2-3:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir2-4:
+  - theme:miracle
+  - theme:prayer
+  - person:st_francis_of_assisi
+  - place:rome
+  - virtue:faith
+  mir2-5:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir2-6:
+  - theme:miracle
+  - virtue:faith
+  - person:st_francis_of_assisi
+  mir2-7:
+  - theme:miracle
+  - virtue:faith
+  mir2-8:
+  - theme:miracle
+  - person:pope_gregory_ix
+  - event:translation_1230
+  mir3-2:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  mir3-3:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  - virtue:faith
+  mir3-4:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  - place:assisi
+  - virtue:faith
+  mir3-5:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir3-6:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir3-7:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  mir3-8:
+  - theme:miracle
+  - theme:vision
+  - person:st_francis_of_assisi
+  - virtue:faith
+  mir3-9:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir3-10:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  - virtue:faith
+  mir3-11:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir3-12:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  mir4-1:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir4-2:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:faith
+  mir4-3:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir4-4:
+  - theme:miracle
+  - virtue:faith
+  mir4-5:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  mir5-1:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:mercy
+  mir5-2:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  - virtue:fortitude
+  mir5-3:
+  - theme:miracle
+  - virtue:faith
+  mir5-4:
+  - person:pope_gregory_ix
+  - theme:miracle
+  - virtue:faith
+  mir5-5:
+  - theme:miracle
+  - virtue:hope
+  - virtue:patience
+  mir6-1:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:faith
+  mir6-2:
+  - theme:miracle
+  - virtue:faith
+  - person:st_francis_of_assisi
+  mir6-3:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - theme:vision
+  mir6-4:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir6-5:
+  - theme:miracle
+  - theme:vision
+  mir7-1:
+  - theme:miracle
+  - theme:mission
+  - virtue:obedience
+  - person:st_francis_of_assisi
+  mir7-2:
+  - theme:miracle
+  - theme:eucharist
+  - person:st_francis_of_assisi
+  - virtue:faith
+  mir7-3:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir7-4:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir7-5:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  mir7-6:
+  - theme:miracle
+  - theme:vision
+  - person:fr_illuminato_of_rieti
+  - person:st_francis_of_assisi
+  mir7-7a:
+  - theme:miracle
+  - place:assisi
+  mir8-1:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  mir8-2:
+  - theme:miracle
+  - event:translation_1230
+  - person:st_francis_of_assisi
+  - place:assisi
+  - event:translation_1230
+  mir8-3:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - theme:vision
+  mir8-4:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:humility
+  mir8-5:
+  - theme:miracle
+  - virtue:humility
+  - virtue:mercy
+  - person:st_francis_of_assisi
+  mir8-6:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:faith
+  mir8-7:
+  - person:st_francis_of_assisi
+  - place:rome
+  - theme:miracle
+  - theme:vision
+  - virtue:chastity
+  mir9-1:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  mir9-2:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  mir9-3:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  mir9-4:
+  - theme:miracle
+  - virtue:humility
+  mir10-1:
+  - person:st_francis_of_assisi
+  - theme:miracle
+  - virtue:faith
+  mir10-2:
+  - theme:miracle
+  mir10-3:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir10-4:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir10-5:
+  - person:st_francis_of_assisi
+  - place:spoleto
+  - theme:miracle
+  - theme:vision
+  mir10-5a:
+  - theme:miracle
+  - theme:vision
+  - person:st_francis_of_assisi
+  mir10-6:
+  - theme:miracle
+  - person:st_francis_of_assisi
+  mir10-7:
+  - person:st_francis_of_assisi
+  - theme:cross
+  - theme:miracle
+  - virtue:faith
+  mir10-8:
+  - person:st_francis_of_assisi
+  - theme:cross
+  - theme:stigmata
+  mir10-9:
+  - person:st_francis_of_assisi
+  - theme:cross
+  - theme:stigmata
