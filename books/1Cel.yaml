@@ -91,12 +91,12 @@ annotations:
   - event:conversion_of_francis
   - theme:conversion
   - theme:prayer
+  - event:calling_of_the_first_brothers
   '7':
   - person:st_francis_of_assisi
   - theme:conversion
   - theme:vision
   '8':
-  - person:st_francis_of_assisi
   - place:foligno
   - place:assisi
   - place:san_damiano
@@ -206,8 +206,6 @@ annotations:
   - person:st_francis_of_assisi
   - theme:prayer
   - theme:vision
-  - virtue:simplicity
-  - virtue:poverty
   '27':
   - person:st_francis_of_assisi
   - theme:order_of_friars_minor
