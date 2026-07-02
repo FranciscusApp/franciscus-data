@@ -41,26 +41,28 @@ description:
 
     Questo testo, da solo, è sufficiente a dissipare ogni illusione di un Francesco represso e ribelle, amaramente tradito o
     abbandonato dalla Chiesa.
-
 annotations:
-  - paragraph: '1'
-    topics: person:st_francis_of_assisi, theme:conversion, theme:rule, virtue:obedience,
-      virtue:poverty
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: '2'
-    topics: virtue:poverty, theme:rule, person:st_francis_of_assisi, person:pope_innocent_iii
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: '3'
-    topics: virtue:obedience, theme:rule, person:st_francis_of_assisi, person:pope_gregory_ix
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: '4'
-    topics: virtue:obedience, virtue:simplicity, theme:rule, theme:order_of_friars_minor
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
-  - paragraph: '5'
-    topics: person:st_francis_of_assisi, virtue:humility
-    by: Claude <noreply@anthropic.com>
-    provenance: ai
+  '1':
+  - person:st_francis_of_assisi
+  - theme:conversion
+  - theme:rule
+  - virtue:obedience
+  - virtue:poverty
+  '2':
+  - virtue:poverty
+  - theme:rule
+  - person:st_francis_of_assisi
+  - person:pope_innocent_iii
+  '3':
+  - virtue:obedience
+  - theme:rule
+  - person:st_francis_of_assisi
+  - person:pope_gregory_ix
+  '4':
+  - virtue:obedience
+  - virtue:simplicity
+  - theme:rule
+  - theme:order_of_friars_minor
+  '5':
+  - person:st_francis_of_assisi
+  - virtue:humility

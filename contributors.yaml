@@ -1,0 +1,8 @@
+# Human contributors, keyed by GitHub login (an email-only contributor with no
+# GitHub account uses a plain handle instead). Resolves an annotation item's
+# `by:` to a DB `by_whom` (and commit/PR attribution). Claude is NOT listed — it
+# is the default author when an item has no `by`. See spec/annotations.md.
+snowstorm-alfredosalata:
+  name: Alfredo Salata
+  email: as@salata.ovh
+  github: snowstorm-alfredosalata
