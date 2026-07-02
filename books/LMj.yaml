@@ -45,13 +45,16 @@ annotations:
   - virtue:humility
   - theme:preaching
   prolog-2:
-  - person:st_francis_of_assisi
+  - topic: person:st_francis_of_assisi
+    by: snowstorm-alfredosalata
   - theme:stigmata
-  - theme:cross
+  - topic: theme:cross
+    by: snowstorm-alfredosalata
+    comment: "This clearly speaks of the cross."
   prolog-3:
   - person:st_francis_of_assisi
-  - person:st_bonaventure
   - theme:order_of_friars_minor
+  - event:calling_of_the_first_brothers
   prolog-4:
   - person:st_francis_of_assisi
   prolog-5:
