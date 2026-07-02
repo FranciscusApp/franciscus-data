@@ -725,3 +725,5 @@ annotations:
     topics: person:st_francis_of_assisi, theme:miracle, theme:stigmata
     by: Claude <noreply@anthropic.com>
     provenance: ai
+  '8':
+  - event:repair_of_san_damiano_and_churches
