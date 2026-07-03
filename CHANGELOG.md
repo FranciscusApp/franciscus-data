@@ -8,6 +8,20 @@ although it not being a library and not exposing any APIs means the definitions 
 might be somewhat loose or subjective.
 
 
+## [1.2.0] - 2026-07-03
+
+### Changed
+- **Grouped annotation format.** Annotations are now one topic or relation per
+  item, grouped by paragraph, with implicit authorship: a `by:` handle marks a
+  human-authored item, and the annotation-level `provenance` field is dropped.
+  All book sidecars were migrated to the new shape.
+
+### Added
+- **`contributors.yaml`** — a registry of human contributors keyed by GitHub
+  login, resolving an item's `by:` to DB attribution and appended to on a
+  contributor's first in-app pull request.
+
+
 ## [1.1.0] - 2026-06-30
 
 ### Changed
