@@ -221,7 +221,7 @@ Trasformato dunque dalla grazia divina, sebbene fosse ancora in abito secolare, 
 [5] dicendo: "Chi mi darà una pietra, avrà una ricompensa.
 [6] Chi me ne darà due, avrà due ricompense.
 [7] Chi tre, altrettante ricompense avrà".
-[8] Così, nel fervore dello spirito, pronunciava molte altre parole semplici, poiché, idiota e semplice, eletto da Dio, non si comportava con dotte parole di umana sapienza, <ref to="1 Cor 2:13">ma</ref> con semplicità in ogni cosa.
+[8] Così, nel fervore dello spirito, pronunciava molte altre parole semplici, poiché, essendo semplice e privo di qualsiasi carica, ma eletto da Dio, non si comportava con dotte parole di umana sapienza, <ref to="1 Cor 2:13">ma</ref> con semplicità in ogni cosa.
 [9] Molti lo deridevano, ritenendolo pazzo; altri invece, mossi da pietà, erano spinti alle lacrime nel vederlo passare con tanta rapidità da tanta sfrenatezza e vanità mondana a una tale ebbrezza dell'amore divino.
 [10] Ma egli, disprezzando gli scherni, nel fervore dello spirito rendeva grazie a Dio.
 [11] Quanto poi si affaticò nell'opera sopra descritta sarebbe lungo e difficile narrare, poiché egli, che era stato così delicato nella casa paterna, portava le pietre sulle proprie spalle, affliggendosi in molti modi al servizio di Dio.
