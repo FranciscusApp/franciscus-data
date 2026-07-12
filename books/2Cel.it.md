@@ -404,7 +404,7 @@ Proemio alla seconda parte.
 
 <p id="35">
 [1] San Francesco dimorava volentieri nel luogo dei frati a Greccio, sia perché lo vedeva ricco proprio nella povertà, sia perché in una cella più appartata, costruita su una roccia sporgente, poteva attendere più liberamente agli esercizi celesti.
-[2] Questo è il luogo dove un tempo egli rinnovò la memoria della nascita del Bambino di Betlemme <cfr. 1Re 16,18>, fattosi bambino con il Bambino.
+[2] Questo è il luogo dove un tempo egli rinnovò la memoria della nascita del <ref to="1 Kgs 16:18">Bambino di Betlemme</ref>, fattosi bambino con il Bambino.
 [3] Avvenne poi che gli abitanti del luogo fossero afflitti da molteplici mali; infatti una moltitudine di lupi rapaci divorava non solo le bestie ma anche gli uomini, mentre la grandine, con la sua tempesta annuale, devastava il grano e le vigne.
 [4] Un giorno, mentre il beato Francesco predicava loro, disse: <ref to="Wis 7:25">“A onore e lode di Dio onnipotente</ref>, ascoltate <ref to="Ps 29:10">la verità che vi annuncio</ref>.
 [5] <ref to="1 John 1:9">Se ciascuno di voi confessa i propri peccati</ref> <ref to="Luke 3:8">e produce frutti degni di penitenza</ref>, io vi garantisco che tutta questa pestilenza cesserà, e il Signore, volgendo a voi lo sguardo, vi moltiplicherà nei beni temporali.

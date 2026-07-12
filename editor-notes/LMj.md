@@ -41,3 +41,30 @@ One empty marker, in `LMj.en.md` (the final doxology of the *Legenda Maior*):
 The Latin split — *magnificentia virtutis Altissimi* / *innotescit fidelibus
 mirificans Sanctum suum* — was used as the template.
 ---
+**Alfredo Salata <as@salata.ovh> - 2026-07-12 15:30 CEST**
+
+**Subject**: Broken `cfr` citations (lost opening paren) wrapped as `<ref>` (LMj)
+
+The sanitizer skips citations whose opening `(` was OCR-dropped, leaving a
+dangling `cfr. X)` in the prose. All ten were in the **Latin** `LMj.md` (the
+translations had already been cleaned in the corpus pass); each span mirrors the
+phrase already wrapped in `LMj.it`/`LMj.en`, keys anglophone:
+
+- `Isa 66:2; Job 36:22` → "tanta Deus excelsus benignitatis condescensione respexit"
+- `Dan 14:22` → "Videbat namque in somnis totam Assisii civitatem a dracone magno circumdari"
+- `Isa 21:8` → "super custodiam suam stabat"
+- `1 Kgs 2:5` → "Donec sterilis peperit plurimos" (Vulgate `1Re`)
+- `Prov 26:11` → "ad vomitum conversi fueritis"
+- `Acts 5:29` → "Deum magis time quam homines" (source had `(cfr. Act 5,29"` — no closing paren)
+- `Luke 4:15` → "Commendantibus autem omnibus et magnificantibus illum"
+- `2 Chr 36:21` → "donec sermo Domini compleatur" (Vulgate `2Par`)
+- `Acts 3:8` → "confestim exsurgeret ambulans et exsiliens et laudans Deum"
+- `Isa 40:26` → "vocans eum ex nomine"
+
+**One removed, not wrapped:** `cfr. Luc 11,38)` at ¶ *Subsequens autem socius…
+coepit dicere intra se* — dropped, consistent with the earlier removal of the
+same dubious locus from `LMj.it` (Luke 11:38, the Pharisee marvelling that Jesus
+did not wash, does not fit "began to say within himself"). If a locus is wanted
+here, **Luke 7:39** (*ait intra se dicens*) is the likelier intent — reinstate
+with a proper span if so. No prose altered.
+---

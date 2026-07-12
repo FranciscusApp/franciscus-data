@@ -61,3 +61,14 @@ the English mirrors it phrase-for-phrase):
 - `Ps 108:17` → "The hearts of the hearers, pricked with compunction" (paired
   with `Gen 43:30` "burst into tears").
 ---
+**Alfredo Salata <as@salata.ovh> - 2026-07-12 15:30 CEST**
+
+**Subject**: Broken `cfr` citations (lost opening paren) wrapped as `<ref>` (2Cel)
+
+The sanitizer skips citations whose opening `(` was OCR-dropped, leaving a
+dangling `cfr. X)` in the prose. One such site here, in all three renditions
+(Greccio, on the *Puer Bethlehemita*): Latin `Pueri Bethlehemitis cfr. 1Re 16,18)`,
+Italian `<cfr. 1Re 16,18>`, English `<cfr. 1Re 16,18)>`. Vulgate `1Re` → key
+`1 Kgs 16:18`; wrapped the Bethlehem phrase in each (Latin *Pueri Bethlehemitis*
+/ it *Bambino di Betlemme* / en *Child of Bethlehem*). No prose altered.
+---

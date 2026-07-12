@@ -499,7 +499,7 @@ Introitus ad secundum.
 
 <p id="35">
 [1] In loco fratrum de Graecio sanctus placito morabatur, tum quia paupertate divitem esse cernebat, tum quia in remotiore cellula, saxo prominente constructa, vacabat liberius caelestibus disciplinis.
-[2] Hic ille locus est, in quo pridem Pueri Bethlehemitis cfr. 1Re 16,18) natalem recoluit, factus cum Puero puer.
+[2] Hic ille locus est, in quo pridem <ref to="1 Kgs 16:18">Pueri Bethlehemitis</ref> natalem recoluit, factus cum Puero puer.
 [3] Accidit autem, ut indigenae malis multiplicibus vexarentur; nam luporum rapacium multitudo non solum bruta sed et homines consumebat, grando vero annua tempestate bladum et vineas devastabat.
 [4] Quadam vero die dum praedicaret eis beatus Franciscus, dixit: <ref to="Wis 7:25">“Ad honorem et laudem omnipotentis Dei </ref>, audite, <ref to="Ps 29:10">quam vobis denuntio veritatem </ref>.
 [5] <ref to="1 John 1:9"> Si quisque vestrum confitetur peccata </ref>, <ref to="Luke 3:8">dignosque facit poenitentiae fructus </ref>, fideiubeo vobis, quod pestilentia haec omnis abscedet, et respiciens vos Dominus multiplicabit in temporalibus bonis.

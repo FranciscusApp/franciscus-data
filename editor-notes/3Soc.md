@@ -48,3 +48,14 @@ the surrounding English register, and restored the two refs the parallels carry
 (`Matt 9:35`, `1 Cor 2:4`). This is the one place in this pass where I generated
 prose rather than moving markup around — please review it against the Latin.
 ---
+**Alfredo Salata <as@salata.ovh> - 2026-07-12 15:30 CEST**
+
+**Subject**: Broken `cfr` citation (lost opening paren) wrapped as `<ref>` (3Soc)
+
+One dangling `cfr. 1Ioa 3,16)` (the sanitizer skips citations whose opening `(`
+was OCR-dropped) in the two brothers / stone-thrower episode, in Latin `3Soc.md`
+(*ponere vitam ... suam*) and English `3Soc.en.md` (*lay down his life for the
+other*). Key `1 John 3:16`; span mirrors the already-fixed Italian
+("a tal punto erano pronti l'uno per l'altro a dare la propria vita"). No prose
+altered.
+---

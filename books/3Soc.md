@@ -509,7 +509,7 @@ l Divina igitur gratia sic mutatus, licet adhuc esset in saeculari habitu, cupie
 
 <p id="42">
 [1] Unde quadam die cum duo ex ipsis fratribus simul irent, invenerunt quemdam fatuum qui coepit lapides iactare in eos.
-[2] Videns ergo unus eorum lapides iactari in alterum, opposuit se statim ictibus lapidum, volens potius se percuti quem fratrem suum propter caritatem mutuam qua flagrabant: sicque parati erant unus pro altero ponere vitam cfr. 1Ioa 3,16) suam.
+[2] Videns ergo unus eorum lapides iactari in alterum, opposuit se statim ictibus lapidum, volens potius se percuti quem fratrem suum propter caritatem mutuam qua flagrabant: sicque <ref to="1 John 3:16">parati erant unus pro altero ponere vitam suam</ref>.
 [3] <ref to="Eph 3:17"> Erant enim in humilitate et caritate fundati et radicati </ref> intantum ut unus revereretur alterum quasi patrem et dominum, atque illi qui officio praelationis vel aliqua gratia praecellebant, humiliores et viliores caeteris viderentur.
 [4] Omnes quoque se totos ad obediendum praebebant, ad praecipientis voluntatem se continuo praeparantes.
 [5] Non discernebant inter iustum et iniustum praeceptum quia quidquid praecipiebatur putabant esse secundum Domini voluntatem.

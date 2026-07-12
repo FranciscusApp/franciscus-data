@@ -20,7 +20,7 @@ INCIPIT PROLOGUS IN VISAM BEATI FRANCISCI.
 
 <p id="prolog-1">
 [1] Apparuit gratia Dei Salvatoris nostri diebus istis novissimis in servo suo Francisco omnibus vere humilibus et sanctae paupertatis amicis, qui superaffluentem in eo Dei misericordiam venerantes, ipsius erudiuntur exemplo, impietatem et saecularia desideria funditus abnegare, <ref to="Titus 2:11-13; Heb 1:2">Christo conformiter vivere et ad beatam spem </ref> desiderio indefesso sitire.
-[2] In ipsum namque ut vere pauperculum et contritum, tanta Deus excelsus benignitatis condescensione respexit cfr. Is 66,2; Iob 36,22), <ref to="1 Kgs 2:8">quod non solum de mundialis conversationis pulvere suscitavit egenum </ref>, verum etiam evangelicae perfectionis professorem, <ref to="Isa 49:6">ducem atque praeconem effectum in lucem dedit </ref> credentium, ut testimonium perhibendo de lumine, <ref to="John 1:7; Luke 1:76">viam lucis et pacis ad corda fidelium Domino pracpararet </ref>.
+[2] In ipsum namque ut vere pauperculum et contritum, <ref to="Isa 66:2; Job 36:22">tanta Deus excelsus benignitatis condescensione respexit</ref>, <ref to="1 Kgs 2:8">quod non solum de mundialis conversationis pulvere suscitavit egenum </ref>, verum etiam evangelicae perfectionis professorem, <ref to="Isa 49:6">ducem atque praeconem effectum in lucem dedit </ref> credentium, ut testimonium perhibendo de lumine, <ref to="John 1:7; Luke 1:76">viam lucis et pacis ad corda fidelium Domino pracpararet </ref>.
 [3] <ref to="Sir 50:6"> Hic etenim quasi stella matutina in medio nebulae </ref>, claris vitae micans et doctrinae fulgoribus, <ref to="Luke 1:79">sedentes in tenebris et umbra mortis </ref> irradiatione praefulgida direxit in lucem,
 [4] <ref to="Sir 50:8"> et tamquam arcus refulgens inter nebulas gloriae </ref>, <ref to="Gen 9:13">signum in se dominici foederis </ref> repraesentans, <ref to="Rom 10:15">pacem et salutem evangelizavit </ref> hominibus,
 [5] <ref to="Isa 33:7"> exsistens et ipse Angelus verae pacis </ref>, secundum imitatoriam quoque similitudinem Praecursoris destinatus a Deo, <ref to="Mark 1:3; Luke 3:4">ut viam parans in deserto </ref> altissimae paupertatis, <ref to="Isa 40:3; Luke 24:47">tam exemplo quam verbo poenitentiam praedicaret </ref>.
@@ -271,7 +271,7 @@ INCIPIT VITA BEATI FRANCISCI.
 <p id="cap3-5">
 [1] Illo quoque tempore cuidam sacerdoti civitatis Assisii, nomine Silvestro, honestae conversationis viro, quaedam a Domino fuit ostensa visio no tacenda.
 [2] Cum enim modum et viam Francisci fratrumque suorum humano spiritu abhorreret, ne periclitaretur pro temeritate iudicii, respectu fuit supernae gratiae visitatus.
-[3] Videbat namque in somnis totam Assisii civitatem a dracone magno cfr. Dan 14,22) circumdari, prae cuius magnitudine nimia tota regio videbatur exterminio subiacere.
+[3] <ref to="Dan 14:22">Videbat namque in somnis totam Assisii civitatem a dracone magno circumdari</ref>, prae cuius magnitudine nimia tota regio videbatur exterminio subiacere.
 [4] Contuebatur post haec crucem quamdam auream ex ore procedentem Francisci, <ref to="Gen 28:12">cuius summitas caelos tangebat </ref>, cuiusque brachia protensa in latum, usque ad mundi fines videbantur extendi; ad cuius etiam aspectum praefulgidum draco ille teter et horridus penitus fugabatur.
 [5] Hoc dum sibi tertio monstraretur, divinum aestimans esse oraculum, viro Dei et fratribus suis per ordinem enarravit, ac non multo post tempore mundum relinquens, vestigiis Christi sic perseveranter adhaesit, quod vita ipsius in Ordine authenticam reddidit eam quam in saeculo habuerat visionem.
 </p>
@@ -479,7 +479,7 @@ Additio posterior.
 </p>
 
 <p id="cap5-3">
-[1] Rigidus in disciplina super custodiam suam stabat cfr. Is 21,8), curam permaximam gerens de utriusque hominis puritate servanda;
+[1] Rigidus in disciplina <ref to="Isa 21:8">super custodiam suam stabat</ref>, curam permaximam gerens de utriusque hominis puritate servanda;
 [2] quapropter circa conversionis suae primordia tempore hiemali in foveam glacie plenam se ipsum plerumque mergebat, ut et domesticum sibi hostem perfecte subigeret et candidum vestimentum pudoris a voluptatis incendio praeservaret.
 [3] Tolerabilius viro spirituali fore incomparabiliter asserebat magnum sustinere frigus in carne, quem ardorem carnalis libidinis veI modicum sentire in mente.
 </p>
@@ -857,7 +857,7 @@ OPUSCULUM SECUNDUM
 <p id="cap8-2">
 [1] Plangendum proinde dicebat praedicatorem tamquam vera pietate privatum, sive qui in praedicatione non animarum quaerit salutem, sed propriam laudem, sive qui pravitate destruit vitae quod aedificat veritate doctrinae.
 [2] Praeferendum huic dicebat fratrem simplicem et elinguem, qui bono exemplo alios provocaret ad bonum.
-[3] Illud quoque verbum: Donec sterilis peperit plurimos cfr. 1Re 2,5), taliter exponebat: ”Sterilis”, inquit, ”est frater pauperculus, qui generandi in Ecclesia filios non habet officium.
+[3] Illud quoque verbum: <ref to="1 Kgs 2:5">Donec sterilis peperit plurimos</ref>, taliter exponebat: ”Sterilis”, inquit, ”est frater pauperculus, qui generandi in Ecclesia filios non habet officium.
 [4] Hic pariet in iudicio plurimos, quia quos nunc privatis orationibus convertit ad Christum, suae gloriae tunc index adscribet.
 [5] <ref to="1 Kgs 2:5"> Quae multos habet filios infirmabitur </ref>, quia praedicator vanus et loquax, qui multis nunc quasi sua virtute genitis gaudet, cognoscet tunc, se nil proprii habere in eis”.
 </p>
@@ -976,7 +976,7 @@ OPUSCULUM SECUNDUM
 [2] Nam et luporum rapacium multitudo non solum bruta, sed et homines consumebat, et grando annua tempestate blada et vineas devastabat.
 [3] Dum igitur sic afflictis praeco sacri Evangelii praedicaret, dixit ad eos:
 [4] ”Ad honorem et laudem omnipotentis Dei fideiubeo vobis, quod pestilentia haec omnis abscedet, et respiciens vos Dominus multiplicabit in temporalibus bonis, si mihi credentes, misereamini vestri, ut, vera confessione praemissa, <ref to="Matt 3:8">dignos faciatis poenitentiae fructus </ref>.
-[5] Iterum hoc annuntio vobis quod si beneficiis ingrati ad vomitum conversi fueritis cfr. Prov 26,11), innovabitur plaga, duplicabitur poena, <ref to="Josh 22:18">et maior in vos ira desaeviet </ref>”.
+[5] Iterum hoc annuntio vobis quod si beneficiis ingrati <ref to="Prov 26:11">ad vomitum conversi fueritis</ref>, innovabitur plaga, duplicabitur poena, <ref to="Josh 22:18">et maior in vos ira desaeviet </ref>”.
 [6] Ab illa itaque hora, poenitentiam ad exhortationem ipsius agentibus illis, cessaverunt clades, periere pericula, <ref to="Dan 3:50">nec molestiae quidquam lupi intulere </ref> vel grandines.
 [7] Immo, quod maius est, si quando vicinorum arva grando pervaderet, istorum terminis appropinquans, terminabatur ibidem, aut in partem aliam divertebat.
 [8] Servavit grando, servaverunt et lupi pactionem servi Dei, nec contra pietatis legem in homines ad pietatem conversos attentaverunt amplius desaevire, quamdiu iuxta condictum contra piissimas Dei leges impie non egerunt.
@@ -1202,7 +1202,7 @@ OPUSCULUM SECUNDUM
 [4] dixitque socio suo: ”Si belli fuerit attemptatus congressus, <ref to="4 Kgs 8:10">ostendit mihi Dominus non prospere cedere </ref> Christianis;
 [5] verum, si hoc dixero fatuus reputabor, si tacuero conscientiam non evadam. Quid ergo tibi videtur?”.
 [6] Respondit socius eius dicens: ”Frater, <ref to="1 Cor 4:3">pro minimo tibi sit ut ab hominibus indiceris </ref>, quia non modo incipis fatuus reputari.
-[7] Exonera conscientiam tuam et Deum magis time quam homines (cfr. Act 5,29”.
+[7] Exonera conscientiam tuam et <ref to="Acts 5:29">Deum magis time quam homines</ref>”.
 [8] Quo audito exsiliens Christi praeco salutaribus monitis Christianos aggreditur, prohibet bellum, denuntiat casum.
 [9] Fit veritas in fabulam, <ref to="Tob 3:4; John 12:40">induraverunt cor </ref> suum et noluerunt reverti.
 [10] Itur, committitur et bellatur, totaque in fugam vertitur militia christiana, finem belli opprobrium regerens, non triumphum.
@@ -1257,7 +1257,7 @@ OPUSCULUM SECUNDUM
 
 <p id="cap11-8">
 [1] Eo quoque tempore, quo revertebatur de ultra mare, socium habens fratrem Leonardum de Assisio, contigit eum fatigatum et lassum parumper asellum conscendere.
-[2] Subsequens autem socius, et ipse non modicum fessus, coepit dicere intra se cfr. Luc 11,38), humanum aliquid passus:
+[2] Subsequens autem socius, et ipse non modicum fessus, coepit dicere intra se, humanum aliquid passus:
 [3] “Non de pari ludebant parentes huius et mei. En, ipse equitat, et ego pedester asinum eius duco”.
 [4] <ref to="Matt 1:20"> Haec illo cogitante </ref>, protinus de asino descendit vir sanctus et ait: ”Non, frater, convenit, ut ego equitem, tu venias pedes, quia nobilior et potentior in saeculo me fuisti”.
 [5] Obstupuit illico frater et rubore suffusus, deprehensum se recognoscens, <ref to="Esth 8:3; Mark 5:22">procidit ad pedes </ref> ipsius, et lacrimis irrigatus, nudum exposuit cogitatum veniamque poposcit.
@@ -1281,7 +1281,7 @@ OPUSCULUM SECUNDUM
 [1] Frater quidam erat, quantum a foris videbatur, sanctitate praeclarus, conversatione insignis, tamen admodum singularis.
 [2] <ref to="1 Cor 7:5"> Omni tempore orationi vacans </ref>, tanta districtione silentium observabat quod consueverat non verbis, sed nutibus confiteri.
 [3] Accidit autem, sanctum patrem venire ad locum, videre fratrem et de ipso cum aliis fratribus habere sermonem.
-[4] Commendantibus autem omnibus et magnificantibus cfr. Luc 4,15) illum respondit vir Dei: ”Sinite, fratres, ne mihi in eo diabolica figmenta laudetis.
+[4] <ref to="Luke 4:15">Commendantibus autem omnibus et magnificantibus illum</ref> respondit vir Dei: ”Sinite, fratres, ne mihi in eo diabolica figmenta laudetis.
 [5] <ref to="Matt 22:16"> In veritate sciatis </ref> quod diabolica tentatio est et deceptio fraudulenta”.
 [6] <ref to="Gen 21:11"> Dure acceperunt hoc </ref> fratres, tamquam impossibile iudicantes, quod tot perfectionis indiciis fraudis se commenta fucarent.
 [7] <ref to="Luke 15:13"> Verum non post multos dies </ref>, eo religionem egresso, evidenter apparuit, quanta luculentia interioris contuitus vir Dei cordis eius secreta perspexit.
@@ -1366,7 +1366,7 @@ OPUSCULUM SECUNDUM
 <p id="cap12-4">
 [1] Exinde praedicando per loca vicina procedens, venit ad castrum quoddam nomine Alvianum, ubi congregato populo et indicto silentio, propter hirundines nidificantes in eodem loco magnisque garritibus perstrepentes audiri vix poterat.
 [2] Quas vir Dei, omnibus audientibus, allocutus est dicens: ”Sorores meae hirundines, iam tempus est, <ref to="Tob 12:20">ut </ref> loquar et ego, quia vos usque modo satis dixistis.
-[3] <ref to="Ezek 6:3"> Audite verbum Dei! </ref>, tenentes silentium, donec sermo Domini compleatur cfr. 2Par 36,21)”.
+[3] <ref to="Ezek 6:3"> Audite verbum Dei! </ref>, tenentes silentium, <ref to="2 Chr 36:21">donec sermo Domini compleatur</ref>”.
 [4] At illae tamquam intellectus capaces subito tacuerunt, nec fuerunt motae de loco, donec fuit omnis praedicatio consummata.
 [5] Omnes igitur, qui viderunt, stupore repleti, <ref to="Acts 3:10; Matt 9:8">glorificaverunt Deum </ref>.
 [6] Istius miraculi fama circumquaque diffusa multos ad Sancti reverentiam et fidei devotionem accendit.
@@ -1406,7 +1406,7 @@ OPUSCULUM SECUNDUM
 </p>
 
 <p id="cap12-9">
-[1] In civitate Tuscanella a milite quodam hospitio devote susceptus, filium eius unicum a nativitate contractum ad multam ipsius instantiam, manu allevans, sic subito incolumem reddidit, ut videntibus cunctis, <ref to="Acts 3:7">protinus consolidarentur </ref> omnia corporis membra, et puer sanus effectus et fortis, confestim exsurgeret ambulans et exsiliens et laudans Deum cfr. Act 3,8).
+[1] In civitate Tuscanella a milite quodam hospitio devote susceptus, filium eius unicum a nativitate contractum ad multam ipsius instantiam, manu allevans, sic subito incolumem reddidit, ut videntibus cunctis, <ref to="Acts 3:7">protinus consolidarentur </ref> omnia corporis membra, et puer sanus effectus et fortis, <ref to="Acts 3:8">confestim exsurgeret ambulans et exsiliens et laudans Deum</ref>.
 [2] In civitate Narniensi cum paralyticum quemdam membrorum omnium destitutum officio, signo crucis a capite usque ad pedes ad instantiam signasset episcopi, perfectae restituit sanitati.
 [3] In episcopatu Reatino puer quidam sic turgidus a quatuor annis, ut nullo modo propria crura cernere posset, a matre cum lacrimis praesentatus eidem, statim, ut vir sanctus tetigit eum manibus sacris, incolumis est effectus.
 [4] Apud civitatem Ortensem puer unus ita conglomeratus, ut caput pedibus portaret applicitum et haberet ossa nonnulla confracta, signo crucis ad parentum lacrimabiles preces ab eodem suscepto, subito extensus exstitit et illico liberatus.
@@ -1745,7 +1745,7 @@ INCIPIUNT QUAEDAM DE MIRACULIS IPSIUS POST MORTEM OSTENSIS.
 [3] Siquidem primo inflicta percussio humerum cum brachio pene totum absciderat, et ictus alius sub mammilla tantam reliquerat aperturam, ut flatus inde procedens circa sex candelas simul iunctas exstingueret.
 [4] Cum igitur iudicio medicorum ipsius impossibilis esset curatio, pro eo quod, putrescentibus plagis, ex eis foetor tam intolerabilis exhalaret, ut etiam ipsa eius uxor vehementer horreret, nullisque iam humanis iuvari posset remediis, convertit se ad beati Patris Francisci patrocinium quanta poterat devotione poscendum, quem et inter ipsos ictus una cum beata Virgine fidentissime invocarat.
 [5] Et ecce, misero in lectulo calamitatis solitario decubanti, cum Francisci nomen vigilans et eiulans frequentius replicaret, adstitit quidam in habitu fratris Minoris, per fenestram, ut ei videbatur, ingressus.
-[6] Qui vocans eum ex nomine cfr. Is 40,26), dixit: ”Quia fiduciam habuisti in me, ecce, Dominus liberabit te”.
+[6] Qui <ref to="Isa 40:26">vocans eum ex nomine</ref>, dixit: ”Quia fiduciam habuisti in me, ecce, Dominus liberabit te”.
 [7] A quo cum aeger, quis esset, inquireret, Franciscum ille se esse respondit et statim appropians vulnerum illius ligaturas resolvit et eum unguento per omnes plagas, ut videbatur, perunxit.
 [8] Statim autem, ut sensit illarum sacrarum manuum stigmatum Salvatoris virtute sanare valentium suavem contactum, expulsa putredine, restituta carne et vulneribus solidatis, restitutus est integre pristinae sospitati.
 [9] Quo facto, beatus Pater abscessit.
