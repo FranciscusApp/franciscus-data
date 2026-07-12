@@ -356,7 +356,7 @@ l Divina igitur gratia sic mutatus, licet adhuc esset in saeculari habitu, cupie
 
 <p id="29">
 [1] Oratione autem finita, beatus Franciscus accipiens librum clausum, flexis genibus coram altari aperuit ipsum.
-[2] Et in prima eius apertione occurrit illud consilium Domini: “Si vis perfectus esse, vade et vende omnia quae habes et da paupertbus et habebis thesaurum in caelo (Mat 19,21; cfr. Luc 18,22)”.
+[2] Et in prima eius apertione occurrit illud consilium Domini: “Si vis perfectus esse, <ref to="Matt 19:21; Luke 18:22">vade et vende omnia quae habes et da paupertbus et habebis thesaurum in caelo </ref>”.
 [3] Quo comperto, beatus Franciscus gavisus est valde et gratias egit Deo.
 [4] Sed quia verus cultor Trinitatis, trino voluit testimonio confirmari. Secundo et tertio librum aperuit.
 [5] Et in secunda apertione occurrit illud: <ref to="Luke 9:3">“Nihil tuleritis in via </ref>, etc.”.
@@ -437,7 +437,7 @@ l Divina igitur gratia sic mutatus, licet adhuc esset in saeculari habitu, cupie
 [1] Sanctus autem Franciscus, <ref to="Acts 6:5">cum iam plenus esset gratia Spiritus sancti </ref>, convocans ad se dictos sex fratres praedixit illis quae ventura erant.
 [2] “Consideremus, inquit, fratres carissimi vocationem nostram qua misericorditer vocavit nos Deus, non tantum pro nostra sed pro multorum salute, ut eamus per mundum exhortando omnes plus exemplo quam verbo ad agendam poenitentiam de peccatis suis et habendam memoriam mandatorum Dei.
 [3] <ref to="Luke 12:32"> Nolite timere quia pusilli </ref> et insipientes videmini, sed secure annuntiate simpliciter poenitentiam, <ref to="John 16:33">confidentes in Domino qui vicit mundum </ref><ref to="Matt 10:20"> quod spiritu suo loquitur per vos et in vobis </ref> ad exhortandum omnes ut convertantur ad ipsum et eius mandata observent.
-[4] “Invenietis autem quosdam homines fideles, mansuetos et benignos, qui cum gaudio vos et verba vestra recipient, aliosque plures, infideles, superbos et blasphemos (cfr. 2Timm 3,2), qui exprobrantes resistent vobis et his quae dicetis.
+[4] “Invenietis autem quosdam homines fideles, mansuetos et benignos, qui cum gaudio vos et verba vestra recipient, aliosque plures, infideles, <ref to="2 Tim 3:2">superbos et blasphemos </ref>, qui exprobrantes resistent vobis et his quae dicetis.
 [5] Ponite ergo in cordibus vestris patienter et humiliter omnia tolerare”.
 [6] Cumque fratres haec audissent, timere coeperunt.
 [7] Ad quos sanctus ait: <ref to="1 Cor 1:26">“Nolite timere quoniam non post multum tempus venient ad nos multi sapientes et nobiles </ref>, eruntque nobiscum praedicantes regibus et principibus et populis multis.

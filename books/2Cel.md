@@ -478,7 +478,7 @@ Introitus ad secundum.
 [6] Cui sanctus: “Indulgeat tibi Dominus, frater. Sed caveas de caetero, ne sub specie sanctitatis a tua religione et fratribus separeris”.
 [7] <ref to="Prov 18:24"> Factus est autem proinde dictus frater congregationis et societatis amicus </ref>, illis maxime devotus collegiis, in quibus regularis observantia magis viget.
 [8] <ref to="Ps 110:1"> O magna in concilio iustorum et congregatione opera Domini </ref>!
-[9] In ea siquidem vexati continentur, <ref to="Wis 3:5; Ps 144:14">elisi eriguntur </ref>, tepidi provocantur, <ref to="Prov 27:17">in ea ferrum ferro acuitur </ref> et frater a fratre adiutus quasi firma civitas (cfr. Prov. 18,19) stabilitur;
+[9] In ea siquidem vexati continentur, <ref to="Wis 3:5; Ps 144:14">elisi eriguntur </ref>, tepidi provocantur, <ref to="Prov 27:17">in ea ferrum ferro acuitur </ref><ref to="Prov 18:19"> et frater a fratre adiutus quasi firma civitas </ref> stabilitur;
 [10] <ref to="Luke 19:3"> et licet prae turba saeculari Iesum videre non possis </ref>, minime tamen impedit angelica turba caelorum.
 [11] Tantum ne fugias, <ref to="Rev 2:10">et vitae coronam fidelis usque ad mortem accipito </ref>. Simile de alio quodam
 </p>
@@ -628,7 +628,7 @@ Introitus ad secundum.
 [3] Respondit ei guardianus dicens: “Pater, <ref to="Luke 14:9">cum rubore </ref> dicimus, verecundamur ipsum invitare, tantum nunc pauperes sumus”. <ref to="John 1:26">Respondit sanctus dicens </ref>: <ref to="Matt 20:32; John 9:27">“Quid vultis ut iterum dicam </ref>?”.
 [4] Medicus, <ref to="Mark 14:70">qui adstabat </ref>: “Et ego, fratres carissimi, penuriam vestram delicias reputabo”.
 [5] Festinant fratres, et omnem cellarii copiam mensae imponunt, <ref to="2 Chr 18:26">panis scilicet modicum </ref>, vini non multum, et, ut lautius ederent, parum leguminis coquina transmittit.
-[6] Interim mensa Domini (cfr. Mal 1,7) servorum mensae compatitur; <ref to="Luke 13:25">pulsatur ostium </ref>, accurritur protinus.
+[6] <ref to="Mal 1:7"> Interim mensa Domini </ref> servorum mensae compatitur; <ref to="Luke 13:25">pulsatur ostium </ref>, accurritur protinus.
 [7] Et ecce mulier quaedam canistrum offert plenum pulchro pane, piscibus et pastillis gammarorum refertum, melle et uvis desuper cumulatum.
 [8] Exsultat pauperum mensa his visis, et vilibus crastino reservatis, pretiosa hodie sumuntur in cibum.
 [9] <ref to="Matt 14:27"> Medicus vero suspirando locutus est dicens </ref>: “Nec vos, fratres, sicut debetis, nec nos saeculares huius viri cognoscimus sanctitatem”.
@@ -667,7 +667,7 @@ Introitus ad secundum.
 [4] <ref to="Luke 4:34"> Sanctus Dei </ref>, qui afflictis semper erat compatiens, absque mora prosilivit de asino, et fixis in terra genibus, palmas tetendit ad caelum, <ref to="Col 1:9">orare non cessans </ref>, donec se sensit auditum.
 [5] “Festina”, inquit ad rusticum, “et illic aquam vivam invenies, quam tibi hac hora misericorditer Christus de lapide bibendam produxit”.
 [6] Stupenda Dei dignatio, quae servis suis tam facile se inclinat!
-[7] Bibit rusticus aquam de petra (cfr. 48,21) orantis virtute, <ref to="Deut 32:13">et poculum hausit de saxo durissimo </ref>.
+[7] Bibit rusticus <ref to="Isa 48:21">aquam de petra </ref> orantis virtute, <ref to="Deut 32:13">et poculum hausit de saxo durissimo </ref>.
 [8] <ref to="Ps 1:3"> Aquae decursus </ref> ibidem ante non fuit, nec, ut est diligenter quaesitum, deinceps potuit inveniri.
 [9] Quid mirum, <ref to="Luke 4:1">si Sancto Spiritu plenus </ref>, iustorum omnium repraesentat in se gesta miranda?
 [10] Nam qui specialis gratiae munere Christo coniungitur, non magnum, si cum reliquis sanctis similia operatur.
@@ -691,7 +691,7 @@ Introitus ad secundum.
 [13] Mala adhuc morte necabitur”.
 [14] Verbum sancti confestim ultio sequitur.
 [15] Super vasculum aquae fratrum turbator ascendit ut bibat, qui subito in aqua suffocatus interiit, nec gattus invenitur nec bestia quae ausa fuerit sancti anathema contingere.
-[16] Horrendum malum avaritia hominum, quando sic punitur in avibus. 17 Timenda est et sanctorum sententia, quam tanta facilitate vindicta subsequitur.
+[16] Horrendum malum avaritia hominum, quando sic punitur in avibus. [17] Timenda est et sanctorum sententia, quam tanta facilitate vindicta subsequitur.
 </p>
 
 ## Caput XIX - De aviculis ab ipso nutritis, quorum unus propter avaritiam mortem incurrit <a id="op2-19"></a>
@@ -711,7 +711,7 @@ Introitus ad secundum.
 [1] Dum maneret sanctus in monte Alvernae cella reclusus, unus de sociis magno desiderio cupiebat habere de verbis Domini recreabile scriptum, manu sancti Francisci breviter adnotatum.
 [2] Gravem enim qua vexabatur tentationem, non carnis sed spiritus, credebat ex hoc evadere, vel certe levius ferre.
 [3] Tali desiderio languens, pavebat rem aperire patri sanctissimo; sed cui homo non dixit, <ref to="1 Cor 2:10">Spiritus revelavit </ref>.
-[4] Quadam enim die vocat eum beatus Franciscus dicens: “Porta mihi chartam et atramentum (cfr. 2Ioa 12), quoniam verba Domini et Laudes eius scribere volo, <ref to="Ps 76:7">quae meditatus sum in corde meo </ref>.
+[4] Quadam enim die vocat eum beatus Franciscus dicens: <ref to="2 John 12">“Porta mihi chartam et atramentum </ref>, quoniam verba Domini et Laudes eius scribere volo, <ref to="Ps 76:7">quae meditatus sum in corde meo </ref>.
 [5] Allatis protinus quae petierat, scribit manu propria Laudes Dei et verba quae voluit, et ultimo benedictionem fratris, dicens: <ref to="Gen 28:2">“Accipe tibi </ref> chartulam istam, et usque ad diem mortis tuae custodias diligenter”.
 [6] Fugatur statim omnis illa tentatio; servatur littera et in posterum miranda effecit.
 </p>
@@ -747,9 +747,9 @@ Introitus ad secundum.
 [1] Sancti viri mira quaedam de se loqui Sancti Spiritus instinctu quandoque coguntur, <ref to="1 Kgs 3:7">cum videlicet aut gloria Dei exigit revelare sermonem </ref>, aut in aedificationem proximi ordo postulat caritatis.
 [2] Hinc est quod beatus pater die quadam fratri cuidam, <ref to="John 19:20">quem plurimum diligebat </ref>, <ref to="1 Macc 15:32">retulit verbum istud </ref> quod tunc de sibi familiari reportaverat secretario Maiestatis.
 [3] “Hodie”, inquit, “est aliquis servus Dei super terram propter quem, donec vixerit ipse, <ref to="Gen 26:1">non permittit Dominus famem super homines desaevire </ref>”.
-[4] Nihil vanitatis habuit, sed sancta relatio, quam in aedificationem nostram verbis sanctis, modestis, illa quae non quaerit quae sua sunt sancta caritas (cfr. Cfr. 1Cor 13,5) eructavit; nec erat tam mirae dilectionis praerogativa Christi ad servum suum inutili silentio subticenda.
+[4] Nihil vanitatis habuit, sed sancta relatio, quam in aedificationem nostram verbis sanctis, modestis, <ref to="1 Cor 13:5">illa quae non quaerit quae sua sunt sancta caritas </ref> eructavit; nec erat tam mirae dilectionis praerogativa Christi ad servum suum inutili silentio subticenda.
 [5] <ref to="John 3:11"> Scimus enim omnes qui vidimus </ref>, quam quieta et pacifica, donec vixit Christi famulus, cucurrerint tempora, quanta exuberaverint omnium fertilitate bonorum.
-[6] Non enim fames verbi Dei (cfr. Am 8,11), cum praedicantium verba tunc maxime fuerint plena virtute, <ref to="2 Tim 2:15">cum auditorum corda cunctorum probabilia fuerint Deo </ref>.
+[6] <ref to="Amos 8:11"> Non enim fames verbi Dei </ref>, cum praedicantium verba tunc maxime fuerint plena virtute, <ref to="2 Tim 2:15">cum auditorum corda cunctorum probabilia fuerint Deo </ref>.
 [7] Exempla sanctitatis refulgebant in religiosa imagine, nec hypocrisis dealbatorum adhuc infecerat sanctos tantos, <ref to="2 Cor 11:13">nec etiam doctrina se transfigurantium </ref> curiositatem induxerat tantam.
 [8] Merito proinde bona temporalia abundabant, cum sic aeterna forent vere omnibus in amore.
 </p>
@@ -805,11 +805,10 @@ De paupertate.
 ## Caput XXVII - De domo quam apud Portiunculam destruere coepit <a id="op2-27"></a>
 
 <p id="57">
-[1] <ref to="2 Tim 4:6"> Quodam tempore cum apud Sanctam Mariam de Portiuncula fieri deberet capitulum et iam tempus instaret </ref>, considerans populus Assisii domum ibi non esse, nesciente pariter et absente viro Dei (cfr.
-[4] Re 4,42), domum pro capitulo citissime construunt.
+[1] <ref to="2 Tim 4:6"> Quodam tempore cum apud Sanctam Mariam de Portiuncula fieri deberet capitulum et iam tempus instaret </ref>, considerans populus Assisii domum ibi non esse, nesciente pariter et <ref to="4 Kgs 4:42">absente viro Dei </ref>, domum pro capitulo citissime construunt.
 [2] Quo tandem reversus pater, domum aspexit et moleste ferens, non molliter doluit.
 [3] Mox ad eliminandam aedem primus assurgit, tectum conscendit, <ref to="Luke 5:19">et lastas cum tegulis </ref><ref to="Ezek 20:34"> manu valida </ref> subruit.
-[4] Iubet etiam fratres ascendere et monstrum paupertati oppositum eminus abrogare. 5 Dicebat enim cito expandendum per ordinem, et accipiendum omnibus in exemplum quidquid in loco illo arrogantibus videretur.
+[4] Iubet etiam fratres ascendere et monstrum paupertati oppositum eminus abrogare. [5] Dicebat enim cito expandendum per ordinem, et accipiendum omnibus in exemplum quidquid in loco illo arrogantibus videretur.
 [6] Hanc ergo domum funditus evertisset, nisi milites qui adstabant, eam communitatis et non fratrum dicentes, fervori sui spiritus obstitissent.
 </p>
 
@@ -1098,7 +1097,7 @@ De petenda eleemosyna.
 ## Caput XLVIII - De membro caponis apud Alexandriam verso in piscem <a id="op2-48"></a>
 
 <p id="78">
-[1] In eleemosynarum datione animarum lucrum potius quam carnis subsidium requirebat, <ref to="Sir 4:36">et non minus in dando quam in accipiendo </ref> se ipsum ponebat caeteris in exemplum (cfr. Na 3,6).
+[1] In eleemosynarum datione animarum lucrum potius quam carnis subsidium requirebat, <ref to="Sir 4:36">et non minus in dando quam in accipiendo </ref><ref to="Nah 3:6"> se ipsum ponebat caeteris in exemplum </ref>.
 [2] <ref to="Acts 13:5"> Cum enim apud Alexandriam Lombardiae verbum Dei praedicaturus </ref> accederet, <ref to="Job 1:1; Job 2:3">et a quodam viro timente Deum </ref><ref to="1 Tim 5:10"> famaeque laudabilis devote fuisset susceptus hospitio </ref>, rogatus ab eo, <ref to="Luke 10:8">ut propter sancti Evangelii observantiam de omni apposito manducaret </ref>, annuit benigne, hospitis devotione devictus.
 [3] Accurrit ille festinus, <ref to="4 Kgs 1:10">et caponem septennem studiose homini Dei </ref> praeparat manducandum.
 [4] Sedente ad mensam pauperum patriarcha et familia iucundante, <ref to="1 Kgs 25:17">extemplo adest ad ostium filius Belial </ref>, omni gratia pauper, rerum opportunarum simulans paupertatem.
@@ -1258,7 +1257,7 @@ De compassione sancti Francisci ad pauperes.
 ## Caput LVII - Quomodo gaidam tunicae cuidam paupere dedit <a id="op2-57"></a>
 
 <p id="90">
-[1] Semel aliquando cum a paupere peteretur, nihilque haberet in manibus, gaidam propriae tunicae dissuit et pauperi erogavit. 2 Nonnumquam etiam ob simile opus femoralia traxit. <ref to="Col 3:12">3 Talibus erga pauperes affluebat pietatis visceribus </ref>, <ref to="1 Pet 2:21">talibusque vestigia pauperis Christi </ref> prosequebatur affectibus.
+[1] Semel aliquando cum a paupere peteretur, nihilque haberet in manibus, gaidam propriae tunicae dissuit et pauperi erogavit. [2] Nonnumquam etiam ob simile opus femoralia traxit. <ref to="Col 3:12">3 Talibus erga pauperes affluebat pietatis visceribus </ref>, <ref to="1 Pet 2:21">talibusque vestigia pauperis Christi </ref> prosequebatur affectibus.
 </p>
 
 ## Caput LVIII - Quomodo matri duorum fratrum pauperi dari fecit primum Novum Testamentum quod fuit in Ordine <a id="op2-58"></a>
@@ -1364,7 +1363,7 @@ De studio orationis sancti Francisci.
 [4] Fecerat quadam quadragesima vasculum quoddam, circa quod minutias temporis, ne penitus exciderent, applicarat.
 [5] Quadam ergo die cum tertiam devotus diceret, oculis casualiter illapsis in considerationem vasis, <ref to="Rom 7:22">impeditum sensit interiorem hominem </ref> a fervore.
 [6] Dolens igitur interruptam vocem cordis ad aures divinas, tertia finita, dixit audientibus fratribus: “Hei, nugatorium opus, quod tantum in me valuit ut in se animum detorqueret!
-[7] <ref to="Ps 53:8"> Sacrificabo illud Domino </ref>, cuius sacrificium impedivit”. 8 His dictis, arripiens vasculum, <ref to="Ezek 22:20">conflavit in igne </ref>.
+[7] <ref to="Ps 53:8"> Sacrificabo illud Domino </ref>, cuius sacrificium impedivit”. [8] His dictis, arripiens vasculum, <ref to="Ezek 22:20">conflavit in igne </ref>.
 [9] “Pudeat”, inquit, “nos in vagationes nugatorias abripi, <ref to="Ps 94:3">cum tempore orationis Magnum Regem </ref> alloquimur”.
 </p>
 
@@ -1387,7 +1386,7 @@ De studio orationis sancti Francisci.
 [1] Quando a privatis redibat orationibus, <ref to="1 Kgs 10:6">quibus pene in virum alterum mutabatur </ref>, summopere studebat se caeteris conformare, ne ignitus apparens, <ref to="Matt 25:16">aura favoris quod lucratus erat </ref> amitteret.
 [2] Saepe etiam talia familiaribus dixit: <ref to="2 Chr 24:9">“Quando servus Dei </ref><ref to="Luke 1:68"> orans aliqua nova consolatione visitatur a Domino </ref>, antequam exeat ab oratione, <ref to="Luke 18:13; John 6:5">debet ad caelum oculos sublevare </ref>, et iunctis manibus Domino dicere:
 [3] <ref to="Luke 18:13"> “Istam consolationem et dulcedinem mihi peccatori </ref><ref to="1 Pet 1:12"> et indigno de caelo misisti </ref>, Domine, et ego remitto illam tibi, <ref to="Gen 27:36">ut mihi reserves </ref> eam, quoniam ego sum latro thesauri tui”.
-[4] Et iterum: “Domine, aufer a me bonum tuum in hoc saeculo et reserves mihi illud in futuro ( cfr. Eph 1,21)”.
+[4] Et iterum: “Domine, <ref to="Eph 1:21">aufer a me bonum tuum in hoc saeculo et reserves mihi illud in futuro </ref>”.
 [5] “Ita”, inquit, “debet; ut cum exit ab oratione, sic pauperculum et peccatorem aliis se ostendat, ac si nullam sit novam gratiam assecutus”.
 [6] Dicebat enim: “Levi mercede rem impretiabilem contingit amittere, et illum qui dedit ad iterum non dandum facile provocare”.
 [7] Denique sui moris erat tam furtive, tam leniter ad orationem assurgere, ut sociorum nullus vel surgentem perciperet vel orantem.
@@ -1400,7 +1399,7 @@ De studio orationis sancti Francisci.
 [1] Orante sancto Francisco in loco de Portiuncula, contigit episcopum Assisii venire ad eum familiariter, ut erat solitus, visitandum.
 [2] Qui mox ut locum ingreditur, ad cellam sancti minus reverenter non vocatus accedit, pulsoque ostiolo intraturum se ingerit.
 [3] Et, ecce, dum caput immittit, sanctumque orantem cernit, <ref to="Job 21:6">repente eum concutit tremor </ref>, et obrigentibus membris etiam loquelam amittit.
-[4] Subito voluntate Domini (cfr. Act 21,14; Pa 50,20) per vim foras propellitur, et retrogrado pede procul abducitur.
+[4] <ref to="Acts 21:14; Ps 50:20"> Subito voluntate Domini </ref> per vim foras propellitur, et retrogrado pede procul abducitur.
 [5] Credo vel ipse indignus erat arcanum illud inspicere, vel ille dignus quod tenuerat plus tenere.
 [6] Stupefactus episcopus redit ad fratres, et primo verbo culpam confessus loquelam recuperat.
 </p>
@@ -1515,7 +1514,7 @@ dato.
 [2] Accidit siquidem ipsum ad civitatem Aretii devenire quandoque, cum, ecce, <ref to="Matt 8:34">tota civitas </ref> intestino bello quassata, propinquum sui minabatur excidium.
 [3] Hospitatus itaque vir Dei in burgo extra civitatem, videt supra terram illam daemones exsultantes, et cives ad civium exitia succendentes.
 [4] Vocans autem fratrem Silvestrum nomine, <ref to="1 Kgs 9:7">virum Dei </ref> dignae simplicitatis, <ref to="Gen 28:1">praecepit ei dicens </ref>: “Vade ante portam civitatis, <ref to="Wis 7:25">et ex parte omnipotentis Dei </ref> daemonibus praecipe, <ref to="Matt 10:11">ut tam cito exeant civitatem </ref>!”.
-[5] Festinat pia simplicitas ad obedientiam prosequendam, <ref to="Ps 94:2">et praeoccupans in laudem faciem Domini </ref>, <ref to="Dan 3:4">clamat ante portam valenter </ref>: “Ex parte Dei et iussu patris nostri Francisci, procul hinc discedite (cfr. 1Esd 6,6), daemones universi!”.
+[5] Festinat pia simplicitas ad obedientiam prosequendam, <ref to="Ps 94:2">et praeoccupans in laudem faciem Domini </ref>, <ref to="Dan 3:4">clamat ante portam valenter </ref>: “Ex parte Dei et iussu patris nostri Francisci, <ref to="1 Esd 6:6">procul hinc discedite </ref>, daemones universi!”.
 [6] Redit ad pacem paulo post civitas, et civilitatis in se iura magna tranquillitate custodiunt.
 [7] Unde postmodum praedicans eis beatus Franciscus, in principio praedicationis dixit:
 [8] “Vobis sicut quondam diabolo subiugatis et vinctis daemonum loquor, quos tamen scio cuiusdam pauperis precibus liberatos”.
@@ -1766,7 +1765,7 @@ De vera laetitia spiritus.
 [7] Studebat proinde sanctus in iubilo cordis semper exsistere, <ref to="Ps 44:8">servare unctionem spiritus oleumque laetitiae </ref>.
 [8] Morbum acediae pessimum summa cura vitabat, ita ut cum vel parum menti illapsum sentiret, ad orationem citissime curreret.
 [9] Dicebat autem: <ref to="Dan 6:20">“Servus Dei </ref> pro aliquo, ut assolet, conturbatus, illico surgere ad orationem debet, et tamdiu coram summo Patre persistere, <ref to="Ps 50:14">donec reddat ei sui salutaris laetitiam </ref>.
-[10] Si enim in moestitia fecerit moram (cfr. Hab 2,3), adolescet babylonicum illud, quod tandem, nisi per lacrimas expergetur, mansuram generabit in corde rubiginem”.
+[10] <ref to="Hab 2:3"> Si enim in moestitia fecerit moram </ref>, adolescet babylonicum illud, quod tandem, nisi per lacrimas expergetur, mansuram generabit in corde rubiginem”.
 </p>
 
 ## Caput LXXXIX - De cithara angelica quam audivit <a id="op2-89"></a>
@@ -1902,7 +1901,7 @@ De occultatione stigmatum.
 [5] Manum ab aliquo postulatus ad osculum dimidiat, digitos tantum proferens, quod possit osculum poni; nonnumquam vero pro manu manicam porrigit.
 [6] Pedes laneis peduciis vestit, ne videri possint, pelle supra vulneribus posita, quae asperitatem laneam mitigaret.
 [7] Licet autem sanctus pater non posset manuum et pedum stigmata omnino tegere sociis, aegre tamen ferebat, si aliquis illa respiceret.
-[8] <ref to="Exod 28:3"> Unde et ipsi socii spiritus prudentia </ref> pleni, quando ille manus aut pedes aliqua necessitate detegeret, oculos avertebant (cr. Ps 118,37).
+[8] <ref to="Exod 28:3"> Unde et ipsi socii spiritus prudentia </ref> pleni, quando ille manus aut pedes aliqua necessitate detegeret, <ref to="Ps 118:37">oculos avertebant </ref>.
 </p>
 
 ## Caput XCIX - Quod pia fraude quidam illa inspexit <a id="op2-99"></a>
@@ -2151,7 +2150,7 @@ De iis qui bonum vel malum exemplum praebent.
 ## Caput CXV - De cuiusdam boni fratris exemplo et de more fratrum antiquorum <a id="op2-115"></a>
 
 <p id="155">
-[1] Affirmabat Minores fratres novissimo tempore (cfr. <ref to="John 1:6">Iudas 18) idcirco a Domino missos </ref>, ut peccatorum obvolutis caligine lucis exempla monstrarent.
+[1] Affirmabat Minores fratres <ref to="Jude 1:18">novissimo tempore </ref> idcirco a Domino missos, ut peccatorum obvolutis caligine lucis exempla monstrarent.
 [2] <ref to="Exod 29:18; John 12:3"> Suavissimis dicebat se repleri odoribus </ref><ref to="Matt 26:7"> et unguenti pretiosi </ref> virtute liniri, <ref to="Acts 2:11">cum sanctorum fratrum per orbem distantium audiebat magnalia </ref>.
 [3] Accidit quemdam fratrem Barbarum nomine, coram quodam nobili viro de insula Cypri, <ref to="Job 18:2">semel in fratrem alium verbum iactare </ref> iniuriae.
 [4] Qui cum ex verbi conflictu laesum aliquantulum cerneret fratrem, asinino stercore sumpto, in suimet accensus vindictam ori proprio illud conterendum immittit dicens:
@@ -2173,7 +2172,7 @@ De iis qui bonum vel malum exemplum praebent.
 [6] Quis ergo pro ipsis coram te satisfaciet, si ad quod missi sunt, non solum omnibus lucis exempla non monstrent, <ref to="Rom 13:12">sed potius ostendant opera tenebrarum </ref>?
 [7] A te, sanctissime Domine, et a tota caelesti curia, et a me parvulo sint maledicti, qui suo malo exemplo confundunt et destruunt quod olim per sanctos fratres Ordinis huius aedificasti, et aedificare non cessas!”.
 [8] Ubi sunt qui sua benedictione felices se praedicant, et familiaritate ipsius se iactant pro velle potitos?
-[9] Si, quod absit, inventi fuerint absque poenitudine in aliorum periculo in se monstrasse opera tenebrarum, vae illis (cfr. Iudas 11), vae damnationis aeternae!
+[9] Si, quod absit, inventi fuerint absque poenitudine in aliorum periculo in se monstrasse opera tenebrarum, <ref to="Jude 11">vae illis </ref>, vae damnationis aeternae!
 </p>
 
 <p id="157">
@@ -2239,7 +2238,7 @@ De iis qui bonum vel malum exemplum praebent.
 [2] Odio sunt virtutum exercitia multis, qui ante laborem volentes quiescere, filios se non Francisci sed Luciferi probant.
 [3] Plus infirmantibus quam militantibus abundamus, <ref to="Job 5:7">cum tamen ad laborem nati </ref>, <ref to="Job 7:1">militiam vitam </ref> suam reputare deberent.
 [4] Non placet actione proficere; contemplatione non possunt.
-[5] Cum omnes singularitate turbaverint, plus fauce quam manibus operantes, odiunt corripientem in porta (cfr. Am 5,10), nec summis patiuntur digitis attrectari. 6 Illorum tamen, iuxta verbum beati Francisci, magis impudentiam miror, <ref to="Gen 3:19">qui domi non nisi cum sudore </ref> vixissent, et nunc absque labore, pauperum sudore pascuntur.
+[5] Cum omnes singularitate turbaverint, plus fauce quam manibus operantes, <ref to="Amos 5:10">odiunt corripientem in porta </ref>, nec summis patiuntur digitis attrectari. [6] Illorum tamen, iuxta verbum beati Francisci, magis impudentiam miror, <ref to="Gen 3:19">qui domi non nisi cum sudore </ref> vixissent, et nunc absque labore, pauperum sudore pascuntur.
 [7] Mira prudentia! Cum nihil agant, semper eos existimes occupatos.
 [8] Horas cognoscunt ad epulum, et si quando fames urget, solem dormisse causantur.
 [9] Tua gloria, bone pater, monstra haec hominum digna crediderim? Sed nec tunica quidem!
@@ -2286,7 +2285,7 @@ De contemplatione Creatoris in creaturis.
 
 <p id="165">
 [1] Mundum quasi peregrinationis exsilium exire festinans, <ref to="John 17:11">iuvabatur felix iste viator iis quae in mundo sunt </ref> non modicum quidem.
-[2] <ref to="Eph 6:12"> Nempe ad principes tenebrarum </ref> utebatur eo ut campo certaminis, ad Deum vero ut clarissimo speculo bonitatis (cfr.Sap 7,26).
+[2] <ref to="Eph 6:12"> Nempe ad principes tenebrarum </ref> utebatur eo ut campo certaminis, <ref to="Wis 7:26">ad Deum vero ut clarissimo speculo bonitatis </ref>.
 [3] In artificio quolibet commendant Artificem, quidquid in factis reperit, regerit in Factorem.
 [4] <ref to="Ps 91:5; Ps 8:7"> Exsultat in cunctis operibus manuum Domini </ref>, et per iucunditatis spectacula vivificam intuetur rationem et causam.
 [5] Cognoscit in pulchris Pulcherrimum; <ref to="Gen 1:31">cuncta sibi bona </ref>: <ref to="Ps 99:3">“Qui nos fecit </ref> est optimus”, clamant.
@@ -2652,14 +2651,14 @@ De sancta simplicitate.
 ## Caput CXLIV - Quomodo unitatem fovebat in filiis, de qua sub aenigmate locutus est <a id="op2-144"></a>
 
 <p id="191">
-[1] Assiduum votum vigilque studium semper in eo fuit custodire inter filios vinculum unitatis (c fr. Eph 4,3), <ref to="Job 34:14">ut quos idem spiritus traxerat </ref>, <ref to="Prov 23:22">idemque genuerat pater </ref>, unius matris gremio pacifice foverentur.
+[1] <ref to="Eph 4:3"> Assiduum votum vigilque studium semper in eo fuit custodire inter filios vinculum unitatis </ref>, <ref to="Job 34:14">ut quos idem spiritus traxerat </ref>, <ref to="Prov 23:22">idemque genuerat pater </ref>, unius matris gremio pacifice foverentur.
 [2] Uniri volebat maiores minoribus, germano affectu coniungi sapientes simplicibus, longinquos longinquis amoris glutino copulari.
 [3] Moralem parabolam semel proposuit, instructionem non modicam continentem: “Ecce”, ait, “fiat omnium religiosorum qui in Ecclesia sunt, unum capitulum generale!
 [4] <ref to="Acts 4:13"> Quoniam igitur adsunt litterati et qui sine litteris sunt </ref>, <ref to="Heb 11:6">scientes et qui sine scientia Deo placere </ref> sciunt, uni sapientum unique simplicium sermo indicitur.
 [5] Deliberat sapiens, nam sapiens est, <ref to="Matt 16:7">et cogitat intra se </ref>: “Non est hic ostentandae scientiae locus, ubi sunt perfecti scientia, nec me inter subtilissimos dicentem subtilia reddere decet curiositate notabilem.
 [6] Simpliciter loqui forsitan fructuosius erit”.
 [7] <ref to="Esth 10:11"> Illucet statuta dies </ref>, <ref to="Esth 8:11; Ps 110:1">congregantur in unum congregationes sanctorum </ref>, sitiunt audire sermonem.
-[8] Procedit sapiens sacco vestitus (cfr. <ref to="Lam 2:10">Ion 3,5) et cinere adspersus caput </ref>, et mirantibus cunctis, facto plus praedicans, <ref to="Rom 9:28">abbreviat verba </ref>:
+[8] Procedit sapiens <ref to="Jonah 3:5">sacco vestitus </ref> et cinere adspersus caput, et mirantibus cunctis, facto plus praedicans, <ref to="Rom 9:28">abbreviat verba </ref>:
 [9] “Magna”, inquit, “promisimus, maiora promissa sunt, servemus haec, suspiremus ad illa. Voluptas brevis, poena perpetua, modica passio, gloria infinita. Multorum vocatio, paucorum electio, omnium retributio”.
 [10] <ref to="Gen 43:30"> Erumpunt in lacrimas </ref><ref to="Ps 108:17"> auditorum corda compuncta </ref>, vereque sapientem venerantur ut sanctum.
 [11] “Haeccine”, <ref to="Ps 13:1">ait simplex in corde suo </ref>: “Totum mihi praeripuit sapiens, quidquid facere vel dicere statui. <ref to="Luke 16:4">Sed novi quid faciam </ref>.
@@ -2852,7 +2851,7 @@ De pauperibus dominabus.
 [2] Congregatis autem dominabus ex more, <ref to="John 8:47">ut verbum Dei audirent </ref>, sed non minus ut patrem viderent, levatis ipse in caelum oculis, <ref to="Isa 51:6; Matt 6:21">ubi cor </ref> semper habebat, ad Christum coepit orare.
 [3] Cinerem proinde sibi deferri iubet, de quo circa se in pavimento circulum fecit, <ref to="1 Macc 3:47">reliquum super proprium caput imponens </ref>.
 [4] Exspectantibus illis beatum patrem intra cinereum circulum cum silentio persistentem, stupor in earum cordibus non parvus oboritur.
-[5] Surgit subito sanctus, et illis attonitis, Miserere mei Deus (Ps 50,3ss) recitat pro sermone.
+[5] Surgit subito sanctus, et illis attonitis, <ref to="Ps 50:3">Miserere mei Deus </ref> recitat pro sermone.
 [6] Quo finito, <ref to="Ps 40:7">celeriter foras egreditur </ref>.
 [7] Huius virtute alludii tanta fuerunt famulae Dei contritione repletae, ut lacrimarum educentes profluvia, vix a sui vindicta manus proprias continerent.
 [8] Opere docuit illas se cinerem reputare, nihilque cordi eius aliud approximare de ipsis, nisi hac reputatione condignum.
@@ -2951,7 +2950,7 @@ De infirmitatibus sancti Francisci.
 [6] “Exsulta igitur”, dixit illi Dominus, “quia regni mei est arrha infirmitas tua, <ref to="Wis 7:23">et per patientiae meritum securus et certus </ref><ref to="Eph 5:5"> eiusdem regni haereditatem </ref> exspecta!”.
 [7] Sed quanta putas exsultatione gavisum hominem tam felici promissione beatum?
 [8] Quanta non solum patientia, verum etiam caritate, illum credis corporis molestias amplexatum?
-[9] Novit ipse modo perfecte, quia indicibile tunc dicere sibi fuit. 10 Retulit tamen sociis pauca, ut potuit.
+[9] Novit ipse modo perfecte, quia indicibile tunc dicere sibi fuit. [10] Retulit tamen sociis pauca, ut potuit.
 [11] Laudes de creaturis tunc quasdam composuit, et eas utcumque ad Creatorem laudandum accendit.
 </p>
 
@@ -2966,7 +2965,7 @@ De transitu sancti patris.
 [2] <ref to="Ps 118:32"> Qui mandatorum Dei viam mentis alacritate percurrens </ref>, per omnium virtutum gradus ad summa pervenit, et velut ductile opus, sub multiplicis tribulationis malleo ad perfectionem adductus, <ref to="Ps 118:96">omnis consummationis vidit finem </ref>.
 [3] Tunc enim magis eius mirifica opera colluxerunt, et divinum fuisse omne quod vixit, <ref to="Ps 110:7">veritatis iudicio </ref> fulsit, cum vitae mortalis calcatis illecebris, liber evasit ad superos.
 [4] <ref to="Gal 2:20"> Nam mundo vivere </ref> duxit opprobrium, <ref to="John 13:1">dilexit suos in finem </ref>, mortem cantando suscepit.
-[5] Cum enim ad dies iam propinquaret extremos, quibus, finibili luce subtracta, lux perpetua (cfr. 4Esd 2,35) succedebat, virtutis exemplo monstravit, quod nihil commune illi erat cum mundo.
+[5] Cum enim ad dies iam propinquaret extremos, quibus, finibili luce subtracta, <ref to="4 Esd 2:35">lux perpetua </ref> succedebat, virtutis exemplo monstravit, quod nihil commune illi erat cum mundo.
 [6] Confectus namque infirmitate illa tam gravi, quae omni languori conclusit, <ref to="Isa 14:1">super nudam humum </ref> se nudum fecit deponi, ut hora illa extrema, in qua poterat adhuc hostis irasci, ‘nudus luctaretur cum nudo’.
 [7] Triumphum revera exspectabat intrepidus, <ref to="2 Tim 4:8">et consertis manibus iustitiae complectebatur coronam </ref>.
 [8] <ref to="Job 20:4"> Positus sic in terra </ref>, saccina veste deposita, <ref to="Job 11:15">faciem solito levavit ad caelum </ref>, <ref to="Job 11:5">et intendens illi gloriae </ref> totus, manu sinistra dextri lateris vulnus, ne videretur, obtexit.
@@ -2989,7 +2988,7 @@ De transitu sancti patris.
 [3] Fecit enim fratres omnes assistentes ibidem ad se vocari, <ref to="Zech 1:13">et verbis consolatoriis </ref> eos pro sua morte demulcens, paterno affectu ad divinum est hortatus amorem.
 [4] De patientia et paupertate servanda sermonem protraxit, caeteris institutis sanctum Evangelium anteponens.
 [5] Circumsedentibus vero omnibus fratribus, extendit super eos dexteram suam, <ref to="Gen 48:14">et incipiens a vicario suo capitibus singulorum imposuit </ref>:
-[6] “Valete”, inquit, “filii omnes, <ref to="Acts 9:31">in timore Domini </ref><ref to="Sir 27:6"> et permanete in ipso semper! 7 Et quoniam futura tentatio et tribulatio </ref> appropinquat, felices qui perseverabunt in his quae coeperunt.
+[6] “Valete”, inquit, “filii omnes, <ref to="Acts 9:31">in timore Domini </ref><ref to="Sir 27:6"> et permanete in ipso semper! [7] Et quoniam futura tentatio et tribulatio </ref> appropinquat, felices qui perseverabunt in his quae coeperunt.
 [8] Ego enim ad Deum propero, cuius gratiae vos omnes commendo”;
 [9] benedixitque in illis qui erant ibi, etiam omnibus fratribus, <ref to="2 Cor 1:12">qui ubique conversabantur in mundo </ref>, et qui venturi erant post ipsos, <ref to="Dan 7:18">usque in finem saeculi saeculorum </ref>.
 [10] Nullus sibi hanc benedictionem usurpet quam pro absentibus in praesentibus promulgavit; ut alibi scripta est aliquid insonuit speciale, sed potius ad officium detorquendum.

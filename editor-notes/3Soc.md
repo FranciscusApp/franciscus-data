@@ -31,3 +31,20 @@ Three things still need a human eye:
 - The `(cfr. …)` → `<ref>` clause boundaries were placed by the backward-looking
   heuristic and should be reviewed.
 ---
+**Alfredo Salata <as@salata.ovh> - 2026-07-12 13:00 CEST**
+
+**Subject**: `<ref>` sanitization + a reconstructed English paragraph (3Soc)
+
+Part of the corpus-wide citation pass (see `editor-notes/2Cel.md` for the tool).
+Only a couple of stray citations here (`(Mat 19,21; cfr. Luc 18,22)`,
+`(cfr. 2Timm 3,2)` — the `2Timm` OCR typo mapped to `2 Tim`).
+
+**Needs your eyes — newly machine-translated content.** `3Soc.en.md`'s
+`<p id="54">` was found **truncated to a single fragment** (`[1] <ref to=`) —
+the whole English paragraph (Chapter XIII, four verses) had been lost, while the
+Latin `3Soc.md` and Italian `3Soc.it.md` were intact. I **reconstructed the
+English by translating from the Latin**, matching the Italian's structure and
+the surrounding English register, and restored the two refs the parallels carry
+(`Matt 9:35`, `1 Cor 2:4`). This is the one place in this pass where I generated
+prose rather than moving markup around — please review it against the Latin.
+---

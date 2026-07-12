@@ -23,7 +23,7 @@ INCIPIT PROLOGUS IN VISAM BEATI FRANCISCI.
 [2] In ipsum namque ut vere pauperculum et contritum, tanta Deus excelsus benignitatis condescensione respexit cfr. Is 66,2; Iob 36,22), <ref to="1 Kgs 2:8">quod non solum de mundialis conversationis pulvere suscitavit egenum </ref>, verum etiam evangelicae perfectionis professorem, <ref to="Isa 49:6">ducem atque praeconem effectum in lucem dedit </ref> credentium, ut testimonium perhibendo de lumine, <ref to="John 1:7; Luke 1:76">viam lucis et pacis ad corda fidelium Domino pracpararet </ref>.
 [3] <ref to="Sir 50:6"> Hic etenim quasi stella matutina in medio nebulae </ref>, claris vitae micans et doctrinae fulgoribus, <ref to="Luke 1:79">sedentes in tenebris et umbra mortis </ref> irradiatione praefulgida direxit in lucem,
 [4] <ref to="Sir 50:8"> et tamquam arcus refulgens inter nebulas gloriae </ref>, <ref to="Gen 9:13">signum in se dominici foederis </ref> repraesentans, <ref to="Rom 10:15">pacem et salutem evangelizavit </ref> hominibus,
-[5] <ref to="Isa 33:7"> exsistens et ipse Angelus verae pacis </ref>, secundum imitatoriam quoque similitudinem Praecursoris destinatus a Deo, ut viam parans in deserto (c Mar 1,3; Luc 3,4) altissimae paupertatis, <ref to="Isa 40:3; Luke 24:47">tam exemplo quam verbo poenitentiam praedicaret </ref>.
+[5] <ref to="Isa 33:7"> exsistens et ipse Angelus verae pacis </ref>, secundum imitatoriam quoque similitudinem Praecursoris destinatus a Deo, <ref to="Mark 1:3; Luke 3:4">ut viam parans in deserto </ref> altissimae paupertatis, <ref to="Isa 40:3; Luke 24:47">tam exemplo quam verbo poenitentiam praedicaret </ref>.
 [6] Primum supernae gratiae praeventus donis, dehinc virtutis invictae adauctus meritis, <ref to="Luke 1:67">prophetali quoque repletus spiritu </ref><ref to="4 Kgs 2:11"> nec non et angelico deputatus officio incendioque seraphico totus ignitus et ut vir hierarchicus curru igneo </ref> sursum vectus, sicut ex ipsius vitae decursu luculenter apparet, <ref to="Luke 1:17">rationabiliter comprobatur venisse in spiritu et virtute Eliae </ref>.
 [7] <ref to="John 3:29"> Ideoque alterius amici Sponsi </ref>, Apostoli et Evangelistae Ioannis vaticinatione veridica sub similitudine Angeli ascendentís ab ortu solis signumque Dei vivi habentis adstruitur non immerito designatus.
 [8] Sub apertione namque sexti sigilli vidi, ait Ioannes in Apocalypsi, alterum Angelum ascendentem ab ortu solis, <ref to="Rev 6:12; Rev 7:2">habentem signum Dei vivi </ref>.
@@ -1036,7 +1036,7 @@ OPUSCULUM SECUNDUM
 [5] Cum igitur moram aliquamdiu contraxisset ibidem, nec invenire posset navem tunc temporis transfretantem: fraudatum se a suo desiderio sentiens, nautas quosdam Anconam tendentes, ut amore Dei eum secum ducerent, exoravit.
 [6] Verum illis propter expensarum defectum pertinaciter recusantibus, vir Dei plurimum de Domini bonitate confisus, navem cum socio latenter conscendit.
 [7] Affuit quidam a Deo, ut creditur, pro paupere suo missus, qui secum ferens necessaria victus, <ref to="Job 1:1">quemdam timentem Deum </ref> de navi ad se vocatum sic allocutus est:
-[8] ”Haec omnia pro pauperibus fratribus in navi latitantibus conserva fideliter ac necessitatis tempore (cfr.Sir 8,12) amicabiliter subministra!”.
+[8] <ref to="Sir 8:12"> ”Haec omnia pro pauperibus fratribus in navi latitantibus conserva fideliter ac necessitatis tempore </ref> amicabiliter subministra!”.
 [9] Sicque factum est, ut nautis propter vim ventorum per dies plurimos nusquam applicare valentibus, omnia ipsorum consumerentur cibaria, et sola pauperi Francisco collata desuper eleemosyna superesset.
 [10] Quae cum esset permodica, tantum divina virtute suscepit augmentum, ut diebus pluribus in mari propter tempestatem continuam contrahentibus moram usque ad portum Anconae omnium necessitatibus plenarie subveniret.
 [11] Videntes itaque nautae, per servum Dei multa se mortis evasisse discrimina, <ref to="Ps 106:24">tamquam qui maris horrenda pericula senserant et miranda opera Domini viderant in profundo </ref>, <ref to="Sir 50:19">gratias egerunt omnipotenti Deo </ref>, qui semper in suis amicis et servis mirabilem et amabilem se ostendit.
@@ -1245,7 +1245,7 @@ OPUSCULUM SECUNDUM
 [6] <ref to="Acts 10:44"> Cecidit super eum Spiritus sanctus </ref><ref to="Eph 4:2"> et novum factum de veteri sic facit cum omni mansuetudine </ref> respondere: ”Domina, <ref to="Josh 22:27; Gen 19:19">serviamus Domino et salvemus animas nostras </ref>”.
 [7] Suadente igitur sancta uxore, pluribus annis coelibem vitam agentes, eodem die ambo ad Dominum migraverunt.
 [8] Miranda certe in viro Dei spiritus prophetici virtus, qua et membris iam arentibus restituebat vigorem et duris imprimebat cordibus pietatem,
-[9] quamquam non minus eiusdem spiritus sit stupenda limpiditas, qua sic futurorum praecognoscebat eventum, ut etiam conscientiarum scrutaretur arcanum, quasi alter Eliseus duplicem Eliae spiritum 9cfr. 4Re 2,9) assecutus.
+[9] quamquam non minus eiusdem spiritus sit stupenda limpiditas, qua sic futurorum praecognoscebat eventum, ut etiam conscientiarum scrutaretur arcanum, quasi alter Eliseus <ref to="4 Kgs 2:9">duplicem Eliae spiritum </ref> assecutus.
 </p>
 
 <p id="cap11-7">
@@ -1755,7 +1755,7 @@ INCIPIUNT QUAEDAM DE MIRACULIS IPSIUS POST MORTEM OSTENSIS.
 [13] Ad quos ille qui factus fuerat sanus: ”Nolite timere”, inquit, ”nolite credere inane quod cernitis, quia sanctus Franciscus modo a loco recessit et illarum sacrarum manuum tactu me integre ab omni plaga curavit”.
 [14] Crebrescente tandem huius fama miraculi, accelerat populus omnis et videntes in tam aperto prodigio stigmatum beati Francisci virtutem, admiratione simul et gaudio replebantur Christique signiferum magnis laudum praeconiis extollebant.
 [15] Digne quidem beatus Pater, carne iam mortuus et vivens cum Christo, praesentiae suae ostensione mirabili et manuum sacrarum palpatione suavi vulnerato letaliter viro sanitatem concessit,
-[16] cum illius in se stigmata tulerit, qui, misericorditer moriens et mirabiliter surgens, vulneratum genus humanum et semivivum relictum IcfLuc 10,30) plagarum suarum virtute sanavit.
+[16] cum illius in se stigmata tulerit, qui, misericorditer moriens et mirabiliter surgens, vulneratum <ref to="Luke 10:30">genus humanum et semivivum relictum </ref> plagarum suarum virtute sanavit.
 </p>
 
 <p id="mir1-6">

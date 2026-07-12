@@ -89,7 +89,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 </p>
 
 <p id="5">
-[1] Nocte igitur quadam, cum ad haec consummanda tota se deliberatione dedisset et desiderio aestuans ad iter agendum maxime anhelaret, qui percusserat eum in virga iustitiae, per visionem nocturnam (cfr. Iob 4,13; 33,15) visitat eum in dulcedine gratiae; et quia gloriae cupidus erat, gloriae fastigio eum allicit et exaltat.
+[1] Nocte igitur quadam, cum ad haec consummanda tota se deliberatione dedisset et desiderio aestuans ad iter agendum maxime anhelaret, qui percusserat eum in virga iustitiae, <ref to="Job 4:13; Job 33:15">per visionem nocturnam </ref> visitat eum in dulcedine gratiae; et quia gloriae cupidus erat, gloriae fastigio eum allicit et exaltat.
 [2] Videbatur ei namque domum suam totam habere plenam militaribus armis, sellis scilicet, clipeis, lanceis et caeteris apparatibus; gaudensque plurimum, quid hoc esset, secum tacitus mirabatur.
 [3] Non enim consueverat talia in domo sua videre, sed potius pannorum cumulos ad vendendum.
 [4] Cumque ad subitum rerum eventum stuperet non modicum, responsum est ei, omnia haec arma sua fore militumque suorum.
@@ -122,7 +122,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 [2] <ref to="Ps 125:2"> Tantoque deinceps repletus est gaudio </ref>, quod non se capiens prae laetitia, etiam nolens, ad aures hominum aliquid eructabat.
 [3] Sed licet prae magnitudine inspirati amoris silere non posset, cautius tamen aliquid et in aenigmate loquebatur.
 [4] Sicut enim speciali amico, ut dictum est, <ref to="Matt 13:44">de thesauro abscondito </ref>, sic et caeteris loqui figuraliter nitebatur; dicebat se in Apuliam nolle ire, sed in patria propria promittebat nobilia et ingentia se facturum.
-[5] Putabant homines quod uxorem ducere vellet, ipsumque interrogantes dicebant: “Uxoremne ducere vis, Francisce?” 6 Qui respondens eis aiebat: “Nobiliorem et pulchriorem sponsam quam unquam videritis ducam, quae caeteris forma praemineat et sapientia cunctas excellat”.
+[5] Putabant homines quod uxorem ducere vellet, ipsumque interrogantes dicebant: “Uxoremne ducere vis, Francisce?” [6] Qui respondens eis aiebat: “Nobiliorem et pulchriorem sponsam quam unquam videritis ducam, quae caeteris forma praemineat et sapientia cunctas excellat”.
 [7] <ref to="Jas 1:27"> Et equidem immaculata Dei sponsa est vera religio </ref> quam suscepit, <ref to="Matt 13:44">et thesaurus absconditus est regnum caelorum </ref>, quod tanto desiderio exquisivit;
 [8] quia necessario erat omnino vocatio evangelica in eo explenda, <ref to="Eph 3:7">qui Evangelii erat minister </ref><ref to="1 Tim 2:7"> in fide et veritate </ref> futurus.
 </p>
@@ -276,7 +276,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 
 <p id="22">
 [1] Sed cum die quadam Evangelium, qualiter Dominus miserit discipulos suos ad praedicandum, in eadem ecclesia legeretur, et sanctus Dei assistens ibidem utcumque verba evangelica intellexisset, celebratis missarum solemniis, a sacerdote sibi exponi evangelium suppliciter postulavit.
-[2] <ref to="Esth 15:9"> Qui cum ei cuncta per ordinem </ref> enarrasset, audiens sanctus Franciscus Christi discipulos non debere aurum sive argentum seu pecuniam possidere, non peram, non sacculum, non panem, non virgam in via portare, non calceamenta, non duas tunicas (cfr. Mat 10,9-10; Mar 6,8; Luc 9,3; 10,4) habere, <ref to="Luke 9:2; Mark 6:12">sed regnum Dei et poenitentiam </ref> praedicare, <ref to="Luke 1:47">continuo exsultans in spiritu Dei </ref>:
+[2] <ref to="Esth 15:9"> Qui cum ei cuncta per ordinem </ref> enarrasset, audiens sanctus Franciscus Christi discipulos non debere aurum sive argentum seu pecuniam possidere, non peram, non sacculum, non panem, non virgam in via portare, non calceamenta, <ref to="Matt 10:9-10; Mark 6:8; Luke 9:3; Luke 10:4">non duas tunicas </ref> habere, <ref to="Luke 9:2; Mark 6:12">sed regnum Dei et poenitentiam </ref> praedicare, <ref to="Luke 1:47">continuo exsultans in spiritu Dei </ref>:
 [3] “Hoc est, inquit, quod volo, hoc est quod quaero, hoc totis medullis cordis facere concupisco”.
 [4] Festinat proinde pater sanctus, <ref to="2 Cor 7:4">superabundans gaudio </ref>, ad impletionem salutaris auditus, nec moram patitur aliquam praeterire quin operari devotus incipiat quod audivit.
 [5] <ref to="Exod 3:5"> Solvit protinus calceamenta de pedibus </ref>, baculum deponit e manibus et, tunica contentus, pro corrigia funiculum immutavit.
@@ -313,7 +313,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 
 <p id="25">
 [1] Statim autem vir alter civitatis Assisii eum secutus est, qui valde in conversatione laudabilis exstitit, et quod sancte coepit sanctius post modicum consummavit.
-[2] Hunc vero, <ref to="Matt 25:19">post non multum temporis </ref>, sequitur frater Aegidius, vir simplex et rectus ac timens Deum (cfr. Iob 1,8; 2,3), qui longo tempore durans, sancte, <ref to="Titus 2:12">iuste ac pie vivendo </ref>, perfectae obedientiae, laboris quoque manuum, vitae solitariae, sanctaeque contemplationis nobis exempla relinquit.
+[2] Hunc vero, <ref to="Matt 25:19">post non multum temporis </ref>, sequitur frater Aegidius, <ref to="Job 1:8; Job 2:3">vir simplex et rectus ac timens Deum </ref>, qui longo tempore durans, sancte, <ref to="Titus 2:12">iuste ac pie vivendo </ref>, perfectae obedientiae, laboris quoque manuum, vitae solitariae, sanctaeque contemplationis nobis exempla relinquit.
 [3] His autem alio uno apposito, frater Philippus septenarium numerum adimplevit, <ref to="Isa 6:6-7">cuius Dominus munditiae calculo labia tetigit </ref>, ut loqueretur de ipso dulcia et melliflua eructaret,
 [4] Scripturas quoque sacras intelligens et interpretans, <ref to="John 7:15">cum non didicerit </ref>, illorum imitator effectus est, <ref to="Acts 4:13">quos idiotas et sine litteris </ref> fore Iudaeorum principes causabantur.
 </p>
@@ -637,7 +637,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 [5] Saepe namque ab omnibus honoratus, dolore nimio sauciabatur et favorem humanum pro foribus arcens, faciebat sibi e regione ab aliquo exprobrari.
 [6] Vocabat quoque ad se fratrem aliquem, dicens ei: “Per obedientiam tibi dico, ut mihi duriter iniurieris et contra istorum mendacia vera loquaris”.
 [7] Cumque frater ille, licet invitus, eum rusticum, mercenarium et inutilem diceret, subridens et applaudens plurimum, respondebat:
-[8] <ref to="Num 6:24"> “Benedicat tibi Dominus! </ref>”, quia verissima loqueris; talia enim decet audire filium Petri de Bernardone!”. 9 Sic loquens nativitatis suae humilia primordia recolebat.
+[8] <ref to="Num 6:24"> “Benedicat tibi Dominus! </ref>”, quia verissima loqueris; talia enim decet audire filium Petri de Bernardone!”. [9] Sic loquens nativitatis suae humilia primordia recolebat.
 </p>
 
 <p id="54">
@@ -652,7 +652,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 
 <p id="55">
 [1] Amore divino fervens, <ref to="Prov 31:19">beatissimus pater Franciscus studebat semper ad fortia mittere manum </ref>, <ref to="Ps 118:32">et dilatato corde viam mandatorum </ref> Dei ambulans, perfectionis summam attingere cupiebat.
-[2] Sexto namque conversionis suae anno, sacri martyrii desiderio maxime flagrans, ad praedicandam fidem christianam et poenitentiam Saracenis et caeteris infidelibus, ad partes Syriae voluit transfetare. 3 Qui cum navem quamdam, ut illuc tenderet, intravisset, ventis contrariis flantibus, in partibus Sclavoniae cum caeteris navigantibus se invenit.
+[2] Sexto namque conversionis suae anno, sacri martyrii desiderio maxime flagrans, ad praedicandam fidem christianam et poenitentiam Saracenis et caeteris infidelibus, ad partes Syriae voluit transfetare. [3] Qui cum navem quamdam, ut illuc tenderet, intravisset, ventis contrariis flantibus, in partibus Sclavoniae cum caeteris navigantibus se invenit.
 [4] Videns autem a tanto desiderio se fraudatum, facto modico temporis intervallo, nautas quosdam Anconam tendentes, ut eum secum ducerent exoravit, quoniam eo in anno vix ulla navis potuit ad partes Syriae transmeare.
 [5] Verum illis hoc agere pertinacius recusantibus propter expensarum defectum, sanctus Dei confidens plurimum de Domini bonitate, navem latenter cum socio introivit.
 [6] Adfuit, divina providentia, tunc quidam, omnibus ignorantibus, secum necessaria victus ferens, <ref to="Job 1:1">qui quemdam Deum timentem </ref> de navi ad se vocavit et ait ad eum: <ref to="Tob 11:4">“Tolle tecum </ref> haec omnia, <ref to="Sir 8:12">et pauperibus his in navi latitantibus necessitatis tempore </ref> fideliter exhibebis.
@@ -662,7 +662,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 </p>
 
 <p id="56">
-[1] <ref to="Dan 3:93"> Servus Dei excelsi </ref> Franciscus, relinquens mare, terram deambulabat, <ref to="Deut 21:3">eamque verbi vomere scindens </ref>, seminat semen vitae, fructum ( cfr. Mat 13,3) proferens benedictum.
+[1] <ref to="Dan 3:93"> Servus Dei excelsi </ref> Franciscus, relinquens mare, terram deambulabat, <ref to="Deut 21:3">eamque verbi vomere scindens </ref>, seminat semen vitae, <ref to="Matt 13:3">fructum </ref> proferens benedictum.
 [2] Statim namque quamplures boni et idonei viri, clerici et laici, <ref to="2 Pet 1:4">fugientes mundum </ref> et diabolum viriliter elidentes, gratia et voluntate Altissimi, vita et proposito eum devote secuti sunt.
 [3] Sed licet electissimorum fructuum evangelicus palmes copiam ex se producat, martyrii tamen sublime propositum et desiderium ardens in eo nullo modo frigescit.
 [4] <ref to="Matt 25:19"> Post non multum enim temporis </ref> versus Marrochium iter arripuit, ut Miramolino et complicibus suis Christi Evangelium praedicaret.
@@ -813,7 +813,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 [2] <ref to="Matt 15:22"> Uxor autem eius a daemonio vexabatur </ref>, sicut notum erat omnibus inhabitantibus terram illam, rogavitque beatum Franciscum vir eius pro illa, confidens eam posse ipsius meritis liberari.
 [3] Sed quoniam plus desiderabat in simplicitate sua contemptui haberi, quam de ostensione sanctitatis mundi huius favoribus extolli, facere hoc penitus recusabat.
 [4] Tandem, quia Deus in causa erat, rogitantibus eum multis, victus precibus acquievit.
-[5] Vocavit quoque tres fratres ad se, qui erant cum eo, et in singulis domus illius angulis singulum fratrem constituens, dixit eis: “Oremus, fratres, ad Dominum pro muliere hac, ut iugum diaboli ab ea excutiat (cfr.Gen 27,40) Deus, ‘ad laudem et gloriam’ suam.
+[5] Vocavit quoque tres fratres ad se, qui erant cum eo, et in singulis domus illius angulis singulum fratrem constituens, dixit eis: “Oremus, fratres, ad Dominum pro muliere hac, <ref to="Gen 27:40">ut iugum diaboli ab ea excutiat </ref> Deus, ‘ad laudem et gloriam’ suam.
 [6] Stemus separatim”, inquit, “in angulis domus, ne spiritus iste malignus nos fugere aut decipere valeat, quaerens diverticula angulorum”.
 [7] <ref to="Jdt 6:16"> Completa quoque oratione </ref>, <ref to="Rom 15:13">beatus Franciscus in virtute Spiritus </ref> accessit ad mulierem, quae miserabiliter torquebatur et horrende clamabat, et ait: “In nomine Domini nostri Iesu Christi, per obedientiam praecipio tibi, daemon, <ref to="Acts 16:18">ut exeas ab ea </ref>, nec audeas ipsam amplius impedire”.
 [8] Vix verba compleverat, <ref to="Gen 39:12">et tam velocissime cum furore atque stridore foras egressus est </ref>, quod, propter subitam sanitatem mulieris et tam citissimam obedientiam daemonis, sanctus pater sibi putaret fore illusum.
@@ -980,7 +980,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 
 <p id="83">
 [1] O quam pulcher, quam splendidus, <ref to="2 Kgs 6:22">quam gloriosus apparebat </ref> in vitae innocentia, in simplicitate verborum, in puritate cordis, in dilectione Dei, in charitate fraterna, in flagranti obedientia, in concordi obsequio, <ref to="Jude 13">in aspectu angelico </ref>.
-[2] Dulcis in moribus, natura placidus, affabilis in sermone, commodissimus in exhortatione, <ref to="Prov 11:13">fidelissimus in commisso </ref>, providus in consilio, in negotio efficax, gratiosus in omnibus (cfr.Est 2,15).
+[2] Dulcis in moribus, natura placidus, affabilis in sermone, commodissimus in exhortatione, <ref to="Prov 11:13">fidelissimus in commisso </ref>, providus in consilio, in negotio efficax, <ref to="Esth 2:15">gratiosus in omnibus </ref>.
 [3] Mente serenus, animo dulcis, <ref to="2 Tim 1:7">spiritu sobrius </ref>, contemplatione suspensus, orationi assiduus et in omnibus fervens.
 [4] Constans proposito, virtute stabilis, gratia perseverans, et in omnibus idem.
 [5] Ad indulgendum velox, <ref to="Jas 1:19">ad irascendum tardus </ref>, liber ingenio, memoria luculentus, <ref to="Wis 7:22">subtilis in disserendo </ref>, circumspectus in eligendo et in omnibus simplex.
@@ -1039,7 +1039,7 @@ INCIPIT VITA BEATISSIMI PATRIS NOSTRI FRANCISCI
 [3] Immo et mulieres, partu gravi ac longo laborantes, de praedicto foeno sibi superimponentes, partu pariunt salutari: atque a diversis cladibus utriusque sexus concursus desideratam ibidem obtinent sanitatem.
 [4] <ref to="3 Kgs 8:63"> Consecratus est denique locus praesepii templum Domino </ref>, et in honorem beatissimi patris Francisci supra praesepe altare construitur et ecclesia dedicatur,
 [5] <ref to="Dan 5:21"> ut ubi animalia quandoque foeni pabulum comederunt </ref>, <ref to="1 Pet 1:19; 1 Cor 1:10">ibi de caetero ad sanitatem animae ac corporis manducent homines carnes agni immaculati et incontaminati Iesu Christi Domini nostri </ref>,
-[6] <ref to="Titus 2:14"> qui summa et ineffabilli charitate dedit seipsum nobis </ref>, cum Patre ac Spiritu sancto vivens et regnans Deus aeternaliter gloriosus per cuncta saecula saeculorum. Amen. Alleluia (cfr. Apoc 1,18; 19,4), Alleluia. EXPLICIT PRIMUM OPUS DE VITA ET ACTIBUS BEATI FRANCISCI.
+[6] <ref to="Titus 2:14"> qui summa et ineffabilli charitate dedit seipsum nobis </ref>, cum Patre ac Spiritu sancto vivens et regnans Deus aeternaliter gloriosus per cuncta saecula saeculorum. Amen. <ref to="Rev 1:18; Rev 19:4">Alleluia </ref>, Alleluia. EXPLICIT PRIMUM OPUS DE VITA ET ACTIBUS BEATI FRANCISCI.
 </p>
 
 <aside>
@@ -1063,7 +1063,7 @@ ET DE FELICI OBITU BEATISSIMI PATRIS NOSTRI FRANCISCI.
 [3] Sicque factum est, ut doctrina sua omnem mundi sapientiam ostenderet evidentissime fore stultam, <ref to="1 Cor 1:20">e brevi spatio temporis ad veram sapientiam Dei per stultitiam preadicationis </ref> inclinaverit, <ref to="Dan 9:25">Christo duce </ref>.
 [4] <ref to="1 Pet 1:5"> Quoniam in novissimo tempore </ref> novus evangelista, <ref to="Gen 2:10; Isa 44:3">quasi unus ex paradisi fluminibus </ref>, <ref to="Esth 13:4">in toto terrarum orbe </ref> fluenta Evangelii pia irrigatione diffudit et viam Filii Dei atque doctrinam veritatis opere praedicavit.
 [5] Facta est proinde in eo et per eum orbis terrarum insperata exsultatio et sancta novitas: antiquae religionis germen inveteratos diu et veteres multum subito innovavit.
-[6] Datus est spiritus novus in cordibus electorum et in medio eorum effusa est (cfr. Ez 11,19; 36,26) unctio salutaris, cum velut unum de luminaribus caeli, <ref to="Gen 2:10; Isa 44:3">Christi servus </ref> et sanctus novo ritu, novisque signis desuper radiavit.
+[6] <ref to="Ezek 11:19; Ezek 36:26"> Datus est spiritus novus in cordibus electorum et in medio eorum effusa est </ref> unctio salutaris, cum velut unum de luminaribus caeli, <ref to="Gen 2:10; Isa 44:3">Christi servus </ref> et sanctus novo ritu, novisque signis desuper radiavit.
 [7] Renovata sunt per eum antiqua miracula, dum in deserto mundi huius, ordine novo sed antiquo more, plantata est vitis fructifera, <ref to="Sir 24:23; Ps 51:10">proferens flores suavitatis in odorem </ref> virtutum sanctarum, <ref to="Ezek 17:6">ubique sacrae religionis palmites extendendo </ref>.
 </p>
 
@@ -1085,7 +1085,7 @@ ET DE FELICI OBITU BEATISSIMI PATRIS NOSTRI FRANCISCI.
 <p id="91">
 [1] Tempore quodam beatus et venerabilis pater Franciscus, relictis saecularibus turbis, quae ad audiendum et videndum eum quotidie devotissime concurrebant, locum quietis et secretum solitudinis petit, cupiens ibi vacare Deo et extergere, <ref to="Luke 10:11">si quid pulveris sibi ex conversatione hominum adhaesisset </ref>.
 [2] Mos eius erat tempus impensum sibi ad gratiam promerendam dividere, et, prout oportere videbat, aliud proximorum lucris impendere, aliud contemplationis beatis secessibus consummare.
-[3] <ref to="Luke 9:28; Mark 14:33"> Assumpsit proinde secum </ref> socios valde paucos, quibus eius conversatio sancta magis quam caeteris nota erat, ut tuerentur eum ab incursu et conturbatione hominum (cfr. Ps 90,6; 30,21), et suam quietem in omnibus diligerent ac servarent.
+[3] <ref to="Luke 9:28; Mark 14:33"> Assumpsit proinde secum </ref> socios valde paucos, quibus eius conversatio sancta magis quam caeteris nota erat, <ref to="Ps 90:6; Ps 30:21">ut tuerentur eum ab incursu et conturbatione hominum </ref>, et suam quietem in omnibus diligerent ac servarent.
 [4] Cumque illic aliquamdiu permansisset, et oratione continua frequentique contemplatione divinam familiaritatem modo ineffabili fuisset adeptus, <ref to="Ps 28:10">quid aeterno Regi </ref> de se et in se foret acceptius aut esse posset, cognoscere cupiebat.
 [5] Curiosissime exquirebat et piisime anhelabat scire, quali modo, quali via aut quali desiderio Domino Deo valeret, <ref to="Sir 40:25">iuxta consilium et beneplacitum </ref> voluntatis suae, perfectius adhaerere.
 [6] Haec summa eius philosophia semper fuit, hoc summum desiderium in eo, quoad vixit, <ref to="Num 11:4">semper flagravit </ref>, ut quaereret a simplicibus, a sapientibus, a perfectis et imperfectis, <ref to="Ps 118:30">qualiter posset viam apprehendere veritatis </ref> et ad maius propositum pervenire.
@@ -1095,7 +1095,7 @@ ET DE FELICI OBITU BEATISSIMI PATRIS NOSTRI FRANCISCI.
 [1] Nam cum esset perfectissimus perfectorum, perfectum abnuens, imperfectum se penitus reputabat.
 [2] Gustaverat enim et viderat, quam dulcis, <ref to="Ps 33:9">suavis </ref><ref to="Ps 72:1"> et bonus foret Deus Israel his qui recto sunt corde </ref>, <ref to="Wis 1:1">et in simplicitate pura et puritate vera quaerunt illum </ref>.
 [3] Infusa namque dulcedo et suavitas, rarissimis raro data, quam sibi desuper senserat adspirare, cogebat eum totum a se ipso deficere et tanta iucunditate repletus, cupiebat modis omnibus illuc ex toto transire, ubi, excedendo se ipsum, iam parte praecesserat.
-[4] Paratus erat homo, <ref to="1 Cor 7:40">spiritum Dei habens </ref>, omnes animi pati angustias, omnesque passiones corporis tolerare, <ref to="Josh 24:15">si tandem optio sibi daretur </ref>, ut voluntas Patris caelestis misericorditer compleretur (cfr. Mat 6,14; 12,50) in eo.
+[4] Paratus erat homo, <ref to="1 Cor 7:40">spiritum Dei habens </ref>, omnes animi pati angustias, omnesque passiones corporis tolerare, <ref to="Josh 24:15">si tandem optio sibi daretur </ref>, <ref to="Matt 6:14; Matt 12:50">ut voluntas Patris caelestis misericorditer compleretur </ref> in eo.
 [5] Acessit proinde die quadam ante sacrum altare, quod in eremitorio in quo ipse manebat erat constructum, et accepto codice, in quo sacra Evangelia erant conscripta, reverenter altari superposuit illum.
 [6] <ref to="Luke 6:12"> Sicque prostratus in oratione Dei </ref> non minus corde quam corpore, humili prece poscebat, <ref to="Joel 2:13">ut benignus Deus </ref>, <ref to="2 Cor 1:3">pater misericordiarum et Deus totius consolationis </ref>, suam sibi dignaretur ostendere voluntatem:
 [7] et ut perfecte consummare valeret quod olim simpliciter et devote inceperat, quid sibi esset opportunius agere, in prima libri apertione indicari suppliciter precabatur.
@@ -1118,7 +1118,7 @@ ET DE FELICI OBITU BEATISSIMI PATRIS NOSTRI FRANCISCI.
 ## Caput III - De visione hominis imaginem Seraphim crucifixi habentis. <a id="op2-3"></a>
 
 <p id="94">
-[1] Faciente ipso moram in eremitorio, quod a loco in quo positum est Alverna nominatur, duobus annis antequam animam redderet caelo, vidit in visione Dei (cfr. Ez 1,1; 8,1) virum unum, quasi Seraphim sex alas habentem, stantem supra se, manibus extensis ac pedibus coniunctis, cruci affixum.
+[1] Faciente ipso moram in eremitorio, quod a loco in quo positum est Alverna nominatur, duobus annis antequam animam redderet caelo, <ref to="Ezek 1:1; Ezek 8:1">vidit in visione Dei </ref> virum unum, quasi Seraphim sex alas habentem, stantem supra se, manibus extensis ac pedibus coniunctis, cruci affixum.
 [2] Duae alae supra caput elevabantur, duae ad volandum extendebantur, <ref to="Isa 6:2">duae denique totum velabant corpus </ref>.
 [3] Cumque ista videret beatus servus Altissimi, admiratione permaxima replebatur, sed quid sibi vellet haec visio advertere nesciebat.
 [4] Gaudebat quoque plurimum et vehementius laetabatur in benigno et gratioso respectu, quo a Seraphim conspici se videbat, cuius pulchritudo inaestimabilis erat nimis, sed omnino ipsum crucis affixio et passionis illius acerbitas deterrebat.
@@ -1191,7 +1191,7 @@ ET DE FELICI OBITU BEATISSIMI PATRIS NOSTRI FRANCISCI.
 
 <p id="100">
 [1] <ref to="2 Tim 3:16"> Quod ut inspiratum divinitus </ref> et Christi Iesu voluntate operatum esse sciatur, longe ante beatus pater Franciscus hoc verbis praedixit et opere praesignavit.
-[2] Nam cum ordo et religio fratrum, divina gratia faciente, satis iam inciperet dilatari, et velut cedrus in paradiso Dei, <ref to="Ezek 31:8; Ps 109:3">in caelestibus </ref> sanctorum attolleret verticem meritorum, <ref to="Jer 2:21">et tamquam vinea electa </ref> sacros produceret palmites in latitudinem orbis terrae (cfr. Ps 79,12; 17,20), sanctus Franciscus accessit ad dominum papam Honorium, qui Romanae tunc preerat Ecclesiae, supplici prece petens ab eo ut dominum Hugonem, episcopum Ostiensem, sui fratrumque suorum patrem et dominum ordinaret.
+[2] Nam cum ordo et religio fratrum, divina gratia faciente, satis iam inciperet dilatari, et velut cedrus in paradiso Dei, <ref to="Ezek 31:8; Ps 109:3">in caelestibus </ref> sanctorum attolleret verticem meritorum, <ref to="Jer 2:21">et tamquam vinea electa </ref><ref to="Ps 79:12; Ps 17:20"> sacros produceret palmites in latitudinem orbis terrae </ref>, sanctus Franciscus accessit ad dominum papam Honorium, qui Romanae tunc preerat Ecclesiae, supplici prece petens ab eo ut dominum Hugonem, episcopum Ostiensem, sui fratrumque suorum patrem et dominum ordinaret.
 [3] Annuit dominus papa precibus sancti, et benigne obtemperans, suam illi super ordinem fratrum contulit potestatem.
 [4] Quam ille reverenter et devote suscipiens, tamquam fidelis servus et prudens constitutus super familiam Domini, <ref to="Matt 24:45">studebat modis omnibus cibum </ref><ref to="Ps 144:15"> aeternae vitae sibi commissis ministrare in tempore opportuno </ref>.
 [5] Propterea sanctus pater modis omnibus se subiciebat ei et miro ac reverenti eum venerabatur affectu.
@@ -1269,7 +1269,7 @@ ET DE FELICI OBITU BEATISSIMI PATRIS NOSTRI FRANCISCI.
 [4] Si ab una parte foras pelleremini, ex alia reintrate; <ref to="Ezek 42:13">nam locus iste vere sanctus est </ref><ref to="1 Chr 29:1"> et habitatio Dei </ref>.
 [5] <ref to="1 Chr 16:19"> Hic cum pauci essemus </ref>, nos augmentavit Altissimus; <ref to="Eph 1:18">hic luce sapientiae suae illuminavit suorum pauperum corda </ref>; hic igne amoris sui nostras voluntates accendit.
 [6] Hic qui oraverit corde devoto, quod petierit obtinebit, et offendens gravius punietur.
-[7] Propterea, filii, <ref to="3 Kgs 8:30">omni honore dignum habete locum habitaculi Dei </ref>, et in toto corde vestro, in voce exsultationis et confessionis, ibi confitemini Deo (cfr. Ier 29,13; Ps 41,5; 135,2).
+[7] Propterea, filii, <ref to="3 Kgs 8:30">omni honore dignum habete locum habitaculi Dei </ref>, et in toto corde vestro, in voce exsultationis et confessionis, <ref to="Jer 29:13; Ps 41:5; Ps 135:2">ibi confitemini Deo </ref>.
 </p>
 
 <p id="107">
@@ -1313,9 +1313,9 @@ ET DE FELICI OBITU BEATISSIMI PATRIS NOSTRI FRANCISCI.
 </p>
 
 <p id="110">
-[1] Iussit denique codicem Evangeliorum portari, et Evangelium secundum Iohannem sibi legi poposcit, ab eo loco ubi incipit: Ante sex dies paschae, sciens Iesus quia venit hora eius, ut transeat ex hoc mundo ad Patrem (Ioa 13,1 (12,1)).
+[1] Iussit denique codicem Evangeliorum portari, et Evangelium secundum Iohannem sibi legi poposcit, ab eo loco ubi incipit: <ref to="John 12:1; John 13:1">Ante sex dies paschae, sciens Iesus quia venit hora eius, ut transeat ex hoc mundo ad Patrem </ref>.
 [2] Hoc etiam Evangelium legere proposuerat sibi minister, priusquam ei praeciperetur; hoc etiam in prima libri apertione occurrit, cum tota et plena Bibliotheca esset, in qua Evangelium legi debebat.
-[3] Iussit proinde se superponi cilicio et conspargi cinere, qui terra et cinis (cfr. Sir 10,9; 17,31) mox erat futurus.
+[3] Iussit proinde se superponi cilicio et conspargi cinere, <ref to="Sir 10:9; Sir 17:31">qui terra et cinis </ref> mox erat futurus.
 [4] <ref to="Deut 31:11"> Convenientibus itaque multis </ref> fratribus, <ref to="Acts 14:11">quorum ipse pater et dux erat </ref>, <ref to="Sir 33:24">reverenterque adstantibus et exspectantibus omnibus exitum beatum et consummationem </ref> felicem, sanctissima illa anima carne soluta est, qua in abysso claritatis absorpta, <ref to="Acts 7:60">corpus obdormivit in Domino </ref>.
 [5] Unus autem ex fratribus et discipulis eius, fama non modicum celebris, cuius nomen nunc existimo reticendum, <ref to="Gal 2:20">quoniam dum vivit in carne </ref> non vult praeconio gloriari, <ref to="Josh 8:20; Ps 28:3">vidit animam sanctissimi patris recto tramite in caelum conscendere super aquas multas </ref>.
 [6] <ref to="Sir 50:6"> Erat enim quasi stella </ref> quoquo modo lunae immensitatem habens, solis vero utcumque retinens claritatem, <ref to="1 Cor 15:41; Rev 14:14">a candida subvecta nubecula </ref>.
@@ -1343,7 +1343,7 @@ ET DE FELICI OBITU BEATISSIMI PATRIS NOSTRI FRANCISCI.
 [8] Numquam enim audierant, nec legerant in scripturis quod oculis mostrabatur, quod et persuaderi vix potuisset eis, si non tam evidenti testimonio probaretur.
 [9] <ref to="1 Pet 1:19"> Resultabat revera in eo forma crucis et passionis Agni immaculati </ref>, <ref to="Rev 1:5">qui lavit crimina mundi </ref>, dum quasi recenter e cruce depositus videretur, <ref to="John 19:34">manus et pedes clavis confixos et dextrum latus quasi lancea </ref> vulneratum.
 [10] Intuebantur namque carnem illius, quae nigra fuerat prius, candore nimio renitentem, et ex sui pulchritudine beatae ressurrectionis praemia pollicentem.
-[11] Cernebant denique vultum eius quasi vultum Angeli, <ref to="Acts 6:15"></ref> quasi viveret, non sicut mortuus esset, et caetera membra eius conversa in teneritudinem et habilitatem innocentiae puerilis.
+[11] Cernebant denique <ref to="Acts 6:15">vultum eius quasi vultum Angeli</ref>, quasi viveret, non sicut mortuus esset, et caetera membra eius conversa in teneritudinem et habilitatem innocentiae puerilis.
 [12] Non sunt contracti nervi eius, ut mortuorum solent, non indurata cutis, non rigida effecta sunt membra, sed huc atque illuc vertentia se, veluti ponebantur.
 </p>
 
@@ -1365,7 +1365,7 @@ ET DE FELICI OBITU BEATISSIMI PATRIS NOSTRI FRANCISCI.
 [4] <ref to="Luke 7:47"> Hic te dilexit multum </ref>, quem sic gloriosissime decorasti!
 [5] <ref to="Rev 5:13; Rom 16:27"> Gloria et benedictio soli sapienti Deo </ref>, <ref to="Sir 36:6">qui innovat signa et mutat mirabilia </ref>, ut infirmorum mentes novis revelationibus consoletur, <ref to="Ps 138:14">et ut per visibilium mirabile opus </ref> ipsorum corda amore invisibilium rapiantur!
 [6] O mira et amabilis dispositio Dei, quae, ut nulla de miraculi novitate posset oriri suspicio, <ref to="John 3:13">primo misericorditer ostendit in eo qui de caelis erat </ref>, quod mirabiliter paulo post facturus erat in eo qui degebat in terris!
-[7] Et quidem indicare voluit verus Pater misericordiarum, <ref to="2 Cor 1:3"></ref> quanto praemio dignus sit, <ref to="Matt 22:37">qui eum diligere studuerit toto corde </ref>, ut in superiore scilicet ac sibi vicioniore supercaelestium spirituum ordine collocetur.
+[7] Et quidem indicare voluit verus <ref to="2 Cor 1:3">Pater misericordiarum</ref>, quanto praemio dignus sit, <ref to="Matt 22:37">qui eum diligere studuerit toto corde </ref>, ut in superiore scilicet ac sibi vicioniore supercaelestium spirituum ordine collocetur.
 [8] Quod utique indubitanter adipisci poterimus, <ref to="Ezek 1:22">si more Seraphim duas alas extenderimus supra caput </ref>, habentes videlicet, beati Francisci exemplo, in omni opere bono intentionem puram et operationem rectam, et his directis ad Deum, soli sibi placere in omnibus infatigabiliter studuerimus.
 [9] Quae ad velandum caput necessario coniunguntur, <ref to="Jas 1:17">quia rectitudinem operis absque puritate intentionis et e converso Pater luminum </ref> minime acceptabit, ipso dicente:
 [10] Si oculus tuus fuerit simplex, totum corpus tuum lucidum erit, si autem nequam fuerit, <ref to="Matt 6:22">totum corpus tenebrosum erit </ref>.
@@ -1513,11 +1513,11 @@ NOSTRI FRANCISCI ET DE MIRACULIS EIUS.
 [2] Adstat pontificalibus infulis decoratus, <ref to="Exod 40:13">et vestibus sanctitatis </ref> indutus, <ref to="Sir 45:13">in ligatura auri et opere lapidarii sculpitilis </ref>.
 [3] <ref to="1 Kgs 24:11"> Adstat christus Domini </ref><ref to="Isa 4:2; Ps 44:10"> in magnificentia gloriae deauratus </ref>, <ref to="Sir 45:13">et vernantibus figuratisque gemmis </ref> coopertus, omnes sollicitat ad videntum.
 [4] Circumdant eum cardinales et episcopi, <ref to="Isa 61:10">splendidioribus ornati monilibus </ref> et niveis fulgoribus candidati, supercaelestium pulchritudinem imaginem praeferunt, et glorificatorum gaudium repraesentant.
-[5] <ref to="1 Kgs 12:19"> Exspectat universus populus </ref> vocem gaudii, vocem laetitiae, <ref to="Jer 25:10"></ref> vocem novam, vocem omni dulcedine plenam, <ref to="Ps 25:7">vocem laudis </ref>, vocem perpetuae benedictionis.
+[5] <ref to="1 Kgs 12:19"> Exspectat universus populus </ref> <ref to="Jer 25:10">vocem gaudii, vocem laetitiae</ref>, vocem novam, vocem omni dulcedine plenam, <ref to="Ps 25:7">vocem laudis </ref>, vocem perpetuae benedictionis.
 [6] <ref to="Heb 9:19"> Praedicat primitus populo universo </ref> papa Gregorius, et affectu mellifluo, voce sonora, nuntiat praeconia Dei.
 [7] Sanctum quoque patrem Franciscum nobilissimo sermone collaudat, et conversationis eius recolens et annuntians puritatem, totus lacrimis madidatur.
 [8] Sermo eius tale sumit exordium: “Quasi stella matutina in medio nebulae, et quasi luna plena in diebus suis, et quasi sol refulgens, <ref to="Sir 50:6-7">sic iste effulsit in templo Dei </ref>”.
-[9] Completur itaque sermo fidelis et omni acceptione dignus, <ref to="1 Tim 1:15"></ref> et unus ex subdiaconibus domini papae, nomine Octavianus, miracula sancti coram omnibus voce altissima legit.
+[9] Completur itaque <ref to="1 Tim 1:15">sermo fidelis et omni acceptione dignus</ref>, et unus ex subdiaconibus domini papae, nomine Octavianus, miracula sancti coram omnibus voce altissima legit.
 [10] Dominus Raynerius, diaconus cardinalis, perspicaci pollens ingenio, pietate ac moribus clarus, ea sacris loquelis lacrimis perfusus edisserit.
 [11] Tripudiat pastor Ecclesiae, ac de intimis visceribus longa suspiria trahens et salutares singultus ingeminans, lacrimarum rivulos educit.
 [12] Caeteri quoque praelati Ecclesiae lacrimarum profluvia spargunt et sacri ornatus eorum exuberantia irrorantur.
@@ -1540,7 +1540,7 @@ NOSTRI FRANCISCI ET DE MIRACULIS EIUS.
 </p>
 
 <p id="127">
-[1] Iesu Christi Domini nostri suppliciter gratiam (cfr. 2Cor 8,9; 13,13) invocantes, ad excitandam praesentium amplectendam devotionem, et futurorum corroborandam fidem, miracula quae coram domino papa Gregorio, ut dictum est, perlecta sunt et populo nuntiata, <ref to="Dan 9:25">Christo duce </ref>, breviter sed veraciter conscribemus. I. - De contractis sanatis.
+[1] <ref to="2 Cor 8:9; 2 Cor 13:13"> Iesu Christi Domini nostri suppliciter gratiam </ref> invocantes, ad excitandam praesentium amplectendam devotionem, et futurorum corroborandam fidem, miracula quae coram domino papa Gregorio, ut dictum est, perlecta sunt et populo nuntiata, <ref to="Dan 9:25">Christo duce </ref>, breviter sed veraciter conscribemus. I. - De contractis sanatis.
 [2] Eo namque die quo sacrum et sanctum corpus beatissimi patris Francisci reconditum fuit velut pretiosissimus thesaurus, magis supercaelestibus aromatibus quam terrenis speciebus inunctum, apportata est puella quaedam, iam per annum habens collum monstruose plicatum et caput humero adnexum, nec poterat nisi ex obliquo sursum respicere.
 [3] Quae dum sub arca, in qua pretiosum sancti recondium iacebat corpus, caput aliquamdiu submisisset, statim meritis sanctissimi viri collum erexit et in condecenti statu caput exstitit reparatum, ita quod puella ex subita sui mutatione obstupefacta nimis, coepit fugere ac plorare.
 [4] Fovea quaedam namque apparebat in humero cui caput fuerat applicatum, propter situm quem fecerat infirmitas diuturna.
