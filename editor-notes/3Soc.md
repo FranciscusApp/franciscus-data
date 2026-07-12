@@ -4,13 +4,13 @@ This file contains free-form editorial notes, useful for future/deferred review 
 opening GitHub issues.
 
 ---
-**Claude <noreply@anthropic.com> - 2026-06-25 11:46 CEST**
+**Alfredo Salata <as@salata.ovh> - 2026-07-12 12:20 CEST**
 
 **Subject**: Machine extraction of 3Soc
 
 Extracted `books/3Soc.md` (Legenda Trium Sociorum) from an HTML source rather
 than a PDF. The source `raw-sources/3Soc.html` is a Wayback Machine
-"view-source" capture of http://www.paxetbonum.net/biographies/3companions_lat.html,
+"view-source" capture of https://web.archive.org/web/20081120014736/http://www.paxetbonum.net/biographies/3companions_lat.html,
 so the real page markup was HTML-escaped inside a `<td class="line-content">`
 table. A new driver `franciscus-scripts/extract_3soc.py` unwraps that capture,
 parses the FrontPage HTML (chapter `<a name>` anchors, `<b>N</b>` paragraph

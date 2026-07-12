@@ -2,8 +2,8 @@
 title: "Legenda Trium Sociorum"
 author: "Fratres Leo, Rufinus et Angelus (attr.)"
 date: "1246"
-reference_edition: "Fontes Franciscani (Editiones Collegii S. Bonaventurae, 1995)"
-source: "DocumentaCatholicaOmnia.eu"
+reference_edition: "Unknown (Probably Fontes Franciscani - Editiones Collegii S. Bonaventurae, 1995)"
+source: "paxetbonum.net (Web Archive)"
 ---
 
 # LEGENDA TRIUM SOCIORUM
