@@ -50,223 +50,351 @@ description:
     dei più grandi santi della storia.
 annotations:
   '1':
-  - person:st_francis_of_assisi
-  - person:fr_leo
-  - person:fr_rufino_of_assisi
-  - person:fr_angelo_tancredi
-  - person:fr_illuminato_of_rieti
-  - person:fr_masseo_of_marignano
-  - person:fr_giles_of_assisi
-  - person:fr_bernard_of_quintavalle
-  - place:greccio
-  - theme:order_of_friars_minor
+  - topic: person:st_francis_of_assisi
+    by: snowstorm-alfredosalata
+  - topic: person:fr_leo
+    by: snowstorm-alfredosalata
+  - topic: person:fr_rufino_of_assisi
+    by: snowstorm-alfredosalata
+  - topic: person:fr_angelo_tancredi
+    by: snowstorm-alfredosalata
+  - topic: person:fr_illuminato_of_rieti
+    by: snowstorm-alfredosalata
+  - topic: person:fr_masseo_of_marignano
+    by: snowstorm-alfredosalata
+  - topic: person:fr_giles_of_assisi
+    by: snowstorm-alfredosalata
+  - topic: person:fr_bernard_of_quintavalle
+    by: snowstorm-alfredosalata
+  - topic: place:greccio
+    by: snowstorm-alfredosalata
+  - topic: theme:order_of_friars_minor
+    by: snowstorm-alfredosalata
   '2':
   - person:st_francis_of_assisi
-  - person:pica_de_bourlemont
-  - person:pietro_di_bernardone
-  - place:assisi
-  - place:spoleto
+  - topic: person:pica_de_bourlemont
+    by: snowstorm-alfredosalata
+  - topic: person:pietro_di_bernardone
+    by: snowstorm-alfredosalata
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
   '3':
   - person:st_francis_of_assisi
-  - virtue:charity
-  - virtue:mercy
+  - topic: virtue:charity
+    by: snowstorm-alfredosalata
+  - topic: virtue:mercy
+    by: snowstorm-alfredosalata
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
   '4':
   - person:st_francis_of_assisi
-  - place:perugia
-  - place:assisi
-  - virtue:joy
-  - virtue:charity
+  - topic: place:perugia
+    by: snowstorm-alfredosalata
+  - topic: virtue:joy
+    by: snowstorm-alfredosalata
   '5':
   - person:st_francis_of_assisi
   - place:assisi
   - theme:vision
   '6':
   - person:st_francis_of_assisi
-  - place:spoleto
-  - place:assisi
-  - theme:vision
-  - theme:conversion
-  - virtue:charity
+  - topic: place:spoleto
+    by: snowstorm-alfredosalata
+  - topic: theme:vision
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
   '7':
   - person:st_francis_of_assisi
-  - place:assisi
-  - theme:conversion
-  - virtue:poverty
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: theme:vision
+    by: snowstorm-alfredosalata
   '8':
   - person:st_francis_of_assisi
-  - theme:prayer
-  - theme:conversion
-  - virtue:charity
-  - virtue:poverty
+  - topic: theme:prayer
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
+  - topic: virtue:charity
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
   '9':
   - person:st_francis_of_assisi
-  - person:pica_de_bourlemont
-  - virtue:charity
-  - virtue:mercy
+  - topic: person:pica_de_bourlemont
+    by: snowstorm-alfredosalata
+  - topic: virtue:charity
+    by: snowstorm-alfredosalata
+  - topic: virtue:mercy
+    by: snowstorm-alfredosalata
   '10':
   - person:st_francis_of_assisi
-  - person:bishop_guido_of_assisi
-  - place:rome
-  - place:assisi
-  - theme:conversion
-  - virtue:poverty
+  - topic: person:bishop_guido_of_assisi
+    by: snowstorm-alfredosalata
+  - topic: place:rome
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
   '11':
   - person:st_francis_of_assisi
-  - place:assisi
-  - event:encounter_with_leper
-  - virtue:humility
-  - theme:conversion
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
+  - topic: event:encounter_with_leper
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
+  - topic: virtue:mercy
+    by: snowstorm-alfredosalata
   '12':
   - person:st_francis_of_assisi
-  - place:assisi
-  - theme:conversion
-  - theme:prayer
-  - virtue:fortitude
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
+  - topic: theme:prayer
+    by: snowstorm-alfredosalata
+  - topic: virtue:fortitude
+    by: snowstorm-alfredosalata
   '13':
   - person:st_francis_of_assisi
-  - place:san_damiano
-  - event:vision_of_san_damiano_crucifix
-  - theme:vision
-  - theme:cross
+  - topic: place:san_damiano
+    by: snowstorm-alfredosalata
+  - topic: event:vision_of_san_damiano_crucifix
+    by: snowstorm-alfredosalata
+  - topic: theme:vision
+    by: snowstorm-alfredosalata
+  - topic: theme:cross
+    by: snowstorm-alfredosalata
+  - topic: virtue:charity
+    by: snowstorm-alfredosalata
   '14':
   - person:st_francis_of_assisi
-  - place:portiuncula
-  - theme:stigmata
-  - theme:cross
-  - virtue:patience
+  - topic: place:portiuncula
+    by: snowstorm-alfredosalata
+  - topic: theme:stigmata
+    by: snowstorm-alfredosalata
+  - topic: theme:cross
+    by: snowstorm-alfredosalata
+  - topic: virtue:patience
+    by: snowstorm-alfredosalata
+  - topic: theme:fasting
+    by: snowstorm-alfredosalata
   '15':
-  - virtue:poverty
-  - theme:prayer
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: theme:prayer
+    by: snowstorm-alfredosalata
   - person:st_francis_of_assisi
+  - topic: theme:fasting
+    by: snowstorm-alfredosalata
   '16':
   - person:st_francis_of_assisi
-  - person:pietro_di_bernardone
-  - place:san_damiano
-  - place:foligno
-  - event:vision_of_san_damiano_crucifix
-  - theme:conversion
-  - theme:prayer
-  - virtue:poverty
+  - topic: person:pietro_di_bernardone
+    by: snowstorm-alfredosalata
+  - topic: place:san_damiano
+    by: snowstorm-alfredosalata
+  - topic: place:foligno
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
+  - topic: theme:prayer
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: event:repair_of_san_damiano_and_churches
+    by: snowstorm-alfredosalata
   '17':
   - person:st_francis_of_assisi
-  - person:pietro_di_bernardone
-  - place:assisi
-  - theme:conversion
-  - virtue:hope
-  - virtue:fortitude
+  - topic: person:pietro_di_bernardone
+    by: snowstorm-alfredosalata
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
+  - topic: virtue:hope
+    by: snowstorm-alfredosalata
+    comment: "The virtue of hope seems relevant to Francis' determination in the face of abandonment and scorn."
+  - topic: virtue:fortitude
+    by: snowstorm-alfredosalata
   '18':
   - person:st_francis_of_assisi
-  - person:pietro_di_bernardone
-  - person:pica_de_bourlemont
-  - virtue:patience
+  - topic: person:pietro_di_bernardone
+    by: snowstorm-alfredosalata
+  - topic: person:pica_de_bourlemont
+    by: snowstorm-alfredosalata
   - virtue:fortitude
   '19':
   - person:st_francis_of_assisi
-  - person:pietro_di_bernardone
-  - person:bishop_guido_of_assisi
-  - place:assisi
-  - event:renunciation_of_possessions
+  - topic: person:pietro_di_bernardone
+    by: snowstorm-alfredosalata
+  - topic: person:bishop_guido_of_assisi
+    by: snowstorm-alfredosalata
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
+  - topic: event:renunciation_of_possessions
+    by: snowstorm-alfredosalata
   - virtue:fortitude
   '20':
   - person:st_francis_of_assisi
-  - person:pietro_di_bernardone
-  - person:bishop_guido_of_assisi
-  - place:assisi
-  - event:renunciation_of_possessions
-  - virtue:poverty
-  - theme:conversion
+  - topic: person:pietro_di_bernardone
+    by: snowstorm-alfredosalata
+  - topic: person:bishop_guido_of_assisi
+    by: snowstorm-alfredosalata
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
+  - topic: event:renunciation_of_possessions
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
   '21':
   - person:st_francis_of_assisi
-  - place:san_damiano
-  - event:repair_of_san_damiano_and_churches
-  - virtue:simplicity
-  - virtue:humility
+  - topic: place:san_damiano
+    by: snowstorm-alfredosalata
+  - topic: event:repair_of_san_damiano_and_churches
+    by: snowstorm-alfredosalata
+  - topic: virtue:simplicity
+    by: snowstorm-alfredosalata
+  - topic: virtue:humility
+    by: snowstorm-alfredosalata
   '22':
-  - theme:conversion
-  - virtue:poverty
-  - virtue:fortitude
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: virtue:fortitude
+    by: snowstorm-alfredosalata
   - person:st_francis_of_assisi
   '23':
   - person:st_francis_of_assisi
-  - person:pietro_di_bernardone
-  - virtue:patience
-  - theme:prayer
+  - topic: person:pietro_di_bernardone
+    by: snowstorm-alfredosalata
+  - topic: virtue:patience
+    by: snowstorm-alfredosalata
+  - topic: theme:prayer
+    by: snowstorm-alfredosalata
   '24':
   - person:st_francis_of_assisi
-  - person:pope_gregory_ix
-  - place:san_damiano
-  - theme:order_of_saint_clare
-  - virtue:humility
+  - topic: person:pope_gregory_ix
+    by: snowstorm-alfredosalata
+  - topic: place:san_damiano
+    by: snowstorm-alfredosalata
+  - topic: theme:order_of_saint_clare
+    by: snowstorm-alfredosalata
+  - topic: virtue:humility
+    by: snowstorm-alfredosalata
   '25':
   - person:st_francis_of_assisi
-  - place:san_damiano
-  - theme:preaching
-  - theme:conversion
-  - virtue:poverty
-  - virtue:simplicity
+  - topic: theme:preaching
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
   '26':
   - person:st_francis_of_assisi
-  - place:assisi
-  - theme:preaching
-  - theme:reconciliation
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
+  - topic: theme:preaching
+    by: snowstorm-alfredosalata
   '27':
   - person:st_francis_of_assisi
-  - person:fr_bernard_of_quintavalle
-  - event:calling_of_the_first_brothers
+  - topic: person:fr_bernard_of_quintavalle
+    by: snowstorm-alfredosalata
+  - topic: event:calling_of_the_first_brothers
+    by: snowstorm-alfredosalata
   - virtue:poverty
   - theme:conversion
   '28':
   - person:st_francis_of_assisi
-  - person:fr_bernard_of_quintavalle
-  - person:fr_peter_catanii
-  - place:assisi
-  - event:calling_of_the_first_brothers
-  - event:renunciation_of_possessions
-  - virtue:poverty
-  - virtue:simplicity
+  - topic: person:fr_bernard_of_quintavalle
+    by: snowstorm-alfredosalata
+  - topic: person:fr_peter_catanii
+    by: snowstorm-alfredosalata
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
+  - topic: event:calling_of_the_first_brothers
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: virtue:simplicity
+    by: snowstorm-alfredosalata
   '29':
   - person:st_francis_of_assisi
-  - person:fr_bernard_of_quintavalle
-  - person:fr_peter_catanii
-  - virtue:poverty
-  - theme:rule
-  - event:calling_of_the_first_brothers
+  - topic: person:fr_bernard_of_quintavalle
+    by: snowstorm-alfredosalata
+  - topic: person:fr_peter_catanii
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: theme:rule
+    by: snowstorm-alfredosalata
+    comment: "This passage is also quoting the Testamentum."
+  - topic: event:calling_of_the_first_brothers
+    by: snowstorm-alfredosalata
   '30':
   - person:st_francis_of_assisi
-  - person:fr_bernard_of_quintavalle
-  - place:san_damiano
-  - virtue:poverty
-  - event:repair_of_san_damiano_and_churches
+  - topic: person:fr_bernard_of_quintavalle
+    by: snowstorm-alfredosalata
+  - topic: place:san_damiano
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: virtue:simplicity
+    by: snowstorm-alfredosalata
   '31':
   - person:st_francis_of_assisi
-  - theme:vision
-  - theme:conversion
+  - topic: theme:vision
+    by: snowstorm-alfredosalata
+  - topic: theme:conversion
+    by: snowstorm-alfredosalata
   '32':
   - person:st_francis_of_assisi
-  - person:fr_giles_of_assisi
-  - place:portiuncula
-  - place:assisi
-  - theme:order_of_friars_minor
-  - virtue:poverty
+  - topic: person:fr_giles_of_assisi
+    by: snowstorm-alfredosalata
+  - topic: place:portiuncula
+    by: snowstorm-alfredosalata
+  - topic: theme:order_of_friars_minor
+    by: snowstorm-alfredosalata
   - virtue:joy
+  - topic: event:calling_of_the_first_brothers
+    by: snowstorm-alfredosalata
   '33':
   - person:st_francis_of_assisi
-  - person:fr_giles_of_assisi
-  - theme:order_of_friars_minor
-  - theme:preaching
-  - virtue:poverty
-  - virtue:joy
+  - topic: person:fr_giles_of_assisi
+    by: snowstorm-alfredosalata
+  - topic: theme:order_of_friars_minor
+    by: snowstorm-alfredosalata
+  - topic: theme:preaching
+    by: snowstorm-alfredosalata
+  - topic: virtue:joy
+    by: snowstorm-alfredosalata
   '34':
-  - theme:preaching
-  - theme:order_of_friars_minor
-  - place:basilica_of_st_mary_of_the_angels
-  - virtue:poverty
+  - topic: theme:preaching
+    by: snowstorm-alfredosalata
+  - topic: theme:order_of_friars_minor
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: place:portiuncula
+    by: snowstorm-alfredosalata
+    comment: "It's likely St Mary refers to Porziuncola here."
   '35':
   - person:st_francis_of_assisi
-  - person:bishop_guido_of_assisi
-  - place:assisi
-  - virtue:poverty
-  - theme:rule
+  - topic: person:bishop_guido_of_assisi
+    by: snowstorm-alfredosalata
+  - topic: place:assisi
+    by: snowstorm-alfredosalata
+  - topic: virtue:poverty
+    by: snowstorm-alfredosalata
+  - topic: theme:rule
+    by: snowstorm-alfredosalata
   '36':
   - person:st_francis_of_assisi
   - theme:preaching
