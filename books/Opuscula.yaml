@@ -1,0 +1,447 @@
+annotations:
+  adm-1:
+  - theme:eucharist
+  - theme:faith
+  - virtue:faith
+  - virtue:humility
+  adm-2:
+  - virtue:obedience
+  - virtue:humility
+  adm-3:
+  - virtue:obedience
+  - virtue:charity
+  - theme:obedience
+  adm-4:
+  - virtue:humility
+  - theme:order_of_friars_minor
+  adm-5:
+  - virtue:humility
+  - theme:cross
+  adm-6:
+  - virtue:humility
+  - theme:cross
+  adm-7:
+  - virtue:humility
+  adm-8:
+  - virtue:charity
+  adm-9:
+  - virtue:charity
+  - virtue:mercy
+  adm-10:
+  - virtue:fortitude
+  adm-11:
+  - virtue:charity
+  - virtue:patience
+  adm-12:
+  - virtue:humility
+  adm-13:
+  - virtue:patience
+  - virtue:humility
+  adm-14:
+  - virtue:poverty
+  - virtue:humility
+  - theme:prayer
+  adm-15:
+  - virtue:patience
+  - virtue:charity
+  adm-16:
+  - virtue:chastity
+  - theme:prayer
+  adm-17:
+  - virtue:humility
+  adm-18:
+  - virtue:patience
+  - virtue:humility
+  adm-19:
+  - virtue:humility
+  adm-20:
+  - theme:order_of_friars_minor
+  - virtue:joy
+  adm-21:
+  - virtue:simplicity
+  - virtue:humility
+  adm-22:
+  - virtue:humility
+  - virtue:patience
+  adm-23:
+  - virtue:humility
+  - theme:reconciliation
+  adm-24:
+  - virtue:charity
+  adm-25:
+  - virtue:charity
+  adm-26:
+  - virtue:faith
+  - theme:eucharist
+  adm-27:
+  - virtue:charity
+  - virtue:poverty
+  - virtue:humility
+  - theme:prayer
+  adm-28:
+  - virtue:humility
+  - theme:prayer
+  audite-1:
+  - virtue:obedience
+  - virtue:poverty
+  - theme:order_of_saint_clare
+  benbern-1:
+  - person:st_francis_of_assisi
+  - person:fr_bernard_of_quintavalle
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:charity
+  bencl-1:
+  - person:st_francis_of_assisi
+  - person:st_clare_of_assisi
+  benleo-1:
+  - person:fr_leo
+  - theme:prayer
+  cantsol-1:
+  - theme:canticle_of_the_sun
+  - virtue:humility
+  - person:st_francis_of_assisi
+  epant-1:
+  - person:st_francis_of_assisi
+  - theme:rule
+  - theme:prayer
+  epbon-1:
+  - person:st_francis_of_assisi
+  - place:bologna
+  - theme:prayer
+  - theme:miracle
+  epcl-1:
+  - theme:fasting
+  - theme:order_of_saint_clare
+  - person:st_francis_of_assisi
+  epcler1-1:
+  - theme:eucharist
+  - virtue:faith
+  epcler2-1:
+  - theme:eucharist
+  - virtue:faith
+  epcust1-1:
+  - virtue:obedience
+  - theme:eucharist
+  - theme:preaching
+  - person:st_francis_of_assisi
+  epcust2-1:
+  - person:st_francis_of_assisi
+  - theme:eucharist
+  - virtue:humility
+  epfid1-1:
+  - virtue:charity
+  - theme:prayer
+  epfid1-2:
+  - theme:conversion
+  - virtue:charity
+  epfid2-1:
+  - person:st_francis_of_assisi
+  - theme:eucharist
+  - theme:cross
+  - virtue:charity
+  - virtue:humility
+  epfranc-1:
+  - person:st_francis_of_assisi
+  - theme:order_of_friars_minor
+  epjac-1:
+  - person:lady_jacopa_dei_settesoli
+  - person:st_francis_of_assisi
+  - theme:death
+  epleo-1:
+  - person:st_francis_of_assisi
+  - person:fr_leo
+  - virtue:poverty
+  - virtue:obedience
+  epmin-1:
+  - person:st_francis_of_assisi
+  - theme:reconciliation
+  - theme:rule
+  - virtue:mercy
+  - virtue:obedience
+  epord-1:
+  - person:st_francis_of_assisi
+  - person:fr_elias_of_cortona
+  - theme:eucharist
+  - theme:rule
+  - virtue:humility
+  - virtue:obedience
+  epord-2:
+  - theme:prayer
+  - virtue:charity
+  eprect-1:
+  - person:st_francis_of_assisi
+  - theme:eucharist
+  - theme:death
+  exhld-1:
+  - theme:prayer
+  exppat-1:
+  - theme:prayer
+  - virtue:charity
+  - virtue:mercy
+  formviv-1:
+  - theme:order_of_saint_clare
+  - virtue:chastity
+  fragm-1:
+  - theme:rule
+  - theme:prayer
+  - virtue:poverty
+  - virtue:humility
+  fragm-2:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - person:st_francis_of_assisi
+  - virtue:obedience
+  - virtue:poverty
+  fragm-3:
+  - theme:rule
+  - theme:joy
+  - virtue:patience
+  lauddei-1:
+  - theme:prayer
+  - virtue:charity
+  - virtue:hope
+  laudhor-1:
+  - theme:prayer
+  offpass-1:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  - theme:cross
+  offpass-2:
+  - theme:prayer
+  offpass-3:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  offpass-4:
+  - theme:prayer
+  offpass-5:
+  - theme:prayer
+  offpass-7:
+  - theme:prayer
+  - virtue:patience
+  offpass-8:
+  - theme:cross
+  offpass-9:
+  - theme:prayer
+  - theme:cross
+  offpass-11:
+  - theme:prayer
+  offpass-12:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  offpass-14:
+  - theme:prayer
+  - virtue:hope
+  offpass-15:
+  - virtue:hope
+  - theme:prayer
+  offpass-16:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  offpass-17:
+  - virtue:hope
+  - theme:prayer
+  offpass-18:
+  - theme:prayer
+  - virtue:poverty
+  offpass-19:
+  - theme:prayer
+  offpass-20:
+  - theme:prayer
+  - theme:cross
+  orcruc-1:
+  - virtue:faith
+  - virtue:hope
+  - theme:prayer
+  regb-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:obedience
+  - virtue:chastity
+  - person:st_francis_of_assisi
+  - person:pope_honorius_iii
+  regb-2:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:obedience
+  regb-3:
+  - theme:rule
+  - theme:fasting
+  - virtue:humility
+  regb-4:
+  - virtue:poverty
+  - theme:rule
+  regb-5:
+  - theme:rule
+  - virtue:poverty
+  - virtue:humility
+  regb-6:
+  - virtue:poverty
+  - virtue:humility
+  - virtue:charity
+  - theme:rule
+  - theme:order_of_friars_minor
+  regb-7:
+  - theme:rule
+  - theme:reconciliation
+  - virtue:mercy
+  - virtue:charity
+  regb-8:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:obedience
+  regb-9:
+  - theme:preaching
+  - theme:rule
+  - theme:order_of_friars_minor
+  regb-10:
+  - theme:rule
+  - theme:obedience
+  - virtue:obedience
+  - virtue:humility
+  regb-11:
+  - theme:rule
+  - virtue:chastity
+  regb-12:
+  - virtue:obedience
+  - virtue:poverty
+  - theme:mission
+  - theme:rule
+  regnb-1:
+  - person:st_francis_of_assisi
+  - person:pope_innocent_iii
+  - virtue:obedience
+  - theme:rule
+  regnb-2:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:obedience
+  regnb-3:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:obedience
+  regnb-4:
+  - theme:rule
+  - theme:fasting
+  - theme:prayer
+  - virtue:obedience
+  regnb-5:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:obedience
+  - virtue:charity
+  regnb-6:
+  - virtue:obedience
+  - virtue:humility
+  - theme:rule
+  - theme:order_of_friars_minor
+  regnb-7:
+  - theme:order_of_friars_minor
+  - theme:rule
+  - virtue:humility
+  - virtue:charity
+  regnb-8:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:humility
+  - virtue:joy
+  regnb-9:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  regnb-10:
+  - virtue:poverty
+  - virtue:humility
+  - theme:rule
+  - person:st_francis_of_assisi
+  regnb-11:
+  - theme:rule
+  - virtue:patience
+  regnb-12:
+  - theme:rule
+  - virtue:charity
+  - virtue:humility
+  regnb-13:
+  - theme:rule
+  - virtue:chastity
+  regnb-14:
+  - virtue:chastity
+  - theme:rule
+  regnb-15:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:patience
+  regnb-16:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  regnb-17:
+  - theme:mission
+  - theme:preaching
+  - virtue:fortitude
+  - virtue:patience
+  regnb-18:
+  - theme:preaching
+  - theme:rule
+  - virtue:humility
+  - person:st_francis_of_assisi
+  regnb-19:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - place:portiuncula
+  - place:basilica_of_st_mary_of_the_angels
+  regnb-20:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:faith
+  - virtue:obedience
+  regnb-21:
+  - theme:eucharist
+  - theme:reconciliation
+  - virtue:humility
+  - virtue:obedience
+  regnb-22:
+  - theme:preaching
+  - virtue:mercy
+  regnb-23:
+  - virtue:charity
+  - theme:prayer
+  regnb-24:
+  - theme:prayer
+  - virtue:charity
+  regnb-25:
+  - person:st_francis_of_assisi
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:obedience
+  reger-1:
+  - virtue:obedience
+  - virtue:poverty
+  - theme:prayer
+  - theme:rule
+  salbmv-1:
+  - theme:prayer
+  - virtue:faith
+  salvirt-1:
+  - virtue:humility
+  - virtue:obedience
+  - virtue:poverty
+  testsen-1:
+  - person:st_francis_of_assisi
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:charity
+  ultvol-1:
+  - person:st_francis_of_assisi
+  - virtue:poverty
+  - theme:order_of_saint_clare
+  vplaet-1:
+  - person:st_francis_of_assisi
+  - person:fr_leo
+  - place:perugia
+  - virtue:patience
+  - virtue:joy

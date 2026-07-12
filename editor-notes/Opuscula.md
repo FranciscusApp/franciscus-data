@@ -50,3 +50,17 @@ Still needs a human eye:
   whole by tracking bracket depth, but similar multi-line rubrics elsewhere are
   worth a glance.
 ---
+**Alfredo Salata <as@salata.ovh> - 2026-07-12 15:00 CEST**
+
+**Subject**: Empty-content `<ref>` markers filled (Opuscula)
+
+- `Opuscula.en.md`, Regula non bullata: whitespace-only `Matt 23:10` → wraps
+  "«let yourselves be called masters»" (Latin *Ne «vocemini magistri»*).
+- `Opuscula.it.md`, parable of the sower (synoptic harmony): two empties.
+  `Matt 13:23` in v.17 now wraps "fu seminato", interleaved with `Luke 8:15`
+  ("Ciò che invece" … "nella terra buona"), mirroring the Latin
+  *Quod autem in terram bonam / seminatum est* split. The trailing
+  `Mark 4:16` empty in v.14 (Latin *illud*) was **removed**: Italian fuses the
+  object into the clitic of "l'accolgono", so there is no separate word to wrap,
+  and `Mark 4:16` is already attributed earlier in the verse ("subito con gioia").
+---
