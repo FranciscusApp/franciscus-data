@@ -199,3 +199,44 @@ number from the reference edition:
 
 Verse numbers are presentational. They are consumed by the renderer for display
 purposes and carry no semantic meaning for the data engine.
+
+## Recitation and apparatus marks
+
+Some reference editions — notably Esser's *Opuscula* for the liturgical pieces
+(the *Officium Passionis*, the *Laudes*) — carry two kinds of editorial markup
+that are NOT part of the running text. Where a text preserves them, they MUST be
+expressed with the inline elements below rather than left as raw punctuation or
+parenthetical sigla, so the renderer can hide or style them independently. Both
+are empty inline elements (written with an explicit closing tag, never
+self-closed, so they survive `{@html}` rendering intact). They are hidden by
+default.
+
+### `<caesura>` — psalm pointing
+
+Chanted psalms divide each verse at fixed pause points. These MUST be encoded as
+`<caesura>` with a `kind`:
+
+- `kind="mediant"` — the mediation, the main mid-verse pause (edition mark `*`).
+- `kind="flexa"` — the flexa, a minor pause earlier in a long first limb
+  (edition mark `'`).
+
+```html
+<p id="offpass-2-3">
+Et posuerunt adversum me mala pro vobis<caesura kind="mediant"></caesura> et odium pro dilectione mea.
+</p>
+```
+
+### `<var>` — psalter textual variant
+
+Latin psalters exist in two recensions (Roman and Gallican); critical editions
+flag which one a phrase follows. Encode the siglum as `<var>` with a `psalter`
+attribute — `"R"` (Romanum) or `"G"` (Gallicanum) — placed where the siglum
+occurs. The element wraps no text (the variant applies to the surrounding
+phrase); it is a positional marker.
+
+```html
+consilium fecerunt in unum<var psalter="G"></var>.
+```
+
+The `convert_refs`/`normalize_refs` postprocess step emits both elements
+automatically from the reference edition's `*` / `'` / `(R)` / `(G)` markup.
