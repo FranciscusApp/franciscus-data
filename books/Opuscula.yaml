@@ -1,7 +1,30 @@
-annotations:
+description_short:
+  en: The personal writings of St. Francis, including the Rules, letters, exhortations, poetry, and liturgical texts.
+  it: Gli scritti redatti personalmente da San Francesco, che includono le Regole, lettere, esortazioni, poesie, e testi liturgici.
+description:
+  en: |-
+    In his willful simplicity, St. Francis did not write much. What is more, several of his writings have come down
+    to us incomplete or in fragments.
+
+    Even so, among the writings of St. Francis are texts of the greatest importance. First of all, the Rules: the
+    first, approved verbally by Innocent III, the second, confirmed by a bull of Honorius III. Then the celebrated
+    Canticle of the Creatures, several offices sung for the brethren, admonitions, and letters - among them some to
+    St. Clare and St. Anthony.
+
+    The Testament, on the other hand, given its importance, has been offered as a separate source, though it comes
+    from the same collection.
+  it: |-
+    San Francesco, nella sua semplicità voluta, non ha scritto molto. Inoltre, diversi dei suoi scritti ci sono
+    giunti incompleti o frammentati.
+
+    Ciò nonostante, fra gli scritti di San Francesco ci sono testi importantissimi. Anzitutto, le Regole: la prima,
+    approvata verbalmente da Innocenzo III, la seconda, bollata da Onorio III. Poi, il celebre Cantico delle Creature,
+    alcuni offici cantati per i confratelli, ammonizioni, lettere - tra cui alcune a Santa Chiara e a Sant'Antonio.
+
+    Per la sua importanza, invece, il Testamento è stato proposto come una fonte a parte, pur provenendo dalla stessa
+    collezione.
   adm-1:
   - theme:eucharist
-  - theme:faith
   - virtue:faith
   - virtue:humility
   adm-2:
@@ -10,7 +33,6 @@ annotations:
   adm-3:
   - virtue:obedience
   - virtue:charity
-  - theme:obedience
   adm-4:
   - virtue:humility
   - theme:order_of_friars_minor
@@ -195,7 +217,7 @@ annotations:
   - virtue:poverty
   fragm-3:
   - theme:rule
-  - theme:joy
+  - virtue:joy
   - virtue:patience
   lauddei-1:
   - theme:prayer
@@ -297,7 +319,6 @@ annotations:
   - theme:order_of_friars_minor
   regb-10:
   - theme:rule
-  - theme:obedience
   - virtue:obedience
   - virtue:humility
   regb-11:
