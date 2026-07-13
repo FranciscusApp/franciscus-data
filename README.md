@@ -4,9 +4,9 @@
 
 **The Franciscan sources, as open data.**
 
-Machine-readable medieval Latin biographies of Francis of Assisi — with
-translations, semantic annotations, and curated topic pages — dedicated to the
-public domain under **CC0-1.0**.
+Machine-readable medieval Latin sources for the life of Francis of Assisi — the
+early biographies and his own writings, with translations, semantic annotations,
+and curated topic pages — dedicated to the public domain under **CC0-1.0**.
 
 [![Corpus license: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](LICENSE)
 [![Live app: franciscus.app](https://img.shields.io/badge/app-franciscus.app-green)](https://franciscus.app)
@@ -19,8 +19,8 @@ public domain under **CC0-1.0**.
 ## What this is
 
 This repository is the **source corpus** behind [franciscus.app](https://franciscus.app):
-the early biographies of Francis of Assisi, encoded as plain Markdown + JSON so
-they can be read, searched, cited, re-edited, and re-used by anyone — scholars,
+the early sources for the life of Francis of Assisi, encoded as plain Markdown +
+YAML so they can be read, searched, cited, re-edited, and re-used by anyone — scholars,
 students, developers, or curious readers.
 
 The app ([`franciscus`](https://github.com/FranciscusApp/franciscus))
@@ -37,9 +37,11 @@ can take elsewhere.
 | **LMj** | Legenda Maior | Bonaventure | Quaracchi |
 | **3Soc** | Legenda Trium Sociorum | The Three Companions | Quaracchi |
 | **Testamentum** | Testamentum S. Francisci | Francis of Assisi | Quaracchi |
+| **Opuscula** | Opuscula Omnia (the writings of Francis) | Francis of Assisi | Esser (Grottaferrata, 1978) |
 
-Each work is present in the original **Latin** and an **Italian** translation.
-(English translations are planned — see [Roadmap](#roadmap).)
+Each work is present in the original **Latin**, with **Italian** and **English**
+translations. (The translations are machine-generated drafts — see the
+[note on AI](#-a-note-on-ai).)
 
 ## 📜 License — public domain (CC0-1.0)
 
@@ -64,7 +66,7 @@ We believe in being upfront about how this corpus was made.
   (chiefly the Quaracchi *Analecta Franciscana*) and corrected. These are
   transcriptions of real editions, **not AI-generated text** — though OCR and
   cleanup were machine-assisted and may still contain errors.
-- **The translations** (currently Italian) are, except where noted, **machine
+- **The translations** (Italian and English) are, except where noted, **machine
   translations** produced with a large language model. The Italian *Testamentum*
   uses an official OFM translation. Machine translations are useful but
   **not authoritative**; do not cite them as a scholarly translation. Unlike
@@ -73,9 +75,10 @@ We believe in being upfront about how this corpus was made.
   passages a human has reviewed. Treat every translation as machine-generated
   until that changes.
 - **The annotations** (topics, cross-work relations) and the **draft topic pages**
-  are largely **machine-generated** and not yet human-verified. Each annotation
-  records its `by` and a `provenance: ai | reviewed | human` field, so you can
-  always tell machine output from reviewed work.
+  are largely **machine-generated** and not yet human-verified. Authorship is
+  implicit: a machine-generated item carries nothing, while a human-authored one
+  carries a `by:` handle (resolved through `contributors.yaml`), so you can
+  always tell reviewed work from the AI first pass.
 
 In short: trust the Latin as a transcription, treat everything generated around
 it as a helpful first pass awaiting human review. Corrections are very welcome —
@@ -108,8 +111,7 @@ title: "Vita Prima S. Francisci"
 author: "Tommaso da Celano"
 date: "1228"
 reference_edition: "Analecta Franciscana X (Quaracchi)"
-description:
-notes:
+source: "DocumentaCatholicaOmnia.eu"
 ---
 
 # VITA PRIMA S.FRANCISCI
@@ -128,13 +130,12 @@ pages live under `topics/`. The full normative spec is in **[`spec/`](spec/)**.
 
 Near-term plans for the corpus:
 
-- **English translations** of all works.
-- **Human review** of the Latin sources and of the machine translations.
+- **Human review** of the Latin sources and of the machine translations
+  (Italian and English).
 - **Annotation clean-up** — fixing AI-introduced topic values not in the
   controlled vocabulary, and translating book titles.
 - **Cross-work parallels** seeded from *Fontes Franciscani* concordances
   (pending review).
-- A **Vulgata edition** added to the corpus for scripture cross-referencing.
 
 The app's full roadmap lives in the
 [`franciscus`](https://github.com/FranciscusApp/franciscus) repo.

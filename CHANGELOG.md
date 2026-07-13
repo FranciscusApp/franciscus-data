@@ -8,6 +8,29 @@ although it not being a library and not exposing any APIs means the definitions 
 might be somewhat loose or subjective.
 
 
+## [1.4.0] - 2026-07-12
+
+### Added
+- **Opuscula Omnia Sancti Francisci** — the complete writings of Francis of
+  Assisi (Admonitiones, letters, prayers, the Canticum Fratris Solis, and the
+  rules), a sixth work added to the corpus from Kajetan Esser's edition
+  (Grottaferrata, 1978). Each of the ~37 pieces is a chapter within the work.
+- **English translations** of every work (`<id>.en.md`), alongside the existing
+  Italian. Machine-generated drafts; see each file's frontmatter provenance.
+- **`<caesura>` and `<var psalter>` encoding** for chanted psalms — the pause
+  points (mediant/flexa) and Roman/Gallican psalter sigla carried in the
+  Opuscula's sung texts, lifted from the reference edition's apparatus.
+
+### Fixed
+- Cleaned up many broken, stray, or unparsed `<ref>` reference tags across the
+  texts, plus assorted transcription corrections.
+
+
+## [1.3.0] - 2026-07-05
+
+_(Nothing added data-side on this version.)_
+
+
 ## [1.2.0] - 2026-07-03
 
 ### Changed

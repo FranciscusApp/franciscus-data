@@ -1,9 +1,11 @@
 ---
-title: "Opuscula Omnia Sancti Francisci Assisiensis"
-author: "Franciscus Assisiensis"
-date: "1205-1226"
-reference_edition: "Kajetan Esser, Opuscula sancti patris Francisci Assisiensis (Grottaferrata, 1978)"
-source: "franciscanos.org (Directorio Franciscano)"
+title: "Writings of St. Francis of Assisi"
+author: "Francis of Assisi"
+
+translator: "Claude <noreply@anthropic.com>"
+provenance: ai
+status: draft
+translation_source:
 ---
 
 # COMPLETE MINOR WORKS OF SAINT FRANCIS OF ASSISI

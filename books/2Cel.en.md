@@ -1,6 +1,7 @@
 ---
 title: "Remembrance of the Desire of a Soul"
 author: "Thomas of Celano"
+
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft
