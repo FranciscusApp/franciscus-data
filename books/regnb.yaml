@@ -1,0 +1,119 @@
+description_short:
+  en: "The earlier, unconfirmed Rule of the Friars Minor (1221): longer, more scriptural and exhortatory than the Rule of 1223."
+  it: "L'anteriore Regola non confermata dei Frati Minori (1221): più lunga, più scritturale ed esortativa della Regola del 1223."
+description:
+  en: |-
+    The Earlier Rule (Regula non Bullata) of 1221 is the fuller, unsealed Rule that preceded the bull-confirmed Rule of 1223. Never given papal confirmation, it is longer, warmer, and far more scriptural: alongside its legislative chapters it weaves lengthy exhortations, gospel quotations, and a closing prayer of thanksgiving. It preserves the primitive spirit of the fraternity — its radical poverty, its manner of working and begging, its mission among the Saracens — before the text was pared down into the definitive Rule.
+  it: |-
+    La Regola non bollata (Regula non Bullata) del 1221 è la Regola più ampia e non sigillata che precedette la Regola bollata del 1223. Mai confermata dal papa, è più lunga, più calda e assai più scritturale: accanto ai capitoli legislativi intreccia lunghe esortazioni, citazioni evangeliche e una preghiera finale di ringraziamento. Conserva lo spirito primitivo della fraternità — la sua povertà radicale, il suo modo di lavorare e di chiedere l'elemosina, la sua missione fra i Saraceni — prima che il testo fosse ridotto nella Regola definitiva.
+annotations:
+  prolog-1:
+  - person:st_francis_of_assisi
+  - person:pope_innocent_iii
+  - virtue:obedience
+  - theme:rule
+  1-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:obedience
+  2-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:obedience
+  3-1:
+  - theme:rule
+  - theme:fasting
+  - theme:prayer
+  - virtue:obedience
+  4-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:obedience
+  - virtue:charity
+  5-1:
+  - virtue:obedience
+  - virtue:humility
+  - theme:rule
+  - theme:order_of_friars_minor
+  6-1:
+  - theme:order_of_friars_minor
+  - theme:rule
+  - virtue:humility
+  - virtue:charity
+  7-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:humility
+  - virtue:joy
+  8-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  9-1:
+  - virtue:poverty
+  - virtue:humility
+  - theme:rule
+  - person:st_francis_of_assisi
+  10-1:
+  - theme:rule
+  - virtue:patience
+  11-1:
+  - theme:rule
+  - virtue:charity
+  - virtue:humility
+  12-1:
+  - theme:rule
+  - virtue:chastity
+  13-1:
+  - virtue:chastity
+  - theme:rule
+  14-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:patience
+  15-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  16-1:
+  - theme:mission
+  - theme:preaching
+  - virtue:fortitude
+  - virtue:patience
+  17-1:
+  - theme:preaching
+  - theme:rule
+  - virtue:humility
+  - person:st_francis_of_assisi
+  18-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - place:portiuncula
+  - place:basilica_of_st_mary_of_the_angels
+  19-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:faith
+  - virtue:obedience
+  20-1:
+  - theme:eucharist
+  - theme:reconciliation
+  - virtue:humility
+  - virtue:obedience
+  21-1:
+  - theme:preaching
+  - virtue:mercy
+  22-1:
+  - virtue:charity
+  - theme:prayer
+  23-1:
+  - theme:prayer
+  - virtue:charity
+  24-1:
+  - person:st_francis_of_assisi
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:obedience

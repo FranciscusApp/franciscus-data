@@ -158,6 +158,33 @@ A `label` attribute MAY be added when the display label differs from the `id`:
 
 If omitted, renderers SHOULD use the `id` value as the display label.
 
+### Optional `label_format` attribute
+
+A `label_format` attribute MAY be added to control how the `label` is
+presented. It has two values:
+
+- `normal` (the default when the attribute is absent) — the label renders as
+  the inline paragraph marker, in the muted number column beside the text.
+- `heading` — the label renders as a **section heading** above the paragraph
+  text, giving a sub-chapter division real visual weight.
+
+```html
+<p id="epfid1-1" label="De illis qui faciunt poenitentiam" label_format="heading">…</p>
+```
+
+`label_format="heading"` is how a work's internal chapters are expressed **when
+the work is not split into its own book**: the sub-chapter title lives in the
+paragraph's `label`, promoted to a heading, instead of being mis-encoded as an
+`<aside>` (which the spec reserves for rubrics/incipits/explicits) or as a
+forbidden deeper heading level. A paragraph with `label_format="heading"` SHOULD
+carry a `label`; the heading has nothing to render otherwise. This does not
+introduce a new heading level — `##` remains the only heading — and the `no
+heading levels beyond ##` invariant is unchanged.
+
+`label_format` lives only on the source `<p>`; translation `<p>` elements
+inherit it (the label itself is translated per the localized heading text where
+one is authored on the translation's own `<p>`).
+
 ## Aside blocks
 
 Text that is not part of a numbered paragraph (subtitles, rubrics, incipits,

@@ -1,0 +1,63 @@
+description_short:
+  en: "The definitive Rule of the Friars Minor, confirmed by the bull of Pope Honorius III in 1223."
+  it: "La Regola definitiva dei Frati Minori, confermata dalla bolla di papa Onorio III nel 1223."
+description:
+  en: |-
+    The Later Rule (Regula Bullata) is the definitive Rule of the Order of Friars Minor, solemnly confirmed by Pope Honorius III with the bull Solet annuere on 29 November 1223. In twelve short chapters it fixes the form of life of the brothers: their reception and clothing, the divine office and fasting, the manner of working and of going through the world without money, the correction and governance of the brothers, obedience, and the mission among believers and unbelievers. It remains the juridical foundation of the Order to this day.
+  it: |-
+    La Regola Bollata (Regula Bullata) è la Regola definitiva dell'Ordine dei Frati Minori, confermata solennemente da papa Onorio III con la bolla Solet annuere il 29 novembre 1223. In dodici brevi capitoli fissa la forma di vita dei frati: la loro accoglienza e il vestito, l'ufficio divino e il digiuno, il modo di lavorare e di andare per il mondo senza denaro, la correzione e il governo dei frati, l'obbedienza e la missione fra credenti e non credenti. Resta a tutt'oggi il fondamento giuridico dell'Ordine.
+annotations:
+  1-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:obedience
+  - virtue:chastity
+  - person:st_francis_of_assisi
+  - person:pope_honorius_iii
+  2-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:poverty
+  - virtue:obedience
+  3-1:
+  - theme:rule
+  - theme:fasting
+  - virtue:humility
+  4-1:
+  - virtue:poverty
+  - theme:rule
+  5-1:
+  - theme:rule
+  - virtue:poverty
+  - virtue:humility
+  6-1:
+  - virtue:poverty
+  - virtue:humility
+  - virtue:charity
+  - theme:rule
+  - theme:order_of_friars_minor
+  7-1:
+  - theme:rule
+  - theme:reconciliation
+  - virtue:mercy
+  - virtue:charity
+  8-1:
+  - theme:rule
+  - theme:order_of_friars_minor
+  - virtue:obedience
+  9-1:
+  - theme:preaching
+  - theme:rule
+  - theme:order_of_friars_minor
+  10-1:
+  - theme:rule
+  - virtue:obedience
+  - virtue:humility
+  11-1:
+  - theme:rule
+  - virtue:chastity
+  12-1:
+  - virtue:obedience
+  - virtue:poverty
+  - theme:mission
+  - theme:rule

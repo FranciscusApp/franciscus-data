@@ -1,109 +1,33 @@
 description_short:
-  en: The personal writings of St. Francis, including the Rules, letters, exhortations, poetry, and liturgical texts.
-  it: Gli scritti redatti personalmente da San Francesco, che includono le Regole, lettere, esortazioni, poesie, e testi liturgici.
+  en: The personal writings of St. Francis, including letters, exhortations, poetry, hymns and reflections.
+  it: Gli scritti redatti personalmente da San Francesco, che includono lettere, esortazioni, poesie, canti liturgici e riflessioni.
 description:
   en: |-
     In his willful simplicity, St. Francis did not write much. What is more, several of his writings have come down
     to us incomplete or in fragments.
 
-    Even so, among the writings of St. Francis are texts of the greatest importance. First of all, the Rules: the
-    first, approved verbally by Innocent III, the second, confirmed by a bull of Honorius III. Then the celebrated
-    Canticle of the Creatures, several offices sung for the brethren, admonitions, and letters - among them some to
-    St. Clare and St. Anthony.
+    Even so, beyond the most important texts - such as the Rules and the Testament, the Admonitions and the sizeable
+    Office of the Passion - we preserve a small but spiritually rich collection of letters, exhortations, fragments
+    of rules, and other brief reflections. Among these, letters to two other saints stand out: St. Clare and St. Anthony.
 
-    The Testament, on the other hand, given its importance, has been offered as a separate source, though it comes
-    from the same collection.
+    In Kajetan Esser's edition all of these texts are gathered together under the title Opuscula. Here, instead, the
+    major works - the two Rules, the Office of the Passion, and the Admonitions - have been drawn out as standalone
+    books, so that each can be read chapter by chapter; this collection therefore gathers only the minor works, which,
+    being short, sit more comfortably together than on their own.
   it: |-
     San Francesco, nella sua semplicità voluta, non ha scritto molto. Inoltre, diversi dei suoi scritti ci sono
     giunti incompleti o frammentati.
 
-    Ciò nonostante, fra gli scritti di San Francesco ci sono testi importantissimi. Anzitutto, le Regole: la prima,
-    approvata verbalmente da Innocenzo III, la seconda, bollata da Onorio III. Poi, il celebre Cantico delle Creature,
-    alcuni offici cantati per i confratelli, ammonizioni, lettere - tra cui alcune a Santa Chiara e a Sant'Antonio.
+    Ciò nonostante, oltre ai testi più importanti - come le Regole ed il Testamento, le Ammonizioni ed il corposo
+    Ufficio della Passione - conserviamo una piccola ma spiritualmente ricca raccolta di lettere, esortazioni,
+    frammenti di regole ed altre brevi riflessioni. Tra queste spiccano le lettere ad altri due santi: Santa Chiara
+    e Sant'Antonio.
 
-    Per la sua importanza, invece, il Testamento è stato proposto come una fonte a parte, pur provenendo dalla stessa
-    collezione.
+    Nell'edizione di Kajetan Esser tutti questi testi sono raccolti insieme sotto il titolo di Opuscoli. Qui, invece,
+    le opere maggiori - le due Regole, l'Ufficio della Passione e le Ammonizioni - sono state estratte come libri a
+    sé stanti, così da poterle consultare capitolo per capitolo; questa raccolta riunisce dunque le sole opere minori,
+    che per la loro brevità restano più a loro agio insieme che da sole.
 annotations:
-  adm-1:
-  - theme:eucharist
-  - virtue:faith
-  - virtue:humility
-  adm-2:
-  - virtue:obedience
-  - virtue:humility
-  adm-3:
-  - virtue:obedience
-  - virtue:charity
-  adm-4:
-  - virtue:humility
-  - theme:order_of_friars_minor
-  adm-5:
-  - virtue:humility
-  - theme:cross
-  adm-6:
-  - virtue:humility
-  - theme:cross
-  adm-7:
-  - virtue:humility
-  adm-8:
-  - virtue:charity
-  adm-9:
-  - virtue:charity
-  - virtue:mercy
-  adm-10:
-  - virtue:fortitude
-  adm-11:
-  - virtue:charity
-  - virtue:patience
-  adm-12:
-  - virtue:humility
-  adm-13:
-  - virtue:patience
-  - virtue:humility
-  adm-14:
-  - virtue:poverty
-  - virtue:humility
-  - theme:prayer
-  adm-15:
-  - virtue:patience
-  - virtue:charity
-  adm-16:
-  - virtue:chastity
-  - theme:prayer
-  adm-17:
-  - virtue:humility
-  adm-18:
-  - virtue:patience
-  - virtue:humility
-  adm-19:
-  - virtue:humility
-  adm-20:
-  - theme:order_of_friars_minor
-  - virtue:joy
-  adm-21:
-  - virtue:simplicity
-  - virtue:humility
-  adm-22:
-  - virtue:humility
-  - virtue:patience
-  adm-23:
-  - virtue:humility
-  - theme:reconciliation
-  adm-24:
-  - virtue:charity
-  adm-25:
-  - virtue:charity
-  adm-26:
-  - virtue:faith
-  - theme:eucharist
-  adm-27:
-  - virtue:charity
-  - virtue:poverty
-  - virtue:humility
-  - theme:prayer
-  adm-28:
-  - virtue:humility
-  - theme:prayer
   audite-1:
   - virtue:obedience
   - virtue:poverty
@@ -226,220 +150,10 @@ annotations:
   - virtue:hope
   laudhor-1:
   - theme:prayer
-  offpass-1:
-  - person:st_francis_of_assisi
-  - theme:prayer
-  - theme:cross
-  offpass-2:
-  - theme:prayer
-  offpass-3:
-  - person:st_francis_of_assisi
-  - theme:prayer
-  offpass-4:
-  - theme:prayer
-  offpass-5:
-  - theme:prayer
-  offpass-7:
-  - theme:prayer
-  - virtue:patience
-  offpass-8:
-  - theme:cross
-  offpass-9:
-  - theme:prayer
-  - theme:cross
-  offpass-11:
-  - theme:prayer
-  offpass-12:
-  - person:st_francis_of_assisi
-  - theme:prayer
-  offpass-14:
-  - theme:prayer
-  - virtue:hope
-  offpass-15:
-  - virtue:hope
-  - theme:prayer
-  offpass-16:
-  - person:st_francis_of_assisi
-  - theme:prayer
-  offpass-17:
-  - virtue:hope
-  - theme:prayer
-  offpass-18:
-  - theme:prayer
-  - virtue:poverty
-  offpass-19:
-  - theme:prayer
-  offpass-20:
-  - theme:prayer
-  - theme:cross
   orcruc-1:
   - virtue:faith
   - virtue:hope
   - theme:prayer
-  regb-1:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:obedience
-  - virtue:chastity
-  - person:st_francis_of_assisi
-  - person:pope_honorius_iii
-  regb-2:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:poverty
-  - virtue:obedience
-  regb-3:
-  - theme:rule
-  - theme:fasting
-  - virtue:humility
-  regb-4:
-  - virtue:poverty
-  - theme:rule
-  regb-5:
-  - theme:rule
-  - virtue:poverty
-  - virtue:humility
-  regb-6:
-  - virtue:poverty
-  - virtue:humility
-  - virtue:charity
-  - theme:rule
-  - theme:order_of_friars_minor
-  regb-7:
-  - theme:rule
-  - theme:reconciliation
-  - virtue:mercy
-  - virtue:charity
-  regb-8:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:obedience
-  regb-9:
-  - theme:preaching
-  - theme:rule
-  - theme:order_of_friars_minor
-  regb-10:
-  - theme:rule
-  - virtue:obedience
-  - virtue:humility
-  regb-11:
-  - theme:rule
-  - virtue:chastity
-  regb-12:
-  - virtue:obedience
-  - virtue:poverty
-  - theme:mission
-  - theme:rule
-  regnb-1:
-  - person:st_francis_of_assisi
-  - person:pope_innocent_iii
-  - virtue:obedience
-  - theme:rule
-  regnb-2:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:poverty
-  - virtue:obedience
-  regnb-3:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:poverty
-  - virtue:obedience
-  regnb-4:
-  - theme:rule
-  - theme:fasting
-  - theme:prayer
-  - virtue:obedience
-  regnb-5:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:obedience
-  - virtue:charity
-  regnb-6:
-  - virtue:obedience
-  - virtue:humility
-  - theme:rule
-  - theme:order_of_friars_minor
-  regnb-7:
-  - theme:order_of_friars_minor
-  - theme:rule
-  - virtue:humility
-  - virtue:charity
-  regnb-8:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:humility
-  - virtue:joy
-  regnb-9:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:poverty
-  regnb-10:
-  - virtue:poverty
-  - virtue:humility
-  - theme:rule
-  - person:st_francis_of_assisi
-  regnb-11:
-  - theme:rule
-  - virtue:patience
-  regnb-12:
-  - theme:rule
-  - virtue:charity
-  - virtue:humility
-  regnb-13:
-  - theme:rule
-  - virtue:chastity
-  regnb-14:
-  - virtue:chastity
-  - theme:rule
-  regnb-15:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:poverty
-  - virtue:patience
-  regnb-16:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:poverty
-  regnb-17:
-  - theme:mission
-  - theme:preaching
-  - virtue:fortitude
-  - virtue:patience
-  regnb-18:
-  - theme:preaching
-  - theme:rule
-  - virtue:humility
-  - person:st_francis_of_assisi
-  regnb-19:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - place:portiuncula
-  - place:basilica_of_st_mary_of_the_angels
-  regnb-20:
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:faith
-  - virtue:obedience
-  regnb-21:
-  - theme:eucharist
-  - theme:reconciliation
-  - virtue:humility
-  - virtue:obedience
-  regnb-22:
-  - theme:preaching
-  - virtue:mercy
-  regnb-23:
-  - virtue:charity
-  - theme:prayer
-  regnb-24:
-  - theme:prayer
-  - virtue:charity
-  regnb-25:
-  - person:st_francis_of_assisi
-  - theme:rule
-  - theme:order_of_friars_minor
-  - virtue:obedience
   reger-1:
   - virtue:obedience
   - virtue:poverty

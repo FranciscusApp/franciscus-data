@@ -1,0 +1,55 @@
+description_short:
+  en: "A devotional office of the Passion composed by St. Francis: fifteen psalms he wove from Scripture, arranged for the hours across the liturgical seasons."
+  it: "Un ufficio devozionale della Passione composto da San Francesco: quindici salmi da lui intessuti dalla Scrittura, disposti per le ore lungo i tempi liturgici."
+description:
+  en: |-
+    The Office of the Passion is a private devotional office that St. Francis composed to keep the memory of the Lord's suffering. Rather than write new prayers, he wove fifteen 'psalms' almost entirely out of verses drawn from the Scriptures — chiefly the Psalter — put on the lips of Christ in his Passion. The office is arranged in five parts for the different liturgical seasons (the Sacred Triduum and ferial time, Eastertide, Sundays and feasts, Advent, and Christmas), each distributing the psalms across the canonical hours, framed by the antiphon Sancta Maria Virgo.
+  it: |-
+    L'Ufficio della Passione è un ufficio devozionale privato che San Francesco compose per custodire la memoria della sofferenza del Signore. Invece di scrivere nuove preghiere, intessé quindici «salmi» quasi interamente con versetti tratti dalle Scritture — soprattutto dal Salterio — posti sulle labbra di Cristo nella sua Passione. L'ufficio è disposto in cinque parti per i diversi tempi liturgici (il Sacro Triduo e il tempo feriale, il tempo pasquale, le domeniche e le feste, l'Avvento e il Natale), ciascuna delle quali distribuisce i salmi lungo le ore canoniche, incorniciate dall'antifona Sancta Maria Virgo.
+annotations:
+  offpass-1:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  - theme:cross
+  offpass-2:
+  - theme:prayer
+  offpass-3:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  offpass-4:
+  - theme:prayer
+  offpass-5:
+  - theme:prayer
+  offpass-7:
+  - theme:prayer
+  - virtue:patience
+  offpass-8:
+  - theme:cross
+  offpass-9:
+  - theme:prayer
+  - theme:cross
+  offpass-11:
+  - theme:prayer
+  offpass-12:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  offpass-14:
+  - theme:prayer
+  - virtue:hope
+  offpass-15:
+  - virtue:hope
+  - theme:prayer
+  offpass-16:
+  - person:st_francis_of_assisi
+  - theme:prayer
+  offpass-17:
+  - virtue:hope
+  - theme:prayer
+  offpass-18:
+  - theme:prayer
+  - virtue:poverty
+  offpass-19:
+  - theme:prayer
+  offpass-20:
+  - theme:prayer
+  - theme:cross

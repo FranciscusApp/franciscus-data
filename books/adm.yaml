@@ -1,0 +1,89 @@
+description_short:
+  en: "Twenty-eight short spiritual admonitions of St. Francis to his brothers, on the Eucharist, obedience, humility, and the virtues."
+  it: "Ventotto brevi ammonizioni spirituali di San Francesco ai suoi frati, sull'Eucaristia, l'obbedienza, l'umiltà e le virtù."
+description:
+  en: |-
+    The Admonitions gather twenty-eight brief exhortations that St. Francis addressed to his brothers, most likely delivered at chapter gatherings. Terse and pointed, they range over the mystery of the Eucharist and the hidden presence of the Lord, the evil of self-will, true and false obedience, and a long series of beatitude-like sayings on humility, patience, charity, poverty of spirit, and peace. Together they form the closest thing to a spiritual doctrine in Francis's own words.
+  it: |-
+    Le Ammonizioni raccolgono ventotto brevi esortazioni che San Francesco rivolse ai suoi frati, probabilmente pronunciate durante i capitoli. Concise e incisive, spaziano dal mistero dell'Eucaristia e dalla presenza nascosta del Signore al male della propria volontà, dalla vera e falsa obbedienza a una lunga serie di detti in forma di beatitudine sull'umiltà, la pazienza, la carità, la povertà di spirito e la pace. Insieme costituiscono quanto di più vicino a una dottrina spirituale nelle parole stesse di Francesco.
+annotations:
+  1-1:
+  - theme:eucharist
+  - virtue:faith
+  - virtue:humility
+  2-1:
+  - virtue:obedience
+  - virtue:humility
+  3-1:
+  - virtue:obedience
+  - virtue:charity
+  4-1:
+  - virtue:humility
+  - theme:order_of_friars_minor
+  5-1:
+  - virtue:humility
+  - theme:cross
+  6-1:
+  - virtue:humility
+  - theme:cross
+  7-1:
+  - virtue:humility
+  8-1:
+  - virtue:charity
+  9-1:
+  - virtue:charity
+  - virtue:mercy
+  10-1:
+  - virtue:fortitude
+  11-1:
+  - virtue:charity
+  - virtue:patience
+  12-1:
+  - virtue:humility
+  13-1:
+  - virtue:patience
+  - virtue:humility
+  14-1:
+  - virtue:poverty
+  - virtue:humility
+  - theme:prayer
+  15-1:
+  - virtue:patience
+  - virtue:charity
+  16-1:
+  - virtue:chastity
+  - theme:prayer
+  17-1:
+  - virtue:humility
+  18-1:
+  - virtue:patience
+  - virtue:humility
+  19-1:
+  - virtue:humility
+  20-1:
+  - theme:order_of_friars_minor
+  - virtue:joy
+  21-1:
+  - virtue:simplicity
+  - virtue:humility
+  22-1:
+  - virtue:humility
+  - virtue:patience
+  23-1:
+  - virtue:humility
+  - theme:reconciliation
+  24-1:
+  - virtue:charity
+  25-1:
+  - virtue:charity
+  26-1:
+  - virtue:faith
+  - theme:eucharist
+  27-1:
+  - virtue:charity
+  - virtue:poverty
+  - virtue:humility
+  - theme:prayer
+  28-1:
+  - virtue:humility
+  - theme:prayer
