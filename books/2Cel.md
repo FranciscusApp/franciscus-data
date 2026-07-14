@@ -4,6 +4,8 @@ author: "Tommaso da Celano"
 date: "1246-1247"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
 source: "DocumentaCatholicaOmnia.eu"
+category: biographiae
+sequence: 2
 ---
 
 # VITA SECUNDA S. FRANCISCI

@@ -4,6 +4,8 @@ author: "Fratres Leo, Rufinus et Angelus (attr.)"
 date: "1246"
 reference_edition: "Unknown (Probably Fontes Franciscani - Editiones Collegii S. Bonaventurae, 1995)"
 source: "paxetbonum.net (Web Archive)"
+category: biographiae
+sequence: 3
 ---
 
 # LEGENDA TRIUM SOCIORUM

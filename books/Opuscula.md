@@ -4,6 +4,8 @@ author: "Franciscus Assisiensis"
 date: "1205-1226"
 reference_edition: "Kajetan Esser, Opuscula sancti patris Francisci Assisiensis (Grottaferrata, 1978)"
 source: "franciscanos.org (Directorio Franciscano)"
+category: opuscula
+sequence: 4
 ---
 
 # OPUSCULA OMNIA SANCTI FRANCISCI ASSISIENSIS

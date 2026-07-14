@@ -1,0 +1,31 @@
+# Browsing collections for the corpus (spec: spec/books.md § Categories).
+# A book joins a collection via its `category:` frontmatter key; books are
+# grouped by these entries (ordered by `sequence`) and, within a group, by the
+# book's own `sequence`. `title`/`description` are keyed by UI language.
+
+- category: biographiae
+  sequence: 1
+  title:
+    en: Early Biographies
+    it: Biografie antiche
+  description:
+    en: The earliest lives of Francis, written by his companions and successors.
+    it: Le prime vite di Francesco, scritte dai suoi compagni e successori.
+
+- category: regulae
+  sequence: 2
+  title:
+    en: Rules
+    it: Regole
+  description:
+    en: The Rules Francis gave to the Order of Friars Minor.
+    it: Le Regole che Francesco diede all'Ordine dei Frati Minori.
+
+- category: opuscula
+  sequence: 3
+  title:
+    en: Other Writings
+    it: Altri scritti
+  description:
+    en: Francis's own letters, prayers, admonitions, and his Testament.
+    it: Lettere, preghiere, ammonizioni e il Testamento di Francesco.

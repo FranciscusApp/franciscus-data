@@ -32,10 +32,19 @@ frontmatter fields:
 | `date`              | string | ✓   | Date or date range of composition               |
 | `reference_edition` | string | ✓   | Print edition whose numbering this file follows |
 | `source`            | string | –   | Where the source-language text was obtained     |
+| `category`          | string | –   | Machine key of the collection this work belongs to (see [Categories](#categories)) |
+| `sequence`          | int    | –   | Ordinal of this work **within its category** (ascending) |
 
 `source` is this rendition's provenance (the source text's counterpart to a
 translation's `translation_source`); the book page turns it into a localized
-"Source text from …" note. Editorial **descriptions** are NOT frontmatter: they describe the work (not a
+"Source text from …" note.
+
+`category` and `sequence` place the work in the browsing hierarchy: books are
+grouped by `category` (ordered by the category's own sequence) and, within a
+group, ordered by `sequence`. Both are language-invariant, so — like `date` and
+`reference_edition` — they live only on the source `<id>.md`, never repeated in a
+translation file. A `category` value MUST match a `category:` key defined in
+`books/categories.yaml`. Editorial **descriptions** are NOT frontmatter: they describe the work (not a
 rendition) and are keyed by UI language, so they live in the per-book sidecar's
 cover properties (see [annotations.md](annotations.md)). The book page's
 **notes** are likewise not authored here — they are generated from each
@@ -48,7 +57,37 @@ author: "Tommaso da Celano"
 date: "1228"
 reference_edition: "Analecta Franciscana X (Quaracchi)"
 source: "DocumentaCatholicaOmnia.eu"
+category: biographiae
+sequence: 1
 ---
+```
+
+### Categories
+
+`books/categories.yaml` defines the closed set of collections a book's
+`category` may reference (values not defined there are rejected, as the topic
+vocabulary is). It is a YAML **list**; each entry is one category:
+
+| Field         | Type                | Req | Description                                          |
+|---------------|---------------------|-----|------------------------------------------------------|
+| `category`    | string              | ✓   | Machine key (a foreign key from book `category`); never localized |
+| `sequence`    | int                 | ✓   | Order of this category among the others (ascending)  |
+| `title`       | map `lang → string` | ✓   | Group heading, keyed by **UI** language              |
+| `description` | map `lang → string` | –   | Short subtext under the heading, keyed by UI language |
+
+`title` / `description` are keyed by UI language (like the per-book cover
+descriptions), because the group heading is application chrome, not corpus text.
+English (`en`) is the fallback when the active UI language is absent.
+
+```yaml
+- category: biographiae
+  sequence: 1
+  title:
+    en: Early Biographies
+    it: Biografie antiche
+  description:
+    en: The earliest lives of Francis, by his companions and successors.
+    it: Le prime vite di Francesco, dai suoi compagni e successori.
 ```
 
 ### Translation files

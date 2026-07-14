@@ -4,6 +4,8 @@ author: "Tommaso da Celano"
 date: "1228-1229"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
 source: "DocumentaCatholicaOmnia.eu"
+category: biographiae
+sequence: 1
 ---
 
 # VITA PRIMA S. FRANCISCI

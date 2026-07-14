@@ -4,6 +4,8 @@ author: "Bonaventura da Bagnoregio"
 date: "1263"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
 source: "DocumentaCatholicaOmnia.eu"
+category: biographiae
+sequence: 4
 ---
 
 # LEGENDA MAIOR SANCTI FRANCISCI
