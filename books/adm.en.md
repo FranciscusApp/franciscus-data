@@ -1,5 +1,5 @@
 ---
-title: "The Admonitions"
+title: "Admonitions"
 author: "Francis of Assisi"
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
@@ -7,7 +7,7 @@ status: draft
 translation_source:
 ---
 
-# The Admonitions
+# Admonitions
 
 ## I. On the Body of the Lord <a id="1"></a>
 

@@ -1,5 +1,5 @@
 ---
-title: "Le Ammonizioni"
+title: "Ammonizioni"
 author: "Francesco d'Assisi"
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
@@ -7,7 +7,7 @@ status: draft
 translation_source:
 ---
 
-# Le Ammonizioni
+# Ammonizioni
 
 ## I. Del corpo del Signore <a id="1"></a>
 

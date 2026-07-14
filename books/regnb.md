@@ -1,12 +1,12 @@
 ---
-title: "Regula non Bullata"
+title: "Regula non bullata"
 author: "Franciscus Assisiensis"
 date: "1205-1226"
 reference_edition: "Kajetan Esser, Opuscula sancti patris Francisci Assisiensis (Grottaferrata, 1978)"
 source: "franciscanos.org (Directorio Franciscano)"
 ---
 
-# Regula non Bullata
+# Regula non bullata
 
 ## prolog <a id="prolog"></a>
 
