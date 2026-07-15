@@ -13,13 +13,13 @@
 name: Trigger site rebuild
 
 on:
-#  push:
-#    branches: [master]
-#    # Only bother the app repo when actual corpus content changes.
-#    paths:
-#      - 'books/**'
-#      - 'topics/**'
-#  workflow_dispatch:
+  push:
+    branches: [master]
+    # Only bother the app repo when actual corpus content changes.
+    paths:
+      - 'books/**'
+      - 'topics/**'
+  workflow_dispatch:
 
 jobs:
   dispatch:
