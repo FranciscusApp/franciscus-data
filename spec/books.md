@@ -224,6 +224,42 @@ heading levels beyond ##` invariant is unchanged.
 inherit it (the label itself is translated per the localized heading text where
 one is authored on the translation's own `<p>`).
 
+### Optional `layout` attribute
+
+By default a `<p>` is **prose**: the renderer reflows its body as a single
+running paragraph and the source's own line wrapping (a convenience for editing)
+is not significant — internal newlines collapse to spaces. Some texts, however,
+are *not* prose: their line structure is part of the text. A `layout` attribute
+MAY be added to preserve it. It has three values:
+
+- `prose` (the default when the attribute is absent) — running paragraph;
+  source line breaks are insignificant.
+- `verse` — **each source line is a line of the text.** The renderer preserves
+  the newlines authored in the `<p>` body. Use for hymns and free-verse pieces
+  (e.g. the *Canticum fratris solis*), where the line — not the sentence — is the
+  unit. Verse markers (`[N]`) still open their line as usual.
+- `psalm` — **pointed chant.** Like `verse`, source lines are preserved (one
+  psalm verse per line); additionally, the `<caesura>` marks within each verse
+  (§ [Recitation and apparatus marks](#recitation-and-apparatus-marks)) become
+  the intra-verse line breaks, so each verse is displayed as its pointed
+  half-lines. Use for the psalters (e.g. the *Officium Passionis*). The `<var>`
+  psalter sigla stay hidden as under any other layout.
+
+```html
+<p id="cantsol-1" layout="verse">
+[1] Altissimu onnipotente bon signore,
+tue so le laude, la gloria e l'onore et onne benedictione.
+…
+</p>
+```
+
+Because the line structure is carried by the `<p>` body itself (newlines) and by
+the `<caesura>` marks — both already preserved through ingestion — `layout` only
+tells the renderer to honor what is there; it changes no other encoding. Like
+`label_format`, `layout` lives only on the source `<p>` and translation `<p>`
+elements inherit it (a translation preserves its own authored line breaks, which
+SHOULD mirror the source's).
+
 ## Aside blocks
 
 Text that is not part of a numbered paragraph (subtitles, rubrics, incipits,

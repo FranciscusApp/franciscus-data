@@ -12,7 +12,7 @@ sequence: 4
 
 ## Audite, Poverelle <a id="audite"></a>
 
-<p id="audite-1">
+<p id="audite-1" layout="verse">
 [1] Audite, poverelle dal Signór[e] vocáte,
 ke de multe parte et provincie séte adunáte:
 vivate sémpre en-veritáte,
@@ -48,7 +48,7 @@ ka cascúna serà-regína en celo coronata cum la Vérgene María.
 
 ## Canticum Fratris Solis <a id="cantsol"></a>
 
-<p id="cantsol-1">
+<p id="cantsol-1" layout="verse">
 [1] Altissimu onnipotente bon signore,
 tue so le laude, la gloria e l'onore et onne benedictione.
 [2] Ad te solo, altissimo, se konfano,
@@ -330,7 +330,7 @@ In nomine Domini Patris et Filii et Spiritus Sancti. Amen.
 
 ## Laudes ad omnes Horas <a id="laudhor"></a>
 
-<p id="laudhor-1">
+<p id="laudhor-1" layout="verse">
 [1] Sanctus, sanctus, sanctus Dominus Deus omnipotens, <ref to="Rev 4:8">qui est et qui erat et qui venturus est </ref>: Et laudemus et superexaltemus eum in saecula.
 [2] Dignus es, Domine Deus noster, accipere laudem, <ref to="Rev 4:11">gloriam et honorem et benedictionem </ref>: Et laudemus et superexaltemus eum in saecula.
 [3] Dignus est agnus, qui occisus est, <ref to="Rev 5:12">accipere virtutem et divinitatem et sapientiam et fortitudinem et honorem et gloriam et benedictionem </ref>: Et laudemus et superexaltemus eum in saecula.

@@ -24,7 +24,7 @@ Antiphona: Sancta Maria Virgo
 Psalmus [I]
 </aside>
 
-<p id="offpass-2">
+<p id="offpass-2" layout="psalm">
 [1] <ref to="Ps 55:8-9"> Deus vitam meam annuntiavi tibi<caesura kind="mediant"></caesura> posuisti lacrimas meas in conspectu tuo </ref>.
 [2] <ref to="Ps 40:8"> Omnes inimici mei adversum me cogitabant mala mihi </ref><ref to="Ps 70:10"><var psalter="R"></var><caesura kind="mediant"></caesura> et consilium fecerunt in unum </ref><var psalter="G"></var>.
 [3] <ref to="Ps 108:5"> Et posuerunt adversum me mala pro vobis<caesura kind="mediant"></caesura> et odium pro dilectione mea </ref>.
@@ -50,7 +50,7 @@ Antiphona: Sancta Maria Virgo
 Psalmus [II]
 </aside>
 
-<p id="offpass-4">
+<p id="offpass-4" layout="psalm">
 [1] <ref to="Ps 87:2"> Domine Deus salutis meae<caesura kind="mediant"></caesura> in die clamavi et nocte coram te </ref>.
 [2] <ref to="Ps 87:3"> Intret in conspectu tuo oratio mea<caesura kind="mediant"></caesura> inclina aurem tuam ad precem meam </ref>.
 [3] <ref to="Ps 68:19"> Intende animae meae et libera eam<caesura kind="mediant"></caesura> propter inimicos meos eripe me </ref>.
@@ -71,7 +71,7 @@ Antiphona: Sancta Maria Virgo
 Psalmus [III]
 </aside>
 
-<p id="offpass-5">
+<p id="offpass-5" layout="psalm">
 [1] Miserere mei, Deus, <ref to="Ps 56:2">miserere mei<caesura kind="mediant"></caesura> quoniam in te confidit anima mea </ref>.
 [2] <ref to="Ps 56:2"> Et in umbra alarum tuarum sperabo<caesura kind="mediant"></caesura> donec transeat iniquitas </ref>.
 [3] Clamabo ad sanctissimum patrem meum altissimum<caesura kind="mediant"></caesura> Dominum <var psalter="R"></var>, <ref to="Ps 56:3">qui benefecit mihi </ref>.
@@ -93,7 +93,7 @@ Antiphona: Sancta Maria Virgo
 Psalmus [IV]
 </aside>
 
-<p id="offpass-6">
+<p id="offpass-6" layout="psalm">
 [1] Miserere mei, Deus, <ref to="Ps 55:2">quoniam conculcavit me homo<caesura kind="mediant"></caesura> tota die impugnans tribulavit me </ref>.
 [2] <ref to="Ps 55:3"> Conculcaverunt me inimici mei tota die<caesura kind="mediant"></caesura> quoniam multi bellantes adversum me </ref>.
 [3] <ref to="Ps 40:8-9"> Omnes inimici mei adversum me cogitabant mala mihi<caesura kind="mediant"></caesura> verbum iniquum constituerunt adversum me </ref><var psalter="R"></var>.
@@ -112,7 +112,7 @@ Antiphona: Sancta Maria Virgo
 Psalmus [V]
 </aside>
 
-<p id="offpass-7">
+<p id="offpass-7" layout="psalm">
 [1] <ref to="Ps 141:2"> Voce mea ad Dominum clamavi<caesura kind="mediant"></caesura> voce mea ad Dominum deprecatus sum </ref>.
 [2] <ref to="Ps 141:3"> Effundo in conspectu eius orationem meam<caesura kind="mediant"></caesura> et tribulationem meam ante ipsum pronuntio </ref>.
 [3] <ref to="Ps 141:4"> In deficiendo ex me spiritum meum<caesura kind="mediant"></caesura> et tu cognovisti semitas meas </ref>.
@@ -137,7 +137,7 @@ Antiphona: Sancta Maria Virgo
 Psalmus [VI]
 </aside>
 
-<p id="offpass-8">
+<p id="offpass-8" layout="psalm">
 [1] O vos omnes, qui transitis per viam<caesura kind="mediant"></caesura> attendite et videte, <ref to="Lam 1:12">si est dolor sicut dolor meus </ref>.
 [2] <ref to="Ps 21:17"> Quoniam circumdederunt me canes multi<caesura kind="mediant"></caesura> concilium malignantium obsedit me </ref>.
 [3] <ref to="Ps 21:18-19"> Ipsi vero consideraverunt et inspexerunt me<caesura kind="mediant"></caesura> diviserunt sibi vestimenta mea et super vestem meam miserunt sortem </ref>.
@@ -162,7 +162,7 @@ Antiphona: Sancta Maria Virgo
 Psalmus [VII]
 </aside>
 
-<p id="offpass-9">
+<p id="offpass-9" layout="psalm">
 [1] <ref to="Ps 46:2"> Omnes gentes plaudite manibus<caesura kind="mediant"></caesura> iubilate Deo in voce exsultationis </ref>.
 [2] <ref to="Ps 46:3"> Quoniam Dominus excelsus<caesura kind="mediant"></caesura> terribilis Rex magnus super omnem terram </ref>.
 [3] Quia sanctissimus Pater de caelo, <ref to="Ps 73:12">Rex noster ante saecula<caesura kind="mediant"></caesura> misit dilectum Filium suum de alto et operatus est salutem in medio terrae </ref>.
@@ -189,7 +189,7 @@ Antiphona: Sancta Maria Virgo
 Psalmus [VIII]
 </aside>
 
-<p id="offpass-10">
+<p id="offpass-10" layout="psalm">
 [1] Deus in adiutorium meum intende<caesura kind="mediant"></caesura> Domine ad adiuvandum me festina.
 [2] Confundantur et revereantur<caesura kind="mediant"></caesura> qui quaerunt animam meam.
 [3] Avertantur retrorsum et erubescant<caesura kind="mediant"></caesura> qui volunt mihi mala.
@@ -206,7 +206,7 @@ Antiphona: Sancta Maria Virgo
 Psalmus [IX]
 </aside>
 
-<p id="offpass-11">
+<p id="offpass-11" layout="psalm">
 [1] <ref to="Ps 97:1"> Cantate Domino canticum novum<caesura kind="mediant"></caesura> quia mirabilia fecit </ref>.
 [2] <ref to="Ps 97:1"> Sacrificavit dilectum Filium suum dextera eius<caesura kind="mediant"></caesura> et brachium sanctum suum </ref>.
 [3] <ref to="Ps 97:2"> Notum fecit Dominus salutare suum<caesura kind="mediant"></caesura> in conspectu gentium revelavit iustitiam suam </ref>.
@@ -258,7 +258,7 @@ Antiphona: Sancta Maria Virgo.
 Psalmus [X]
 </aside>
 
-<p id="offpass-13">
+<p id="offpass-13" layout="psalm">
 [1] <ref to="Ps 65:1-2"> Jubilate Domino omnis terra,<caesura kind="flexa"></caesura> psalmum dicite nomini eius<caesura kind="mediant"></caesura> date gloriam laudi eius </ref>.
 [2] Dicite Deo, quam terribilia sunt opera tua, <ref to="Ps 65:3">Domine<caesura kind="mediant"></caesura> in multitudine virtutis tuae mentientur tibi inimici tui </ref>.
 [3] <ref to="Ps 65:4"> Omnis terra adoret te et psallat tibi<caesura kind="mediant"></caesura> psalmum dicat nomini tuo </ref>.
@@ -277,7 +277,7 @@ Antiphona: Sancta Maria Virgo.
 Psalmus [XI]
 </aside>
 
-<p id="offpass-14">
+<p id="offpass-14" layout="psalm">
 [1] <ref to="Ps 19:2"> Exaudiat te Dominus in die tribulationis<caesura kind="mediant"></caesura> protegat te nomen Dei Jacob </ref>.
 [2] <ref to="Ps 19:3"> Mittat tibi auxilium de sancto<caesura kind="mediant"></caesura> et de Sion tueatur te </ref>.
 [3] <ref to="Ps 19:4"> Memor sit omnis sacrificii tui<caesura kind="mediant"></caesura> et holocaustum tuum pingue fiat </ref>.
@@ -295,7 +295,7 @@ Antiphona: Sancta Maria Virgo.
 Psalmus [XII]
 </aside>
 
-<p id="offpass-15">
+<p id="offpass-15" layout="psalm">
 [1] In te, Domine, speravi, <ref to="Ps 70:1-2">non confundar in aeternum<caesura kind="mediant"></caesura> in iustitia tua libera me et eripe me </ref>.
 [2] <ref to="Ps 70:2"> Inclina ad me aurem tuam<caesura kind="mediant"></caesura> et salva me </ref>.
 [3] <ref to="Ps 70:3"> Esto mihi in Deum protectorem<caesura kind="flexa"></caesura> et in locum munitum<caesura kind="mediant"></caesura> ut salvum me facias </ref>.
@@ -326,7 +326,7 @@ Antiphona: Sancta Maria Virgo.
 Psalmus [XIII]
 </aside>
 
-<p id="offpass-17">
+<p id="offpass-17" layout="psalm">
 [1] Usquequo, Domine oblivisceris me in finem?<caesura kind="mediant"></caesura> Usquequo avertis faciem tuam a me?
 [2] Quamdiu ponam consilia in anima mea<caesura kind="mediant"></caesura> dolorem in corde meo per diem?
 [3] Usquequo exaltabitur inimicus meus super me?<caesura kind="mediant"></caesura> Respice, et exaudi me, Domine, Deus meus.
@@ -341,7 +341,7 @@ Anfiphona: Sancta Maria Virgo.
 Psalmus [XIV]
 </aside>
 
-<p id="offpass-18">
+<p id="offpass-18" layout="psalm">
 [1] Confitebor tibi, Domine, sanctissime Pater, <ref to="Isa 12:1">Rex caeli et terrae<caesura kind="mediant"></caesura> quoniam consolatus es me </ref>.
 [2] <ref to="Isa 12:2"> Tu es Deus salvator meus<caesura kind="mediant"></caesura> fiducialiter agam et non timebo </ref>.
 [3] Fortitudo mea et laus mea, <ref to="Isa 12:2">Dominus<caesura kind="mediant"></caesura> et factus est mihi in salutem </ref>.
@@ -384,7 +384,7 @@ Antiphona: Sancta Maria Virgo.
 Psalmus [XV]
 </aside>
 
-<p id="offpass-20">
+<p id="offpass-20" layout="psalm">
 [1] <ref to="Ps 80:2"> Exsultate Deo adiutori nostro </ref><ref to="Ps 46:2"><caesura kind="mediant"></caesura> iubilate Domino Deo vivo et vero in voce exsultationis </ref>.
 [2] <ref to="Ps 46:3"> Quoniam Dominus excelsus<caesura kind="mediant"></caesura> terribilis Rex magnus super omnem terram </ref>.
 [3] Quia sanctissimus pater de caelo, <ref to="Ps 73:12">Rex noster ante saecula </ref><caesura kind="flexa"></caesura> misit dilectum Fillum suum de alto<caesura kind="mediant"></caesura> et natus fuit de beata virgine sancta Maria.
