@@ -1,7 +1,7 @@
 ---
 title: "Admonitiones"
 author: "S. Franciscus de Assisio"
-date: "1205-1226"
+date: "1223-1226"
 reference_edition: "Kajetan Esser, Opuscula sancti patris Francisci Assisiensis (Grottaferrata, 1978)"
 source: "franciscanos.org (Directorio Franciscano)"
 category: opuscula
