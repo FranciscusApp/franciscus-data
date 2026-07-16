@@ -1,6 +1,6 @@
 ---
 title: "Regula Bullata"
-author: "Franciscus Assisiensis"
+author: "S. Franciscus de Assisio"
 date: "1205-1226"
 reference_edition: "Kajetan Esser, Opuscula sancti patris Francisci Assisiensis (Grottaferrata, 1978)"
 source: "franciscanos.org (Directorio Franciscano)"

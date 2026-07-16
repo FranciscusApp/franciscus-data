@@ -1,6 +1,6 @@
 ---
 title: "Leggenda Maggiore di San Francesco"
-author: "Bonaventura da Bagnoregio"
+author: "San Bonaventura da Bagnoregio"
 
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai

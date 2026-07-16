@@ -1,6 +1,6 @@
 ---
 title: "Testament of Brother Francis"
-author: "Francis of Assisi"
+author: "St. Francis of Assisi"
 
 translator: "OFM <archivum@ofm.org>"
 provenance: human

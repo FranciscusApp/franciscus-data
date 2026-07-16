@@ -1,6 +1,6 @@
 ---
 title: "The Later Rule"
-author: "Francis of Assisi"
+author: "St. Francis of Assisi"
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft

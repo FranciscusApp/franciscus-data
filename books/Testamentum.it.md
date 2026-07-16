@@ -1,6 +1,6 @@
 ---
 title: "Testamento di Frate Francesco"
-author: "Francesco d'Assisi"
+author: "San Francesco d'Assisi"
 
 translator: "OFM <archivum@ofm.org>"
 provenance: human

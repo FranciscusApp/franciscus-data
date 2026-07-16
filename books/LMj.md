@@ -1,6 +1,6 @@
 ---
 title: "Legenda Maior Sancti Francisci"
-author: "Bonaventura da Bagnoregio"
+author: "S. Bonaventura de Balneoregio"
 date: "1263"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
 source: "DocumentaCatholicaOmnia.eu"

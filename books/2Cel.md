@@ -1,6 +1,6 @@
 ---
 title: "Memoriale in desiderio animae"
-author: "Tommaso da Celano"
+author: "Thomas de Celano"
 date: "1246-1247"
 reference_edition: "Analecta Franciscana X (Quaracchi, 1926-1941)"
 source: "DocumentaCatholicaOmnia.eu"

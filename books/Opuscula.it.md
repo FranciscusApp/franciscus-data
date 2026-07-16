@@ -1,6 +1,6 @@
 ---
 title: "Scritti Minori di San Francesco D'Assisi"
-author: "Francesco d'Assisi"
+author: "San Francesco d'Assisi"
 
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai

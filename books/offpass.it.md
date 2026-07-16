@@ -1,6 +1,6 @@
 ---
 title: "Ufficio della Passione del Signore"
-author: "Francesco d'Assisi"
+author: "San Francesco d'Assisi"
 translator: "Claude <noreply@anthropic.com>"
 provenance: ai
 status: draft
