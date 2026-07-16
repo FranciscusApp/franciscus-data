@@ -763,8 +763,13 @@ HERE BEGINS THE THIRD LITTLE WORK ON THE CANONIZATION OF OUR BLESSED FATHER FRAN
 [9] <ref to="Job 40:22; Isa 1:15">He offered and multiplied his prayers </ref>, and celebrated the sacred mysteries.
 [10] <ref to="Sir 50:3">A crown of brothers stood about him </ref>, praising, <ref to="Luke 24:52; 2 Macc 3:22">adoring, and blessing Almighty God </ref>, <ref to="Sir 50:24">who has done great things in all the earth </ref>.
 [11] <ref to="Matt 27:25; Luke 18:43">All the people increased the praises of God </ref>, and in honor of the most high Trinity they rendered to Saint Francis the offerings of sacred thanksgiving. Amen.
-[12] Now these things were done in the city of Assisi, in the second year of the pontificate of the lord pope Gregory the Ninth, on the seventeenth day before the kalends of the month of August. THE MIRACLES OF SAINT FRANCIS. IN THE NAME OF CHRIST BEGIN THE MIRACLES OF OUR MOST HOLY FATHER FRANCIS.
+[12] Now these things were done in the city of Assisi, in the second year of the pontificate of the lord pope Gregory the Ninth, on the seventeenth day before the kalends of the month of August.
 </p>
+
+<aside>
+THE MIRACLES OF SAINT FRANCIS.
+IN THE NAME OF CHRIST BEGIN THE MIRACLES OF OUR MOST HOLY FATHER FRANCIS.
+</aside>
 
 <p id="127">
 [1] <ref to="2 Cor 8:9; 2 Cor 13:13"> Humbly invoking the grace of Jesus Christ our Lord </ref>, to kindle the devotion of those now living that they may embrace it, and to strengthen the faith of those to come, we shall set down briefly but truthfully the miracles which, as has been said, were read aloud in the presence of the lord pope Gregory and proclaimed to the people, <ref to="Dan 9:25">with Christ as our guide</ref>. I. — Concerning the cripples who were healed.

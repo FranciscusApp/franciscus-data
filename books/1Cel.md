@@ -1538,8 +1538,13 @@ NOSTRI FRANCISCI ET DE MIRACULIS EIUS.
 [9] <ref to="Job 40:22; Isa 1:15"> Offert et multiplicat preces </ref>, celebratque mysteria sacra.
 [10] <ref to="Sir 50:3"> Stat circa illum corona fratrum </ref> laudans, <ref to="Luke 24:52; 2 Macc 3:22">adorans et benedicens omnipotentem Deum </ref>, <ref to="Sir 50:24">qui fecit magna in omni terra </ref>.
 [11] <ref to="Matt 27:25; Luke 18:43"> Amplificat universus populus laudes Dei </ref>, et in honore Trinitatis excelsae sancto Francisco persolvunt sacrarum munera gratiarum. Amen.
-[12] Facta sunt autem haec in civitate Assisii, secundo anno pontificatus domini papae Gregorii Noni, septimo decimo die kalendarum mensis augusti. MIRACULA S. FRANCISCI. IN CHRISTI NOMINE INCIPIUNT MIRACULA SANCTISSIMI PATRIS NOSTRI FRANCISCI.
+[12] Facta sunt autem haec in civitate Assisii, secundo anno pontificatus domini papae Gregorii Noni, septimo decimo die kalendarum mensis augusti.
 </p>
+
+<aside>
+MIRACULA S. FRANCISCI.
+IN CHRISTI NOMINE INCIPIUNT MIRACULA SANCTISSIMI PATRIS NOSTRI FRANCISCI.
+</aside>
 
 <p id="127">
 [1] <ref to="2 Cor 8:9; 2 Cor 13:13"> Iesu Christi Domini nostri suppliciter gratiam </ref> invocantes, ad excitandam praesentium amplectendam devotionem, et futurorum corroborandam fidem, miracula quae coram domino papa Gregorio, ut dictum est, perlecta sunt et populo nuntiata, <ref to="Dan 9:25">Christo duce </ref>, breviter sed veraciter conscribemus. I. - De contractis sanatis.

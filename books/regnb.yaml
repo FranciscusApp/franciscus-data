@@ -1,11 +1,23 @@
 description_short:
-  en: "The earlier, unconfirmed Rule of the Friars Minor (1221): longer, more scriptural and exhortatory than the Rule of 1223."
-  it: "L'anteriore Regola non confermata dei Frati Minori (1221): più lunga, più scritturale ed esortativa della Regola del 1223."
+  en: "The first Rule Francis formally drafted. Longer, more rhetorical and theological than the Rule of 1223, it was never approved."
+  it: "La prima regola formalmente redatta da Francesco. Più lunga, più retorica e teologica della Regola del 1223, non fu mai approvata."
 description:
   en: |-
-    The Earlier Rule (Regula non Bullata) of 1221 is the fuller, unsealed Rule that preceded the bull-confirmed Rule of 1223. Never given papal confirmation, it is longer, warmer, and far more scriptural: alongside its legislative chapters it weaves lengthy exhortations, gospel quotations, and a closing prayer of thanksgiving. It preserves the primitive spirit of the fraternity — its radical poverty, its manner of working and begging, its mission among the Saracens — before the text was pared down into the definitive Rule.
+    The *Earlier Rule* of 1221 is the first rule Francis formally drafted. Compared with the Rule of 1223 it is
+    longer, more rhetorical and more theological. Alongside its legislative chapters Francis sets lengthy
+    exhortations and scriptural quotations, and the text closes with a final prayer of thanksgiving.
+
+    It was never approved — partly because of its scarcely «canonical» style and its lack of an organic legislative
+    structure, partly because of the sheer severity of the way of life it proposed. Even so, it preserves a vivid
+    witness to the raw, primitive charism of the fraternity.
   it: |-
-    La Regola non bollata (Regula non Bullata) del 1221 è la Regola più ampia e non sigillata che precedette la Regola bollata del 1223. Mai confermata dal papa, è più lunga, più calda e assai più scritturale: accanto ai capitoli legislativi intreccia lunghe esortazioni, citazioni evangeliche e una preghiera finale di ringraziamento. Conserva lo spirito primitivo della fraternità — la sua povertà radicale, il suo modo di lavorare e di chiedere l'elemosina, la sua missione fra i Saraceni — prima che il testo fosse ridotto nella Regola definitiva.
+    La *Regola non bollata* del 1221 è la prima regola formalmente redatta da Francesco. Rispetto alla Regola del 1223,
+    risulta più lunga, più retorica e teologica. Accanto ai capitoli legislativi, Francesco affianca lunghe esortazioni e
+    citazioni scritturali. Il testo è chiuso da una preghiera finale di ringraziamento.
+
+    Non fu approvata, in parte a causa del suo stile poco «canonico» e della mancanza di una struttura legislativa organica,
+    in parte per l'eccessiva durezza della proposta di vita. Ciò nonostante, preserva una testimonianza vivida del carisma
+    grezzo e primitivo della fraternità.
 annotations:
   prolog-1:
   - person:st_francis_of_assisi

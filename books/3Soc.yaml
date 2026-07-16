@@ -1,53 +1,55 @@
 # Descriptions by Alfredo Salata <as@salata.ovh>
 description_short:
-  en: An intimate account of Francis's youth and conversion, attributed to his closest companions.
-  it: Un racconto intimo della giovinezza e della conversione di Francesco, attribuito ai suoi compagni più vicini.
+  en: "An intimate account of Francis's youth and conversion, attributed to his closest companions."
+  it: "Un racconto intimo della giovinezza e della conversione di Francesco, attribuito ai suoi compagni più vicini."
 description:
   en: |-
-    The Legend of the Three Companions is among the most precious and most debated of the early
-    sources. In the *Letter of Greccio* of 1246 that introduces it, it presents itself as the work
-    of **Leo**, **Rufino**, and **Angelo** — three of the friars who had lived longest at **Francis**'s side —
+    The *Legend of the Three Companions* is the most singular, as well as the most debated, of the
+    early sources. In the *Letter of Greccio* of 1246 that introduces it, it presents itself as the
+    work of Leo, Rufino and Angelo — three of the friars who had lived longest at Francis's side —
     sent to the minister general in answer to the very appeal for recollections that gave rise to
-    **Celano**'s *Memoriale*.
+    Celano's *Memoriale*.
 
-    The attribution is disputed. What is certain, however, is that the text offers an account of
-    the Saint's life more intimate in tone, more restrained, and more biographical than the other
-    early sources. It is especially rich in its telling of Francis's youth and **conversion**, which
-    here is recounted in tones markedly different from Celano's first work.
+    The attribution is disputed. What is certain, however, is that the text offers an account of the
+    Saint's life more intimate in tone, more restrained, and more biographical than the other
+    biographical sources. It is markedly richer in detail concerning Francis's youth and conversion,
+    which here are recounted in tones decidedly different from Celano's first work.
 
     The Francis of the Three Companions is a young man of good disposition, and though he appears
-    prodigal and fond of revelry and the life of the world, he is not portrayed as dissolute.
-    While the text confirms the persecution by his father **Bernardone**, Francis's family and the
-    people of **Assisi** are shown in a far warmer and more human light than in the *Vita prima* — a
-    sign of an intimacy that passes beyond the limits of these accounts, almost always polarized,
-    to touch lived human experience.
+    prodigal and fond of revelry and the life of the world, he is not portrayed as dissolute. While
+    the text confirms the persecution by his father Bernardone, Francis's family and the people of
+    Assisi are shown in a far warmer and more human light than in the *Vita prima* — a sign of an
+    intimacy that passes beyond the limits of these accounts, almost always polarized, to touch lived
+    human experience.
 
-    If we accept the traditional attribution, the text of the Three Companions thus stands as a
-    close and authentic testimony from those who spent years of daily life side by side with one
-    of the greatest saints in history.
+    If we accept the traditional attribution, the text of the Three Companions thus stands as a close
+    and authentic testimony from those who spent years of daily life side by side with one of the
+    greatest saints in history, sharing with him the honours — and the frictions — that always mark
+    the human story of every great prophet.
   it: |-
-    La Leggenda dei Tre Compagni è fra le più preziose e le più discusse fonti antiche. Si
-    presenta, nella *Lettera di Greccio* del 1246 che la introduce, come opera di **Leone**, **Rufino**
-    e **Angelo** — tre dei frati che più a lungo erano vissuti accanto a **Francesco** — inviata al
+    La *Leggenda dei Tre Compagni* è la più singolare, nonché la più discussa, delle fonti antiche. Si
+    presenta, nella *Lettera di Greccio* del 1246 che la introduce, come opera di Leone, Rufino
+    e Angelo — tre dei frati che più a lungo erano vissuti accanto a Francesco — inviata al
     ministro generale in risposta allo stesso appello ai ricordi che diede origine al *Memoriale*
-    del **Celano**.
+    del Celano.
 
-    L'attribuzione è discussa. Tuttavia, ciò che è sicuro è che il testo offre un resoconto
+    L'attribuzione è contestata. Tuttavia, ciò che è sicuro è che il testo offre un resoconto
     dal tono più intimo, più sobrio, nonché più biografico della vita del Santo rispetto alle
-    altre fonti biografiche. Il testo è particolarmente più ricco nel racconto della vita
-    giovanile e della **conversione** di Francesco, che qui è raccontata in toni decisamente diversi
+    altre fonti biografiche. Il testo è significativamente più ricco di dettagli circa la vita
+    giovanile e la conversione di Francesco, che qui sono raccontate in toni decisamente diversi
     dalla prima opera di Celano.
 
     Il Francesco dei Tre Compagni è un giovane di buona indole, e per quanto appaia prodigale e
     appassionato di festeggiamenti e della vita di mondo, non è presentato come dissoluto. Per
-    quanto il testo confermi la persecuzione del padre **Bernardone**, la famiglia di Francesco e la
-    gente di **Assisi** sono presentati in una luce assai più calda e umana della *Vita prima*, segno
+    quanto il testo confermi la persecuzione del padre Bernardone, la famiglia di Francesco e la
+    gente di Assisi sono presentati in una luce assai più calda e umana della *Vita prima*, segno
     di una conoscenza che supera i limiti dei resoconti — quasi sempre polarizzati — e tocca
     l'esperienza umana.
 
     Se accettiamo l'attribuzione tradizionale, il testo dei Tre Compagni costituisce quindi una
     testimonianza vicina e autentica di chi ha speso anni di quotidianità fianco a fianco con uno
-    dei più grandi santi della storia.
+    dei più grandi santi della storia, vivendo assieme a lui gli onori — e gli attriti — che sempre
+    caratterizzano la storia umana di ogni grande profeta.
 annotations:
   '1':
   - topic: person:st_francis_of_assisi

@@ -1296,8 +1296,13 @@ INIZIA IL TERZO OPUSCOLO SULLA CANONIZZAZIONE DEL NOSTRO BEATO PADRE FRANCESCO E
 [9] <ref to="Job 40:22; Isa 1:15">Offre e moltiplica le preghiere</ref> e celebra i sacri misteri.
 [10] <ref to="Sir 50:3">Gli sta attorno una corona di frati</ref> che lodano, <ref to="Luke 24:52; 2 Macc 3:22">adorano e benedicono l'onnipotente Dio</ref>, <ref to="Sir 50:24">che ha compiuto grandi cose su tutta la terra</ref>.
 [11] <ref to="Matt 27:25; Luke 18:43">Tutto il popolo amplifica le lodi di Dio</ref>, e in onore dell'eccelsa Trinità rendono a san Francesco i doni delle sacre grazie. Amen.
-[12] Queste cose avvennero nella città di Assisi, nel secondo anno del pontificato del signor papa Gregorio Nono, il diciassettesimo giorno delle calende del mese di agosto. I MIRACOLI DI SAN FRANCESCO. NEL NOME DI CRISTO COMINCIANO I MIRACOLI DEL SANTISSIMO PADRE NOSTRO FRANCESCO.
+[12] Queste cose avvennero nella città di Assisi, nel secondo anno del pontificato del signor papa Gregorio Nono, il diciassettesimo giorno delle calende del mese di agosto.
 </p>
+
+<aside>
+I MIRACOLI DI SAN FRANCESCO. 
+NEL NOME DI CRISTO COMINCIANO I MIRACOLI DEL SANTISSIMO PADRE NOSTRO FRANCESCO.
+</aside>
 
 <p id="127">
 [1] <ref to="2 Cor 8:9; 2 Cor 13:13"> Invocando supplici la grazia di Gesù Cristo nostro Signore </ref>, per ravvivare e accrescere la devozione dei presenti e per rafforzare la fede dei posteri, sotto la <ref to="Dan 9:25">guida di Cristo</ref> trascriveremo brevemente ma con verità i miracoli che, come si è detto, furono letti per intero alla presenza del signor papa Gregorio e annunciati al popolo. I. - I paralitici risanati.
