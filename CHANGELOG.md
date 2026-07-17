@@ -8,6 +8,32 @@ although it not being a library and not exposing any APIs means the definitions 
 might be somewhat loose or subjective.
 
 
+## [1.5.0] - 2026-07-17
+
+### Added
+- **Four works split out of the Opuscula** into standalone books, each with its
+  Italian and English translations and annotation sidecar: *Admonitiones*
+  (`adm`), *Officium Passionis Domini* (`offpass`), *Regula bullata* (`regb`),
+  and *Regula non bullata* (`regnb`). The `Opuscula` book keeps the remaining
+  shorter pieces (letters, prayers, the *Canticum Fratris Solis*, …).
+- **Book categories.** A new `books/categories.yaml` defines a closed set of
+  collections (spec: *Categories* in `spec/books.md`), and every source book
+  now carries `category` / `sequence` frontmatter placing it in the browsing
+  hierarchy. Category headings are localized by UI language.
+- **Spec: `label_format="heading"`** — a paragraph's `label` may be promoted to
+  a section heading, expressing a work's internal chapters when the work is not
+  split into its own book (no new heading levels introduced).
+- **Spec: `layout` attribute** (`prose` / `verse` / `psalm`) — marks non-prose
+  paragraphs whose line structure is part of the text: `verse` preserves the
+  authored line breaks (hymns), `psalm` additionally breaks each verse at its
+  `<caesura>` marks so pointed chant reads as half-lines.
+
+### Changed
+- Normalized author names across all frontmatter, and corrected the attributed
+  composition dates of the Opuscula-family books.
+- Refined and polished the editorial descriptions (and their translations) of
+  every book.
+
 ## [1.4.0] - 2026-07-12
 
 ### Added

@@ -38,6 +38,15 @@ can take elsewhere.
 | **3Soc** | Legenda Trium Sociorum | The Three Companions | Quaracchi |
 | **Testamentum** | Testamentum S. Francisci | Francis of Assisi | Quaracchi |
 | **Opuscula** | Opuscula Omnia (the writings of Francis) | Francis of Assisi | Esser (Grottaferrata, 1978) |
+| **adm** | Admonitiones | Francis of Assisi | Esser (Grottaferrata, 1978) |
+| **offpass** | Officium Passionis Domini | Francis of Assisi | Esser (Grottaferrata, 1978) |
+| **regb** | Regula bullata | Francis of Assisi | Esser (Grottaferrata, 1978) |
+| **regnb** | Regula non bullata | Francis of Assisi | Esser (Grottaferrata, 1978) |
+
+The *Admonitiones*, the *Officium Passionis*, and the two Rules are Francis's
+own works, split out of the *Opuscula* as standalone books; `Opuscula` keeps
+the remaining shorter pieces. `books/categories.yaml` groups the corpus into
+ordered collections (biographies, writings, …).
 
 Each work is present in the original **Latin**, with **Italian** and **English**
 translations. (The translations are machine-generated drafts — see the
@@ -91,6 +100,7 @@ books/         Source texts and translations, plus annotation sidecars:
                  <id>.md         canonical Latin text
                  <id>.<lang>.md  translation (e.g. 1Cel.it.md)
                  <id>.yaml       semantic annotations for that work
+books/categories.yaml  Closed set of collections grouping the books
 topics/        Topic pages — <type>/<value>.md (+ translations)
 editor-notes/  Free-text editorial notes (not ingested into the app)
 topics/topics.yaml    Controlled vocabulary of valid topic values
